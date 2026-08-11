@@ -1,0 +1,93 @@
+🛡️ [모든 단계 공통 참조 문구] (복사해서 프롬프트 맨 앞에 붙여넣기)
+"Please keep ONLY the character's facial features, light brown hair styled in a high ponytail with braided details, purple eyes, and the overall cute anime art style from the reference image (star0.png). Do NOT copy the pose, holding the sword, or the glowing background from the reference. Create a completely new pose, background, outfit, and facial expression matching the following medieval fantasy scenario:"
+
+🌹 새로운 중세 판타지 호감도 10단계 프롬프트 (성장과 헌신 스토리)
+[1단계] 첫 훈련의 긴장감 (Clumsy but Determined)
+컨셉: 지휘관(유저)에게 잘 보이고 싶어 잔뜩 긴장한 첫 훈련병 시절.
+의상/장소: 기본 가죽 훈련복. 아침 햇살이 비치는 흙먼지 날리는 연무장.
+포즈/표정: 땀을 닦으며 꼿꼿하게 차렷 자세를 하려는 풋풋한 포즈. 굳어있지만 의욕 넘치는 눈빛.
+
+Plaintext
+[공통 참조 문구]
+Stage 1 intimacy. Setting: A dusty medieval training ground in the early morning sunlight. Outfit: Basic, slightly oversized leather training gear and a simple tunic. Pose: Standing stiffly at attention, wiping a drop of sweat from her cheek with the back of her hand. Expression: Determined, highly motivated, but clearly nervous and awkward, trying hard to impress the viewer. (9:16 aspect ratio)
+
+[2단계] 달콤한 첫 승리 (Shared Rations)
+컨셉: 첫 임무를 무사히 마치고 숲 속에서 유저와 식량을 나눠 먹는 평화로운 시간.
+의상/장소: 흙이 살짝 묻은 갑옷. 밝고 싱그러운 숲 속 쓰러진 통나무 위.
+포즈/표정: 사과나 빵을 카메라(유저) 쪽으로 불쑥 내미는 포즈. 뿌듯하고 자랑스러운 맑은 미소.
+
+Plaintext
+[공통 참조 문구]
+Stage 2 intimacy. Setting: A bright, sunlit forest clearing sitting on a fallen mossy log. Outfit: Light medieval armor with a few scuff marks and a green tunic. Pose: Leaning forward excitedly, offering a shiny red apple toward the camera. Expression: A bright, proud, and innocent smile, happy to share her achievement with the viewer. (9:16 aspect ratio)
+
+[3단계] 두근거리는 치료 (Healing Wounds)
+컨셉: 전투 중 다친 그녀의 상처를 유저가 치료해 주자, 갑자기 이성으로서의 떨림을 느끼는 순간.
+의상/장소: 팔 소매를 걷어 올린 리넨 셔츠. 빛이 들어오는 조용한 의무 텐트 안.
+포즈/표정: 팔을 내어준 채, 유저의 얼굴을 힐끗 보며 부끄러운 듯 시선을 피함. 뺨에 눈에 띄는 홍조.
+
+Plaintext
+[공통 참조 문구]
+Stage 3 intimacy. Setting: Inside a quiet, sunlit medieval medical tent with potions on a table. Outfit: Armor removed, wearing a simple linen shirt with the sleeves rolled up. Pose: Holding one arm out to be bandaged, but turning her body slightly away in shyness. Expression: Glancing sideways at the viewer with wide, flustered eyes and a noticeable blush, feeling a sudden romantic spark. (9:16 aspect ratio)
+
+[4단계] 축제의 밤, 숨겨둔 모습 (The Festival Night)
+컨셉: 마을 축제 날, 유저에게 예쁘게 보이고 싶어 몰래 원피스를 입고 나타난 모습.
+의상/장소: 귀엽고 발랄한 중세풍 오프숄더 마을 축제 드레스. 등불이 가득한 시끌벅적한 밤거리.
+포즈/표정: 뒷짐을 지고 몸을 앞으로 살짝 기울임. 칭찬을 기대하는 초롱초롱하고 수줍은 눈빛.
+
+Plaintext
+[공통 참조 문구]
+Stage 4 intimacy. Setting: A lively medieval town street at night, beautifully illuminated by warm glowing festival lanterns. Outfit: A cute, festive off-shoulder medieval peasant dress with a ribbon corset. Pose: Standing with her hands clasped behind her back, leaning forward slightly toward the viewer. Expression: A shy, expectant, and incredibly sweet smile, hoping to be complimented on her outfit. (9:16 aspect ratio)
+
+[5단계] 쏟아지는 비를 피해 (A Sudden Rainstorm)
+컨셉: 갑작스러운 비를 피해 낡은 신전으로 대피. 추위에 떨며 유저의 망토를 덮고 바짝 붙어앉음.
+의상/장소: 물에 살짝 젖은 튜닉. 어둡고 비 내리는 고대 유적 안.
+포즈/표정: 큰 망토를 몸에 두르고 무릎을 모아 앉음. 유저를 향해 완전히 의지하는 크고 순수한 눈망울.
+
+Plaintext
+[공통 참조 문구]
+Stage 5 intimacy. Setting: Inside a dark, ruined stone temple while a heavy rainstorm pours outside. Outfit: A slightly wet medieval tunic, wrapped tightly in a large, heavy fur cloak (the viewer's cloak). Pose: Sitting on the stone floor with her knees pulled to her chest, huddling for warmth. Expression: Looking up at the viewer with wide, trusting, and affectionate eyes, feeling safe and protected. (9:16 aspect ratio)
+
+[6단계] 보초 서는 밤의 고백 (The Watchtower Confession)
+컨셉: 모두가 잠든 밤, 보초를 서다가 유저에게 "당신을 위해 검을 휘두르겠다"며 마음을 전함.
+의상/장소: 두꺼운 털망토를 두른 갑옷 차림. 별이 쏟아지는 높은 감시탑 위.
+포즈/표정: 밤하늘 대신 유저의 얼굴을 빤히 바라봄. 찬 바람에 코끝이 붉어졌지만 진지하고 애틋한 미소.
+
+Plaintext
+[공통 참조 문구]
+Stage 6 intimacy. Setting: Atop a high wooden watchtower under a breathtaking, star-filled night sky. Outfit: Wearing her medieval armor covered by a thick fur-lined winter cloak. Pose: Standing close, ignoring the scenery to look directly at the viewer. Expression: A deeply sincere, romantic, and affectionate smile, cheeks and nose slightly pink from the cold, silently confessing her love. (9:16 aspect ratio)
+
+[7단계] 절체절명의 구원 (Desperate Protection)
+컨셉: 유저를 향한 치명적인 공격을 막아내고, 유저가 무사한지 확인하며 감정이 폭발하는 순간.
+의상/장소: 전투의 흔적이 남은 흙투성이 갑옷. 마법 불꽃이 일렁이는 치열한 전장.
+포즈/표정: 무기를 내던지고 유저의 뺨(화면)으로 양손을 다급히 뻗는 구도. 안도감에 눈물이 터지기 직전의 격렬한 애정.
+
+Plaintext
+[공통 참조 문구]
+Stage 7 intimacy. Setting: A dramatic battlefield clearing with glowing magical embers floating in the air. Outfit: Battle-worn medieval armor with dirt and scuff marks, showing she just fought fiercely. Pose: Reaching both hands forward desperately to touch the viewer's face, having dropped her weapon. Expression: Intense emotional relief, eyes welling up with tears, heavily flushed, showing overwhelming love and desperation to keep the viewer safe. (9:16 aspect ratio)
+
+[8단계] 평화로운 아침 (Morning After the Victory)
+컨셉: 모든 여정이 끝난 후, 여관방에서 맞이하는 눈부신 아침. 완전한 무장해제.
+의상/장소: 유저의 옷을 빌려 입은 듯한 헐렁하고 부드러운 오버핏 니트/셔츠. 햇살이 가득 쏟아지는 침대 위.
+포즈/표정: 베개를 끌어안고 엎드려 뒹굴거리며 쳐다봄. 세상에서 가장 편안하고 나른한 사랑스러운 미소.
+
+Plaintext
+[공통 참조 문구]
+Stage 8 intimacy. Setting: A warm, sun-drenched bedroom on a peaceful morning. Outfit: Wearing a very soft, oversized white knitted sweater or loose tunic that looks borrowed. Pose: Lying on her stomach on the bed, lazily hugging a soft pillow while looking up at the camera. Expression: An unguarded, lazy, and profoundly happy morning smile, radiating pure love and domestic bliss. (9:16 aspect ratio)
+
+[9단계] 기사의 맹세 (The Knight's Oath)
+컨셉: 정식 기사 서임식 날, 유저만을 위한 '나만의 기사'가 되겠다고 단 둘이 있는 방에서 무릎을 꿇음.
+의상/장소: 화려하고 제복 느낌이 나는 화이트&골드 정식 기사 예복. 고급스러운 영주의 서재.
+포즈/표정: 장난스럽고 로맨틱하게 한쪽 무릎을 꿇고 유저의 손(화면 아래쪽)에 입을 맞추려는 자세. 충성심과 깊은 사랑이 섞인 매혹적인 눈빛.
+
+Plaintext
+[공통 참조 문구]
+Stage 9 intimacy. Setting: Inside an elegant, sunlit lord's study with bookshelves and rich carpets. Outfit: A spectacular, tailored white and gold formal knight-commander uniform with a cape. Pose: Kneeling gracefully on one knee, reaching up to gently hold the viewer's hand as if about to kiss it. Expression: A completely devoted, passionate, and deeply romantic gaze, swearing eternal loyalty and love. (9:16 aspect ratio)
+
+[10단계] 새로운 시작, 영원한 동반자 (Eternal Journey)
+컨셉: 방 안에서의 결혼식이 아닌, 평생을 함께 모험하기로 약속하며 밖으로 달려나가는 벅찬 엔딩.
+의상/장소: 웨딩드레스와 모험가 복장이 결합된 '모험가 신부' 차림 (짧은 프릴 스커트, 레이스 망토). 끝없이 펼쳐진 화사한 꽃밭.
+포즈/표정: 유저의 손을 잡아끌며 앞으로 힘차게 나아가려는 역동적인 포즈. 눈부신 햇살 아래, 가장 환희에 찬 영원의 미소.
+
+Plaintext
+[공통 참조 문구]
+Stage 10 final climax intimacy. Setting: An endless, breathtaking field of blooming flowers under a glorious, vibrant sunrise. Outfit: A unique "adventurer's bridal gown" mixing white wedding lace and frills with practical leather boots and a sheer cape. Pose: Reaching back to grab the viewer's hand, pulling them forward into the flowery field with dynamic energy. Expression: Absolute ecstasy, a wide, breathtaking smile filled with tears of joy, ready for an eternal romantic journey together. (9:16 aspect ratio)

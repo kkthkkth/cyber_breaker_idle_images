@@ -1,0 +1,93 @@
+🛡️ [모든 단계 공통 참조 문구] (반드시 복사해서 맨 앞에 붙여넣기)
+"Please keep ONLY the character's facial features, ash-blonde hair styled in a high ponytail, golden-amber eyes, and the energetic, confident anime art style from the reference image (heart3.png). Do NOT copy the pose, leaning on the desk, holding the pen, or the background from the reference. Create a completely new pose, background, outfit, and facial expression matching the following medieval fantasy scenario:"
+
+🌹 모험가 그녀의 로맨틱한 성장기, 호감도 10단계 프롬프트
+[1단계] 날선 경계 (The Initial Stand)
+컨셉: 숲길에서 마주친 첫 만남. 길을 막아서며 유저를 시험하는 당찬 모습.
+의상/장소: 가벼운 여행용 튜닉과 가죽 장비. 울창하고 어두운 숲속 오솔길.
+포즈/표정: 한쪽 발을 살짝 앞으로 내딛고 허리에 손을 얹은 채, 턱을 살짝 치켜들고 유저를 도발적으로 쳐다보는 구도.
+
+Plaintext
+[공통 참조 문구]
+Stage 1 intimacy in a medieval fantasy setting. Setting: A dense, shadowy forest path at dusk with twisted roots. Outfit: Agile adventurer gear, a practical green tunic, and light leather armor. Pose: Standing confidently with one foot forward, hand on hip, looking down at the camera with a challenging and slightly skeptical tilt of the head. Expression: A bold, scrutinizing, and untrusting look with bright golden-amber eyes. (9:16 aspect ratio)
+
+[2단계] 모닥불의 온기 (Campfire Comfort)
+컨셉: 첫 임무 성공 후, 캠프파이어 앞에서 처음으로 무장 해제하고 유저에게 다가온 단계.
+의상/장소: 갑옷을 벗고 셔츠 차림. 밤하늘 아래 타오르는 캠프파이어 앞.
+포즈/표정: 불 옆에 무릎을 꿇고 앉아 유저에게 따뜻한 차가 담긴 컵을 건네는 모습. 살짝 풀어져서 웃는 순수한 미소.
+
+Plaintext
+[공통 참조 문구]
+Stage 2 intimacy in a medieval fantasy setting. Setting: An open field at night with a bright, crackling campfire and a starry sky. Outfit: Simple linen shirt with the sleeves rolled up, armor removed. Pose: Kneeling by the fire, holding out a warm cup to the viewer with a friendly, welcoming gesture. Expression: A soft, warm, and genuine smile, showing the first sign of trust and camaraderie. (9:16 aspect ratio)
+
+[3단계] 지도 위의 눈맞춤 (Study Session)
+컨셉: 다음 목적지를 상의하며, 지도 위로 머리를 맞대고 고민하는 지적인 유대감.
+의상/장소: 편안한 조끼 차림. 낡은 고지도와 펜이 놓인 모험가 길드 구석 자리.
+포즈/표정: 지도 위로 상체를 숙여 턱을 괸 채, 유저의 얼굴을 힐끔 바라보는 구도. 진지하지만 생기 있는 눈빛.
+
+Plaintext
+[공통 참조 문구]
+Stage 3 intimacy in a medieval fantasy setting. Setting: A quiet corner of an adventurer's guild with a wooden table covered in old maps and scrolls. Outfit: A casual, neat adventurer's vest and shirt. Pose: Leaning over the table, propping her chin on her hand, looking sideways at the viewer's face with keen interest. Expression: An intelligent, focused yet playful expression, with a bright spark of interest in her golden-amber eyes. (9:16 aspect ratio)
+
+[4단계] 산마루의 노을 (Sunset Lookout)
+컨셉: 모험 중 가장 높은 산마루에 도착. 노을을 보며 유저에게 자신의 꿈을 이야기하는 로맨틱한 순간.
+의상/장소: 펄럭이는 가벼운 망토. 황금빛으로 물든 깎아지른 절벽 끝.
+포즈/표정: 난간(혹은 바위)에 한쪽 다리를 올리고 기대앉아, 유저 쪽으로 고개를 돌려 웃어줌. 얼굴을 붉히는 수줍음.
+
+Plaintext
+[공통 참조 문구]
+Stage 4 intimacy in a medieval fantasy setting. Setting: A majestic cliffside lookout at sunset, with golden clouds and mountains in the background. Outfit: A light travel cape over a simple tunic. Pose: Sitting on the edge of a rock, leaning back with one hand planted behind her, looking at the viewer with a sweet smile. Expression: Dreamy, heart-fluttering, with a soft blush and a gaze filled with deep romantic longing. (9:16 aspect ratio)
+
+[5단계] 폭풍우 속의 은신처 (Stormy Shelter)
+컨셉: 예기치 못한 비를 피해 들어온 거대한 나무 구멍(또는 동굴) 안. 한기가 들어 유저의 품에 파고듦.
+의상/장소: 젖은 망토를 벗어 던진 가벼운 옷차림. 어둡고 아늑한 천연 동굴/나무 안쪽.
+포즈/표정: 유저의 어깨에 기대어 앉아, 한 손으로 유저의 옷자락을 꽉 쥐고 있는 모습. 보호받고 싶어 하는 애틋한 표정.
+
+Plaintext
+[공통 참조 문구]
+Stage 5 intimacy in a medieval fantasy setting. Setting: Inside a hollowed-out ancient tree trunk or small hidden cave during a thunderstorm. Outfit: Simple, dry medieval undershirt, looking slightly disheveled from the storm. Pose: Leaning closely against the viewer's shoulder, clutching the viewer's sleeve tightly for comfort. Expression: Soft, trusting, and affectionate, looking at the viewer with wide, vulnerable eyes. (9:16 aspect ratio)
+
+[6단계] 흐르는 강가 (Riverbank Dreams)
+컨셉: 모험 중 만난 맑은 강가에서 발을 담그고 휴식. 유저에게 사랑을 고백하는 몽환적인 시간.
+의상/장소: 긴 치마를 걷어올리고 강물에 발을 담근 모습. 꽃이 흐드러진 강변.
+포즈/표정: 강물에 비친 서로를 보다가 유저를 향해 장난스레 물을 튀기며 깔깔 웃는 모습. 맑고 순수한 매력.
+
+Plaintext
+[공통 참조 문구]
+Stage 6 intimacy in a medieval fantasy setting. Setting: A pristine, crystal-clear riverbank lined with wildflowers under the moonlight. Outfit: A light, airy medieval dress with the skirt lifted up slightly. Pose: Sitting by the water's edge, splashing a tiny bit of water toward the viewer with a playful laugh. Expression: A dreamy, alluring, and carefree smile with sparkling, deeply affectionate golden-amber eyes. (9:16 aspect ratio)
+
+[7단계] 수련장의 승부 (Sparring Intensity)
+컨셉: 연습 대련 도중, 기술을 걸다 중심을 잃고 유저와 초밀착하게 된 순간.
+의상/장소: 가벼운 연습용 기사 복장. 햇살이 비치는 야외 수련장.
+포즈/표정: 유저를 깔고 앉거나 바짝 밀착한 상태에서, 숨을 헐떡이며 굳어버린 구도. 얼굴이 터질 듯 달아오름.
+
+Plaintext
+[공통 참조 문구]
+Stage 7 intimacy in a medieval fantasy setting. Setting: An outdoor training courtyard with stone flooring, bright daylight. Outfit: Breathable, simple practice gear suitable for training. Pose: A dynamic, close-proximity shot where she has accidentally pinned or leaned closely into the viewer, breathing heavily. Expression: Heavily flushed face, startled and embarrassed, with parted lips and intense, passionate eyes. (9:16 aspect ratio)
+
+[8단계] 전승의 맹세 (The Sacred Altar)
+컨셉: 신성한 고대 제단에서 유저와 평생을 함께할 것을 다짐하는 성스러운 순간.
+의상/장소: 흰색과 금색의 성스러운 성직자 로브. 빛이 쏟아지는 고대 제단 위.
+포즈/표정: 두 손을 가슴에 모으고 무릎을 꿇고 앉아, 유저를 바라보며 진심을 담아 약속하는 표정.
+
+Plaintext
+[공통 참조 문구]
+Stage 8 intimacy in a medieval fantasy setting. Setting: A majestic ancient altar filled with glowing magical floating particles and light rays. Outfit: Elegant, ceremonial priestess-like white robes with gold embroidery. Pose: Kneeling gracefully before the viewer, hands clasped to her chest, looking up with total devotion. Expression: Deeply sincere, mesmerized, and filled with complete, selfless love. (9:16 aspect ratio)
+
+[9단계] 여행자의 휴식 (Tired Traveler)
+컨셉: 긴 여정 끝에 유저의 무릎을 베고 잠든 모습. 잠결에 유저의 손을 더듬어 찾는 무방비함.
+의상/장소: 여행용 겉옷을 벗은 편안한 차림. 꽃이 가득한 언덕 위.
+포즈/표정: 유저의 무릎을 베고 누워, 살짝 미소 지으며 유저의 손가락을 꼼지락거리는 구도. 꿈속에서조차 유저를 찾는 애틋함.
+
+Plaintext
+[공통 참조 문구]
+Stage 9 intimacy in a medieval fantasy setting. Setting: A peaceful hilltop covered in soft grass and spring flowers. Outfit: Soft, simple travel clothes, looking completely relaxed. Pose: Lying with her head resting on the viewer's lap, holding the viewer's hand comfortably while sleeping. Expression: An extremely sweet, peaceful smile, showing unconditional trust and a deep, dream-like romance. (9:16 aspect ratio)
+
+[10단계] 영원한 약속 (Eternal Journey)
+컨셉: 모든 모험을 마치고, 이제는 전우가 아닌 연인으로서 새로운 인생을 시작하려 길을 떠나는 순간.
+의상/장소: 웨딩드레스와 모험가 장비를 믹스한 화려하고 역동적인 예복. 일출이 찬란한 대륙의 끝.
+포즈/표정: 유저의 손을 잡고 앞서서 힘차게 달리다가, 뒤를 돌아보며 가장 찬란하게 웃어주는 구도. 세상 전부를 얻은 듯한 행복한 표정.
+
+Plaintext
+[공통 참조 문구]
+Stage 10 final climax intimacy in a medieval fantasy setting. Setting: A breathtaking cliffside overlooking the vast world at the peak of a glorious sunrise. Outfit: A majestic, unique wedding gown combined with adventurer armor pieces, symbolizing her identity. Pose: Running ahead while pulling the viewer's hand, turning back with a wide, dynamic, joyful posture. Expression: Absolute ecstasy, tears of joy, and the most captivating, radiant smile reflecting eternal love. (9:16 aspect ratio)

@@ -1,0 +1,93 @@
+🛡️ [모든 단계 공통 참조 문구] (반드시 복사해서 맨 앞에 붙여넣기)
+"Please keep ONLY the character's facial features, short reddish-brown hair, bright green eyes, and the energetic, cute anime art style from the reference image (star0_2.png). Do NOT copy the pose, holding the sword, or the glowing magic circle background from the reference. Create a completely new pose, background, outfit, and facial expression matching the following medieval fantasy scenario:"
+
+🌹 당차고 해맑은 그녀의 호감도 10단계 프롬프트 세트
+[1단계] 경계하는 동료 (Distant Companion)
+컨셉: 첫 훈련. 유저(지휘관)에게 얕보이지 않으려고 잔뜩 힘을 주고 굳어있는 풋풋한 모습.
+의상/장소: 기본 파란색 튜닉과 투박한 가죽 갑옷. 흙먼지 날리는 훈련장.
+포즈/표정: 팔짱을 꽉 끼고 허세를 부리듯 서 있는 자세. 진지하고 매서운 척하지만 어딘가 어설프고 긴장한 눈빛.
+
+Plaintext
+[공통 참조 문구]
+Stage 1 intimacy in a medieval fantasy setting. Setting: A dusty medieval training ground in the daytime. Outfit: Basic adventurer gear, a blue tunic with sturdy, slightly oversized brown leather armor. Pose: Standing stiffly with arms crossed tightly across her chest, trying to look big and intimidating. Expression: Trying hard to look serious, stoic, and tough, but clearly nervous with wide, untrusting green eyes. (9:16 aspect ratio)
+
+[2단계] 가벼운 신뢰 (Gaining Trust)
+컨셉: 임무 후 길드에서 무장 해제 상태로 시원하게 음료를 들이켜며 털털하게 웃는 단계.
+의상/장소: 갑옷을 벗고 소매를 걷어붙인 편한 셔츠. 시끌벅적한 모험가 길드.
+포즈/표정: 의자에 거꾸로 앉거나 턱을 괸 채, 커다란 나무 머그잔을 들고 호탕하게 웃는 표정.
+
+Plaintext
+[공통 참조 문구]
+Stage 2 intimacy in a medieval fantasy setting. Setting: Inside a warm, bustling adventurer guildhall with wooden tables and stone walls. Outfit: Armor pieces removed, wearing a comfortable medieval linen shirt with rolled-up sleeves and a leather belt. Pose: Sitting casually at a wooden table, leaning forward enthusiastically while holding a large wooden tankard. Expression: A bright, energetic, and tomboyish grin, looking at the viewer with relaxed and friendly green eyes. (9:16 aspect ratio)
+
+[3단계] 사적인 친밀감 (Friendly Bond)
+컨셉: 맑은 날, 장난기가 발동해 유저의 얼굴 앞으로 훅 다가와 장난을 치는 티 없는 맑음.
+의상/장소: 활동하기 편한 산뜻한 시골 마을의 짧은 원피스. 햇살 비치는 마을 광장.
+포즈/표정: 벤치에 앉아 상체를 유저 쪽으로 불쑥 내미는 역동적인 포즈. 호기심 많고 개구쟁이 같은 해맑은 미소.
+
+Plaintext
+[공통 참조 문구]
+Stage 3 intimacy in a medieval fantasy setting. Setting: A peaceful medieval village square under bright afternoon sunlight. Outfit: A casual, cute medieval town dress with a shorter skirt allowing for easy movement. Pose: Sitting on a stone bench but leaning her upper body far forward toward the camera in a playful, sudden motion. Expression: A huge, cheerful, and mischievous smile, laughing warmly and looking directly at the viewer. (9:16 aspect ratio)
+
+[4단계] 설레는 시선 (Romantic Spark)
+컨셉: 축제 밤. 평소 안 입던 예쁜 드레스를 입고 나왔다가, 유저의 시선에 당황해 뚝딱거리는 순간.
+의상/장소: 귀여운 프릴이 달린 푸른색 데이트 드레스. 달빛 아래 성곽 정원.
+포즈/표정: 부끄러운 듯 뒷머리를 긁적이며 시선을 힐끗 빗겨감. 얼굴이 터질 듯 붉어진 홍조.
+
+Plaintext
+[공통 참조 문구]
+Stage 4 intimacy in a medieval fantasy setting. Setting: A romantic medieval castle garden at night under a glowing full moon and starry sky. Outfit: An unexpectedly cute and frilly blue medieval promenade dress, different from her usual tomboy style. Pose: Standing and awkwardly rubbing the back of her neck with one hand, looking slightly downward but glancing up. Expression: Highly flustered, shy, with heavily flushed red cheeks and a surprised, heart-fluttering gaze. (9:16 aspect ratio)
+
+[5단계] 비밀스러운 공간 (Private Room)
+컨셉: 여관방에서 단둘이 휴식. 완전히 무장 해제된 채 침대에서 뒹굴거리는 편안하고 귀여운 모습.
+의상/장소: 헐렁해서 어깨가 살짝 드러난 큰 셔츠. 촛불이 켜진 따뜻한 여관 방.
+포즈/표정: 침대에 편하게 아빠다리(양반다리)를 하고 앉아 베개를 껴안고 유저를 올려다봄. 포근하고 무방비한 미소.
+
+Plaintext
+[공통 참조 문구]
+Stage 5 intimacy in a medieval fantasy setting. Setting: A cozy, dimly lit medieval tavern room with a warm fireplace crackling in the background. Outfit: Relaxed medieval loungewear, an oversized, loose white linen shirt falling slightly off one shoulder. Pose: Sitting cross-legged comfortably on a wooden bed, hugging a soft pillow to her chest. Expression: A warm, unguarded, and deeply affectionate smile, showing complete trust and comfort with the viewer. (9:16 aspect ratio)
+
+[6단계] 깊어지는 밤 (Moonlit Intimacy)
+컨셉: 쾌활함을 거두고, 밤하늘 아래서 진심을 꾹꾹 눌러 담아 고백하는 진지하고 애틋한 순간.
+의상/장소: 얇고 편안한 면 슬립 드레스. 성 테라스.
+포즈/표정: 난간을 두 손으로 꼭 쥐고 유저를 빤히 올려다봄. 장난기 하나 없는 진지하고 로맨틱한 눈빛.
+
+Plaintext
+[공통 참조 문구]
+Stage 6 intimacy in a medieval fantasy setting. Setting: A high castle balcony overlooking a fantasy kingdom bathed in soft moonlight. Outfit: A simple, delicate white cotton medieval nightgown fluttering softly in the night breeze. Pose: Gripping the stone balcony railing with both hands, leaning closer to the viewer. Expression: Surprisingly serious and deeply romantic, with soft, affectionate green eyes and a tender, meaningful smile. (9:16 aspect ratio)
+
+[7단계] 숨 막히는 거리 (Heart-pounding Closeness)
+컨셉: 거침없는 성격답게 먼저 훅 다가오지만, 막상 너무 가까워지자 본인이 더 부끄러워하는 심쿵 모먼트.
+의상/장소: 짙은 푸른색 벨벳 슬립 드레스. 붉은 카페트가 깔린 영주 침실.
+포즈/표정: 카메라 앞까지 과감하게 고개를 내밀었으나, 입술을 살짝 벌린 채 당황한 듯 볼이 새빨개진 구도.
+
+Plaintext
+[공통 참조 문구]
+Stage 7 intimacy in a medieval fantasy setting. Setting: A luxurious medieval estate room lit by soft candlelight and warm shadows. Outfit: A form-fitting deep blue velvet medieval slip dress. Pose: A dramatic high-angle close-up shot, leaning aggressively close toward the camera/viewer as if making a bold move. Expression: Heavily flushed cheeks, slightly parted lips, looking a bit surprised by her own boldness, but eyes filled with intense romantic desire. (9:16 aspect ratio)
+
+[8단계] 완전한 헌신 (Unconditional Devotion)
+컨셉: 꼬리 치는 강아지처럼, 침대에서 유저를 기다리며 기쁨과 애정을 숨기지 못하는 순수한 헌신.
+의상/장소: 얇은 프릴 장식의 시스루 나이트웨어. 푹신한 침대.
+포즈/표정: 침대에 엎드려 두 발을 까딱거리며 턱을 괴고 쳐다봄. 주인을 기다린 듯 사랑이 뚝뚝 떨어지는 미소.
+
+Plaintext
+[공통 참조 문구]
+Stage 8 intimacy in a medieval fantasy setting. Setting: A romantic medieval bedroom with soft velvet drapes and warm candlelight flickering. Outfit: Sheer, delicate lace-trimmed medieval sleepwear draped loosely over her silhouette. Pose: Lying on her stomach on a plush bed, kicking her feet playfully in the air behind her, resting her chin on her hands. Expression: A deeply devoted, absolutely smitten smile with a heavy blush, radiating pure affection and joy. (9:16 aspect ratio)
+
+[9단계] 허락된 순수 (Surrender & Trust)
+컨셉: 처음 겪는 깊은 스킨십에 몹시 부끄러워하면서도, 유저를 믿고 온전히 자신을 내어주는 사랑스러운 무방비함.
+의상/장소: 실크 이불을 몸에 칭칭 감은 연출. 캐노피가 달린 왕실 침대.
+포즈/표정: 이불에 파묻혀 얼굴만 빼꼼 내민 채 쑥스럽게 웃음. 붉어진 볼과 벅찬 감정.
+
+Plaintext
+[공통 참조 문구]
+Stage 9 intimacy in a medieval fantasy setting. Setting: An enchanting royal canopy bed surrounded by floating magical sparks and warm ambient lighting. Outfit: Tastefully wrapped in a soft, white silk bedsheet, elegantly revealing her bare shoulders and collarbone. Pose: Sitting on the bed, hugging the silk sheet closely and burying the lower half of her face slightly in the fabric out of shyness. Expression: An extremely sweet, heavily blushing smile, peeking over the blanket with unconditional trust and deep romance. (9:16 aspect ratio)
+
+[10단계] 영원한 약속 (Eternal Love)
+컨셉: 점잖게 프로포즈를 받는 대신, 기쁨을 주체하지 못하고 와락! 뛰어들며 유저를 껴안는 가장 그녀다운 웨딩.
+의상/장소: 기동성이 좋은 귀여운 미니 기장의 레이스 웨딩 드레스와 부츠. 꽃비가 흩날리는 웅장한 신전.
+포즈/표정: 카메라(유저)를 향해 두 팔을 벌리고 펄쩍 뛰어오르듯(Jumping/Leaping) 안겨오는 역동적인 앵글. 눈물 콧물 쏙 빼며 환희에 차 웃는 얼굴.
+
+Plaintext
+[공통 참조 문구]
+Stage 10 final climax intimacy in a medieval fantasy setting. Setting: A grand medieval castle hall filled with ornate candelabras, scattered flower petals falling from the ceiling, and bright sunlight. Outfit: A cute, uniquely tailored medieval bridal gown with a shorter frilly skirt and stylish leather boots. Pose: Leaping forward dynamically with both arms outstretched in a massive, enthusiastic embrace, throwing herself at the viewer. Expression: Pure ecstasy, heavily flushed cheeks, eyes shining with happy tears, laughing loudly with a captivating, brilliant smile. (9:16 aspect ratio)

@@ -1,0 +1,93 @@
+🛡️ [모든 단계 공통 참조 문구] (반드시 복사해서 맨 앞에 붙여넣기)
+"Please keep ONLY the character's facial features, silver hair in a high ponytail, teal eyes, and the serious, dignified anime art style from the reference image (star0_4.png). Do NOT copy the pose, holding the sword, or the glowing background from the reference. Create a completely new pose, background, outfit, and facial expression matching the following medieval fantasy scenario:"
+
+🌹 차가운 엘리트 기사의 헌신, 호감도 10단계 프롬프트 세트
+[1단계] 엄격한 경계 (Strict Commander)
+컨셉: 첫 임무. 유저(신입 혹은 용사)의 실력을 인정하지 않고 차갑게 선을 긋는 완벽주의자.
+의상/장소: 망토가 휘날리는 네이비색 정식 기사 갑옷. 눈보라가 치는 북부 성벽의 새벽.
+포즈/표정: 팔짱을 끼고 고개를 살짝 돌려 유저를 곁눈질로 내려다보는 구도. 엄격하고 차가운 눈빛.
+
+Plaintext
+[공통 참조 문구]
+Stage 1 intimacy in a medieval fantasy setting. Setting: A snowy northern castle wall at dawn, with a harsh blizzard blowing. Outfit: Full elite knight armor with a long navy blue cape fluttering in the wind. Pose: Standing with her arms strictly crossed, looking over her shoulder to glance down at the camera. Expression: Stern, highly professional, cold, and evaluating with sharp teal eyes. (9:16 aspect ratio)
+
+[2단계] 작전 회의실의 신뢰 (Strategic Trust)
+컨셉: 유저의 뛰어난 전술에 놀라며, 처음으로 전우로서 얕은 미소를 보여주는 순간.
+의상/장소: 망토를 벗은 깔끔한 네이비색 조끼와 셔츠. 거대한 지도가 펼쳐진 따뜻한 작전 회의실.
+포즈/표정: 테이블 위 지도에 한 손을 짚고 상체를 숙인 채 유저를 올려다봄. 진지하지만 부드러워진 눈빛.
+
+Plaintext
+[공통 참조 문구]
+Stage 2 intimacy in a medieval fantasy setting. Setting: A grand medieval war room lit by a warm chandelier, featuring a large wooden map table. Outfit: Cape and armor removed, wearing a sleek navy blue vest over a crisp white shirt. Pose: Leaning over the map table with one hand resting on it, looking up at the viewer. Expression: Serious but noticeably softer, showing a faint, respectful smile of acknowledgment. (9:16 aspect ratio)
+
+[3단계] 예상치 못한 휴식 (Unexpected Break)
+컨셉: 훈련 후, 나무 그늘 아래서 물을 마시며 평소의 철두철미함을 풀고 편하게 쉬는 모습.
+의상/장소: 가벼운 반팔 튜닉 훈련복. 햇살이 눈부시게 비치는 거대한 고목나무 아래.
+포즈/표정: 풀밭에 주저앉아 수통(Canteen)을 건네는 포즈. 긴장이 풀린 맑고 상쾌한 미소.
+
+Plaintext
+[공통 참조 문구]
+Stage 3 intimacy in a medieval fantasy setting. Setting: A sunlit, peaceful meadow under a massive, ancient glowing tree. Outfit: Casual, light training tunic with no armor. Pose: Sitting relaxed on the grass, holding out a leather canteen to offer a drink to the viewer. Expression: Relaxed, letting her guard down, showing a genuine and refreshing small smile. (9:16 aspect ratio)
+
+[4단계] 서고에서의 시선 (Stolen Glances)
+컨셉: 왕립 도서관. 책을 찾는 척하며 몰래 유저를 바라보다 눈이 마주치자 당황하는 쿨데레의 틈.
+의상/장소: 단정하고 우아한 중세 학자풍 드레스. 먼지가 햇살에 부서지는 거대한 도서관.
+포즈/표정: 책장 뒤에 숨어 두꺼운 책을 가슴에 품고 빼꼼히 쳐다보는 구도. 들켜서 화들짝 놀란 홍조.
+
+Plaintext
+[공통 참조 문구]
+Stage 4 intimacy in a medieval fantasy setting. Setting: A grand royal library with towering bookshelves bathed in golden afternoon sunlight. Outfit: A refined, elegant scholarly medieval dress in dark blue and white. Pose: Peeking out from behind a bookshelf, holding a large thick book tightly to her chest. Expression: Surprised, eyes wide open in embarrassment, with a noticeable cute blush on her cheeks from being caught staring. (9:16 aspect ratio)
+
+[5단계] 폭설 속의 대피소 (Isolated Cabin)
+컨셉: 조난을 피해 들어온 산장. 추위에 떨다 유저의 큰 겉옷을 덮어쓰고 온기를 나누는 비밀스러운 시간.
+의상/장소: 유저의 헐렁하고 두꺼운 니트 셔츠. 장작불이 타오르는 아늑한 통나무 산장.
+포즈/표정: 벽난로 앞에 웅크려 앉아 무릎을 모으고 유저를 빤히 쳐다봄. 애틋하고 다정한 눈빛.
+
+Plaintext
+[공통 참조 문구]
+Stage 5 intimacy in a medieval fantasy setting. Setting: Inside a hidden, cozy wooden cabin during a heavy snowstorm, with a warm fireplace crackling. Outfit: Wearing an oversized, thick knitted winter shirt (clearly borrowed from the viewer). Pose: Sitting on the floor near the fire, pulling her knees up to her chest for warmth. Expression: Very warm, vulnerable, and deeply affectionate, looking intensely at the viewer. (9:16 aspect ratio)
+
+[6단계] 무도회의 발코니 (The Masquerade Balcony)
+컨셉: 딱딱한 기사단장이 아닌 한 명의 여인으로서, 무도회장을 빠져나와 유저에게 춤을 청하는 밤.
+의상/장소: 화려하고 숨막히게 아름다운 은빛과 네이비색의 야회복. 은하수가 빛나는 성의 발코니.
+포즈/표정: 유저를 향해 한 손을 우아하게 내미는 포즈. 매혹적이고 낭만적인, 사랑에 빠진 미소.
+
+Plaintext
+[공통 참조 문구]
+Stage 6 intimacy in a medieval fantasy setting. Setting: A grand marble balcony overlooking a festive castle under a breathtaking starry night sky. Outfit: A gorgeous, breathtakingly elegant silver and navy blue evening gown, off the shoulders. Pose: Reaching one hand out gracefully toward the viewer as if asking for a secret dance. Expression: Enchanting, slightly shy but bold, with a deeply romantic and captivating gaze. (9:16 aspect ratio)
+
+[7단계] 신비로운 온천 (Mystical Hot Spring)
+컨셉: 전투 중 다친 상처를 치료하기 위해 찾은 마력의 온천. 단둘이 남겨져 숨소리마저 들릴 듯한 치명적 거리.
+의상/장소: 물에 젖어 살결이 비치는 하얀 리넨 목욕 가운. 푸른 마나석이 빛나는 안개 낀 노천탕.
+포즈/표정: 허리까지 오는 물속에 서서 카메라(유저) 쪽으로 훅 다가온 하이앵글. 열기와 부끄러움으로 달아오른 얼굴과 촉촉한 눈.
+
+Plaintext
+[공통 참조 문구]
+Stage 7 intimacy in a medieval fantasy setting. Setting: A mystical, steaming natural hot spring surrounded by glowing blue mana stones and thick mist. Outfit: A simple, wet white linen bathing wrap clinging to her figure. Pose: Standing waist-deep in the water, leaning aggressively close toward the camera/viewer. Expression: Face heavily flushed from the heat and closeness, lips slightly parted, showing intense romantic desire and wet hair. (9:16 aspect ratio)
+
+[8단계] 그녀의 사적인 방 (Her Private Quarters)
+컨셉: 평소의 규율은 모두 벗어던지고, 오직 유저만을 위해 자신의 침실 문을 열어둔 헌신의 밤.
+의상/장소: 고급스럽고 짙은 푸른색의 실크 네글리제(수면복). 달빛과 촛불이 은은한 기사단장 침실.
+포즈/표정: 긴 소파(카우치)에 비스듬히 누워, 유저의 목덜미를 끌어당기듯 두 손을 뻗는 도발적이고 애절한 구도.
+
+Plaintext
+[공통 참조 문구]
+Stage 8 intimacy in a medieval fantasy setting. Setting: Her personal, elegant knight-commander's bedroom lit by soft moonlight and scattered candles. Outfit: A tasteful, elegant, and slightly revealing silk nightgown in deep blue. Pose: Reclining gracefully on a velvet chaise lounge, reaching both hands up toward the camera as if pulling the viewer down for a kiss. Expression: Passionate, deeply devoted, completely abandoning her strict facade to show overwhelming love. (9:16 aspect ratio)
+
+[9단계] 아침의 항복 (Morning Vulnerability)
+컨셉: 차가웠던 기사가 완전히 무너져 내린 다음 날 아침. 눈부신 햇살 아래 보여주는 궁극의 무방비함.
+의상/장소: 하얀 침대 시트만으로 몸을 가린 연출. 아침 햇살이 쏟아지는 거대한 창문 앞 침대.
+포즈/표정: 옆으로 누운 채 한 손을 뻗어 유저의 뺨(화면)을 어루만지는 구도. 세상을 다 가진 듯한 순수하고 평온한 미소.
+
+Plaintext
+[공통 참조 문구]
+Stage 9 intimacy in a medieval fantasy setting. Setting: A sun-drenched grand bed with pristine white sheets, morning light pouring through a large window. Outfit: Tastefully wrapped only in the white bedsheets, revealing her bare shoulders. Pose: Lying on her side on the bed, reaching one hand out to gently touch the viewer's cheek. Expression: Pure, unadulterated love, an incredibly soft, deeply trusting, and peaceful smile. (9:16 aspect ratio)
+
+[10단계] 검과 심장의 맹세 (Oath of the Sword and Heart)
+컨셉: 바다가 보이는 절벽 위. 웨딩드레스와 기사의 맹세를 결합한 궁극의 프로포즈 씬.
+의상/장소: 새하얀 웨딩드레스 위에 은빛 흉갑(Armor)을 덧댄 성스러운 발키리 룩. 일출이 비치는 장엄한 절벽.
+포즈/표정: 두 손을 가슴에 모은 채, 눈물을 흩뿌리며 유저를 향해 키스하듯 다가오는 구도. 벅차오르는 감격과 영원의 약속.
+
+Plaintext
+[공통 참조 문구]
+Stage 10 final climax intimacy in a medieval fantasy setting. Setting: A stunning, breathtaking cliffside overlooking a sparkling ocean during a glorious sunrise. Outfit: A spectacular "battle-bride" armor, combining a magnificent white lace wedding gown with elegant silver knight armor pieces. Pose: Holding her hands to her chest in a prayer-like gesture of joy, leaning forward intimately. Expression: Tears of absolute joy streaming down her flushed cheeks, radiating an overwhelmingly happy and beautiful smile. (9:16 aspect ratio)
