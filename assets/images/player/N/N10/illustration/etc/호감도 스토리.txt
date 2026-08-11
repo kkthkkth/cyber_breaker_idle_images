@@ -1,0 +1,103 @@
+🛡️ [모든 단계 공통 참조 문구] (반드시 복사해서 맨 앞에 붙여넣기)
+"Please keep ONLY the character's facial features, blonde hair styled in twin braids with blue ribbons, bright green eyes, and the pure, cute anime art style from the reference image (star0_7.png). Do NOT copy the pose, holding the sword, or the glowing background from the reference. Create a completely new pose, background, outfit, and facial expression matching the following medieval fantasy scenario:"
+
+🌹 동화 속 소녀의 순수한 사랑, 호감도 10단계 프롬프트
+[1단계] 수줍은 인사 (Timid Greeting)
+컨셉: 처음 파티에 합류한 날. 낯선 유저가 무서워(혹은 부끄러워) 눈도 제대로 못 마주치는 풋풋한 시골 소녀.
+의상/장소: 낡고 투박한 가죽 조끼와 파란 원피스. 따뜻한 오후의 조용한 시골길.
+포즈/표정: 두 손을 등 뒤로 꽉 쥐고 몸을 배배 꼬는 자세. 곁눈질로 힐끔 유저를 보는 몹시 긴장한 표정.
+
+Plaintext
+[공통 참조 문구]
+"Please keep ONLY the character's facial features, blonde hair styled in twin braids with blue ribbons, bright green eyes, and the pure, cute anime art style from the reference image (star0_7.png). Do NOT copy the pose, holding the sword, or the glowing background from the reference. Create a completely new pose, background, outfit, and facial expression matching the following medieval fantasy scenario:"
+Stage 1 intimacy in a medieval fantasy setting. Setting: A quiet, rustic dirt road in a sunny countryside village. Outfit: Her starting adventurer clothes, a simple blue dress with a slightly worn brown leather vest. Pose: Standing awkwardly with her hands clasped tightly behind her back, shifting her weight shyly. Expression: Very nervous, timid, and blushing slightly, peeking up at the viewer with wide, hesitant green eyes. (9:16 aspect ratio)
+
+[2단계] 서툰 보답 (Clumsy Gratitude)
+컨셉: 첫 임무 후, 유저의 도움에 감사하며 자신이 캔 약초(또는 열매)를 쑥스럽게 건네는 단계.
+의상/장소: 흙이 살짝 묻은 평상복. 울창하지만 햇살이 드는 평화로운 숲속 빈터.
+포즈/표정: 양손으로 야생 베리(또는 들꽃)가 담긴 작은 바구니를 앞으로 내미는 포즈. 긴장이 살짝 풀린 해맑고 순박한 미소.
+
+Plaintext
+[공통 참조 문구]
+"Please keep ONLY the character's facial features, blonde hair styled in twin braids with blue ribbons, bright green eyes, and the pure, cute anime art style from the reference image (star0_7.png). Do NOT copy the pose, holding the sword, or the glowing background from the reference. Create a completely new pose, background, outfit, and facial expression matching the following medieval fantasy scenario:"
+Stage 2 intimacy in a medieval fantasy setting. Setting: A peaceful forest clearing bathed in warm dappled sunlight. Outfit: Simple country clothes, slightly dusted with dirt from exploring. Pose: Holding out a small woven basket full of wild red berries toward the viewer with both hands. Expression: A pure, innocent, and bright smile, feeling proud and grateful, looking directly at the viewer. (9:16 aspect ratio)
+
+[3단계] 나란히 걷기 (Walking Together)
+컨셉: 장날, 마을 시장에서 유저의 옷깃을 살짝 쥐고 쫄래쫄래 따라다니는 귀여운 친밀감.
+의상/장소: 깨끗하게 세탁한 파란색 원피스와 리본. 북적이는 활기찬 중세 마을의 시장.
+포즈/표정: 옆에 서서 한 손으로 유저의 망토(혹은 소매) 끝자락을 살짝 쥐고 있는 구도. 호기심 가득하고 쾌활한 미소.
+
+Plaintext
+[공통 참조 문구]
+"Please keep ONLY the character's facial features, blonde hair styled in twin braids with blue ribbons, bright green eyes, and the pure, cute anime art style from the reference image (star0_7.png). Do NOT copy the pose, holding the sword, or the glowing background from the reference. Create a completely new pose, background, outfit, and facial expression matching the following medieval fantasy scenario:"
+Stage 3 intimacy in a medieval fantasy setting. Setting: A bustling, lively medieval market square filled with colorful tents and sunlight. Outfit: Her signature blue dress, looking freshly washed and neat. Pose: Standing close to the camera, gently pinching and holding the edge of the viewer's sleeve or cloak with one hand. Expression: Highly energetic, curious, and cheerful, pointing at something off-screen with a bright smile. (9:16 aspect ratio)
+
+[4단계] 들꽃 화관 (Flower Crown)
+컨셉: 유저가 머리에 들꽃으로 만든 화관을 씌워주자, 갑작스런 설렘에 얼굴이 확 달아오르는 순간.
+의상/장소: 리본이 달린 귀여운 하얀 튜닉 원피스. 봄꽃이 만발한 거대한 언덕.
+포즈/표정: 자신의 머리 위에 씌워진 화관을 두 손으로 살짝 만지며 흠칫 놀란 포즈. 귀까지 새빨개진 수줍은 시선.
+
+Plaintext
+[공통 참조 문구]
+"Please keep ONLY the character's facial features, blonde hair styled in twin braids with blue ribbons, bright green eyes, and the pure, cute anime art style from the reference image (star0_7.png). Do NOT copy the pose, holding the sword, or the glowing background from the reference. Create a completely new pose, background, outfit, and facial expression matching the following medieval fantasy scenario:"
+Stage 4 intimacy in a medieval fantasy setting. Setting: A breathtakingly beautiful, breezy hill completely covered in blooming spring wildflowers. Outfit: A cute, simple white tunic dress with delicate ribbon ties. Pose: Touching a rustic flower crown resting on her head with both hands, shoulders slightly raised in surprise. Expression: Startled, intensely shy, and heart-fluttering, with a heavy blush spreading across her cheeks and sweet green eyes. (9:16 aspect ratio)
+
+[5단계] 별이 쏟아지는 밤 (Starry Night)
+컨셉: 야영지에서 단둘이 밤하늘을 구경. 유저와 어깨가 닿자 콩닥거리는 가슴을 안고 힐끔거림.
+의상/장소: 두꺼운 담요를 둘러쓴 가벼운 파자마 차림. 모닥불이 꺼져가는 고요한 밤의 언덕.
+포즈/표정: 무릎을 모으고 앉아 밤하늘 대신 옆에 있는 유저의 얼굴을 빤히(하지만 쑥스럽게) 쳐다보는 애틋한 눈빛.
+
+Plaintext
+[공통 참조 문구]
+"Please keep ONLY the character's facial features, blonde hair styled in twin braids with blue ribbons, bright green eyes, and the pure, cute anime art style from the reference image (star0_7.png). Do NOT copy the pose, holding the sword, or the glowing background from the reference. Create a completely new pose, background, outfit, and facial expression matching the following medieval fantasy scenario:"
+Stage 5 intimacy in a medieval fantasy setting. Setting: A quiet, grassy hill at night under an incredibly clear, star-filled galaxy sky. Outfit: Wearing a simple medieval nightshirt, wrapped snugly in a thick, warm woven blanket. Pose: Sitting with her knees pulled to her chest, leaning slightly toward the camera. Expression: A soft, deeply affectionate, and slightly shy gaze, ignoring the stars to look fondly at the viewer. (9:16 aspect ratio)
+
+[6단계] 소나기 아래서 (Under the Rain)
+컨셉: 갑작스러운 비를 피해 큰 나뭇잎(혹은 유저의 겉옷) 아래로 함께 뛰어듦. 비에 젖어 묘하게 낭만적인 분위기.
+의상/장소: 빗물에 살짝 젖은 평상복. 커다란 고목나무 아래 좁은 공간.
+포즈/표정: 비를 피하려 유저 쪽으로 바짝 붙어 선 채, 고개를 들어 유저를 올려다봄. 촉촉하게 젖은 순수한 눈망울.
+
+Plaintext
+[공통 참조 문구]
+"Please keep ONLY the character's facial features, blonde hair styled in twin braids with blue ribbons, bright green eyes, and the pure, cute anime art style from the reference image (star0_7.png). Do NOT copy the pose, holding the sword, or the glowing background from the reference. Create a completely new pose, background, outfit, and facial expression matching the following medieval fantasy scenario:"
+Stage 6 intimacy in a medieval fantasy setting. Setting: Sheltering under the massive roots of an ancient giant tree during a sudden, soft rain shower. Outfit: Her blue dress, slightly damp from the rain, clinging softly to her. Pose: Standing very close, huddling for warmth, looking up directly into the camera. Expression: A dreamy, completely trusting, and romantic smile, eyes sparkling with pure affection and wet hair framing her face. (9:16 aspect ratio)
+
+[7단계] 귓속말의 거리 (Whispering Closeness)
+컨셉: 조용한 마차 안에서 비밀을 말하듯 유저의 귀에 얼굴을 바짝 가져다 대는 아찔한 스킨십.
+의상/장소: 단정한 시골 소녀풍의 원피스. 덜컹거리는 좁고 아늑한 마차 안.
+포즈/표정: 유저의 어깨를 짚고 카메라 앞까지 고개를 쑥 내민 줌인 구도. 본인이 더 부끄러워 입술을 살짝 깨문 홍조 띤 얼굴.
+
+Plaintext
+[공통 참조 문구]
+"Please keep ONLY the character's facial features, blonde hair styled in twin braids with blue ribbons, bright green eyes, and the pure, cute anime art style from the reference image (star0_7.png). Do NOT copy the pose, holding the sword, or the glowing background from the reference. Create a completely new pose, background, outfit, and facial expression matching the following medieval fantasy scenario:"
+Stage 7 intimacy in a medieval fantasy setting. Setting: Inside a cozy, softly lit traveling wooden carriage with warm afternoon light coming through the window. Outfit: A neat, charming country-style dress. Pose: A high-tension close-up, leaning aggressively forward, holding onto the viewer's shoulders, bringing her face inches away. Expression: Heavily flushed cheeks, biting her lower lip nervously but bravely maintaining an intense, passionate romantic gaze. (9:16 aspect ratio)
+
+[8단계] 그녀만의 안식처 (Her Safe Haven)
+컨셉: 모든 여행이 끝난 밤, 여관방 침대에서 오직 유저만을 기다리며 무방비하게 엎드려 있는 달콤한 시간.
+의상/장소: 귀여운 프릴 장식이 달린 면 소재의 하얀 잠옷(Nightgown). 푹신하고 포근한 여관 침대.
+포즈/표정: 침대에 엎드려 두 다리를 위로 까닥거리며, 턱을 괴고 유저를 사랑스럽게 올려다보는 미소.
+
+Plaintext
+[공통 참조 문구]
+"Please keep ONLY the character's facial features, blonde hair styled in twin braids with blue ribbons, bright green eyes, and the pure, cute anime art style from the reference image (star0_7.png). Do NOT copy the pose, holding the sword, or the glowing background from the reference. Create a completely new pose, background, outfit, and facial expression matching the following medieval fantasy scenario:"
+Stage 8 intimacy in a medieval fantasy setting. Setting: A warm, extremely cozy rustic bedroom lit by a crackling fireplace and soft candles. Outfit: A modest but adorable white cotton nightgown with tiny frills. Pose: Lying comfortably on her stomach on a plush bed, kicking her feet playfully in the air, resting her chin on her hands. Expression: A deeply devoted, overwhelmingly sweet, and happy smile with a soft blush, radiating pure love. (9:16 aspect ratio)
+
+[9단계] 아침 햇살과 순수 (Morning Sunshine)
+컨셉: 함께 눈을 뜬 아침. 꾸밈없는 가장 앳되고 맑은 얼굴로 아침 인사를 건네는 완벽한 신뢰의 순간.
+의상/장소: 하얀 이불을 끌어안고 있는 모습. 눈부신 아침 햇살이 쏟아지는 침대 위.
+포즈/표정: 부스스한 양갈래 머리를 한 채, 이불로 입가를 살짝 가리고 눈웃음을 치는 수줍고 벅찬 표정.
+
+Plaintext
+[공통 참조 문구]
+"Please keep ONLY the character's facial features, blonde hair styled in twin braids with blue ribbons, bright green eyes, and the pure, cute anime art style from the reference image (star0_7.png). Do NOT copy the pose, holding the sword, or the glowing background from the reference. Create a completely new pose, background, outfit, and facial expression matching the following medieval fantasy scenario:"
+Stage 9 intimacy in a medieval fantasy setting. Setting: A bright, sun-drenched bed with pristine white sheets, morning light pouring in. Outfit: Tastefully wrapped in a soft white bedsheet, looking perfectly comfortable. Pose: Sitting up slightly, hugging the thick blanket tightly to her chest and burying the lower half of her face in it out of shyness. Expression: An extremely sweet, eye-smiling, heavily blushing expression, showing unconditional trust and domestic bliss. (9:16 aspect ratio)
+
+[10단계] 동화 같은 영원 (Fairy Tale Ending)
+컨셉: 작은 시골 성당에서의 소박하지만 세상에서 가장 행복한 결혼식. 품에 와락 안기며 기쁨의 눈물을 흘리는 프로포즈.
+의상/장소: 들꽃 장식이 가득한 귀엽고 사랑스러운 미니 웨딩드레스. 오색 스테인드글라스 빛이 비치는 소박한 신전.
+포즈/표정: 두 팔을 벌려 유저의 목을 와락 끌어안으려(Embrace) 달려드는 역동적인 구도. 감격에 겨워 펑펑 울며 웃는 순백의 미소.
+
+Plaintext
+[공통 참조 문구]
+"Please keep ONLY the character's facial features, blonde hair styled in twin braids with blue ribbons, bright green eyes, and the pure, cute anime art style from the reference image (star0_7.png). Do NOT copy the pose, holding the sword, or the glowing background from the reference. Create a completely new pose, background, outfit, and facial expression matching the following medieval fantasy scenario:"
+Stage 10 final climax intimacy in a medieval fantasy setting. Setting: Inside a small, charming rustic church illuminated by beautiful colorful stained-glass sunlight. Outfit: An incredibly adorable, slightly shorter white wedding dress adorned with wild spring flowers. Pose: Leaping forward dynamically with both arms wide open in a massive, enthusiastic embrace, throwing herself at the viewer. Expression: Pure ecstasy, heavily flushed cheeks, eyes shining with large tears of absolute happiness, laughing with a radiant smile. (9:16 aspect ratio)

@@ -1,0 +1,103 @@
+🛡️ [모든 단계 공통 참조 문구] (반드시 복사해서 맨 앞에 붙여넣기)
+"Please keep ONLY the character's facial features, short reddish-brown hair with a long side braid, golden-brown eyes, and the energetic, confident anime art style from the reference image (star0_8.png). Do NOT copy the pose, holding the sword, or the glowing background from the reference. Create a completely new pose, background, outfit, and facial expression matching the following medieval fantasy scenario:"
+
+🌹 레인저 소녀의 두근거리는 여정, 호감도 10단계 프롬프트
+[1단계] 나무 위의 경계꾼 (Vigilant Scout)
+컨셉: 숲속에서의 첫 만남. 유저를 경계하며 높은 곳에서 내려다보는 민첩하고 날선 모습.
+의상/장소: 짙은 녹색 망토와 실용적인 가죽 정찰복. 안개가 자욱한 고대 숲의 거대한 나무 위.
+포즈/표정: 굵은 나뭇가지 위에 쪼그려 앉아(Crouching) 한 손에 정찰용 단검을 든 채 아래를 굽어보는 구도. 차갑고 예리한 눈빛.
+
+Plaintext
+[공통 참조 문구]
+"Please keep ONLY the character's facial features, short reddish-brown hair with a long side braid, golden-brown eyes, and the energetic, confident anime art style from the reference image (star0_8.png). Do NOT copy the pose, holding the sword, or the glowing background from the reference. Create a completely new pose, background, outfit, and facial expression matching the following medieval fantasy scenario:"
+Stage 1 intimacy in a medieval fantasy setting. Setting: High up in the branches of a massive ancient tree in a misty forest. Outfit: Practical ranger gear, a dark green cloak over fitted brown leather armor. Pose: Crouching agilely on a thick branch, holding a scouting dagger in one hand, looking down at the camera. Expression: Sharp, vigilant, and untrusting, with a serious and evaluating gaze. (9:16 aspect ratio)
+
+[2단계] 냇가의 휴식 (Riverside Break)
+컨셉: 임무 중 냇가에서 세수를 하다가, 유저에게 허물없이 식량을 던져주는 털털한 전우애.
+의상/장소: 망토를 벗어둔 가벼운 셔츠 차림. 햇살이 부서지는 맑은 계곡물 앞.
+포즈/표정: 냇가에 앉아 어깨너머로 뒤를 돌아보며, 유저를 향해 사과를 가볍게 툭 던지는 역동적인 모션. 장난기 섞인 시원한 미소.
+
+Plaintext
+[공통 참조 문구]
+"Please keep ONLY the character's facial features, short reddish-brown hair with a long side braid, golden-brown eyes, and the energetic, confident anime art style from the reference image (star0_8.png). Do NOT copy the pose, holding the sword, or the glowing background from the reference. Create a completely new pose, background, outfit, and facial expression matching the following medieval fantasy scenario:"
+Stage 2 intimacy in a medieval fantasy setting. Setting: Beside a crystal-clear, sunlit forest stream with smooth pebbles. Outfit: Cloak removed, wearing a breathable medieval linen shirt with rolled-up sleeves and leather bracers. Pose: Sitting by the water, looking back over her shoulder and tossing a red apple toward the viewer with one hand. Expression: A casual, confident, and friendly smirk, showing relaxed camaraderie. (9:16 aspect ratio)
+
+[3단계] 초원 위를 걷다 (Carefree Meadow)
+컨셉: 경계를 완전히 풀고 넓은 평야를 함께 걸으며 호탕하게 웃는 쾌활한 일상.
+의상/장소: 움직임이 편한 짧은 튜닉과 숏팬츠 스타일. 허리까지 오는 풀이 무성한 황금빛 대초원.
+포즈/표정: 두 손을 머리 뒤로 깍지 낀 채, 유저보다 앞서서 뒷걸음질(Walking backward)로 걸으며 활짝 웃는 포즈.
+
+Plaintext
+[공통 참조 문구]
+"Please keep ONLY the character's facial features, short reddish-brown hair with a long side braid, golden-brown eyes, and the energetic, confident anime art style from the reference image (star0_8.png). Do NOT copy the pose, holding the sword, or the glowing background from the reference. Create a completely new pose, background, outfit, and facial expression matching the following medieval fantasy scenario:"
+Stage 3 intimacy in a medieval fantasy setting. Setting: A vast, breezy meadow filled with tall golden grass under a bright blue sky. Outfit: Sporty, casual adventurer attire with a short green tunic and practical shorts. Pose: Walking backward comfortably, with both hands clasped behind her head, leaning toward the camera. Expression: A bright, boisterous, and completely carefree laugh, radiating cheerful energy. (9:16 aspect ratio)
+
+[4단계] 발광 동굴의 스침 (Glowing Cavern Spark)
+컨셉: 신비로운 동굴 탐험 중, 실수로 유저와 손이 스치자 화들짝 놀라며 이성으로 의식하는 순간.
+의상/장소: 먼지가 묻은 탐험용 가죽복. 푸른 형광 버섯과 크리스털이 빛나는 지하 동굴.
+포즈/표정: 닿았던 손을 황급히 가슴팍으로 거두며 뒤로 한 발짝 물러서는 구도. 눈이 동그래진 채 당황하여 붉어진 홍조.
+
+Plaintext
+[공통 참조 문구]
+"Please keep ONLY the character's facial features, short reddish-brown hair with a long side braid, golden-brown eyes, and the energetic, confident anime art style from the reference image (star0_8.png). Do NOT copy the pose, holding the sword, or the glowing background from the reference. Create a completely new pose, background, outfit, and facial expression matching the following medieval fantasy scenario:"
+Stage 4 intimacy in a medieval fantasy setting. Setting: A mysterious underground cavern illuminated by glowing blue crystals and bioluminescent flora. Outfit: Sturdy exploration leather gear, slightly dusted from the journey. Pose: Stepping back suddenly, pulling one hand tightly to her chest as if she just accidentally touched the viewer's hand. Expression: Wide-eyed and highly flustered, with a sudden, deep blush on her cheeks, looking unexpectedly shy. (9:16 aspect ratio)
+
+[5단계] 빗속의 텐트 (Rainy Tent)
+컨셉: 폭우를 피해 급하게 친 작은 야영 텐트 안. 비에 젖어 평소의 씩씩함이 사라진 무방비한 모습.
+의상/장소: 유저가 빌려준 헐렁한 오버핏 셔츠 하나만 걸침. 빗소리가 들리는 비좁고 아늑한 텐트 내부.
+포즈/표정: 수건으로 젖은 머리를 털다 말고 유저를 올려다봄. 놀란 듯하지만 은근히 다정하고 편안한 미소.
+
+Plaintext
+[공통 참조 문구]
+"Please keep ONLY the character's facial features, short reddish-brown hair with a long side braid, golden-brown eyes, and the energetic, confident anime art style from the reference image (star0_8.png). Do NOT copy the pose, holding the sword, or the glowing background from the reference. Create a completely new pose, background, outfit, and facial expression matching the following medieval fantasy scenario:"
+Stage 5 intimacy in a medieval fantasy setting. Setting: Inside a small, cozy canvas adventurer's tent while a heavy rainstorm pours outside, lit by a small lantern. Outfit: Wearing an oversized, dry white linen shirt clearly borrowed from the viewer. Pose: Sitting with her knees up, pausing while drying her damp hair with a cloth to look at the viewer. Expression: A soft, unguarded, and deeply trusting smile, feeling safe and emotionally close. (9:16 aspect ratio)
+
+[6단계] 망루의 밤바람 (Watchtower Whisper)
+컨셉: 고대 유적의 망루에서 야간 보초를 서던 중. 유저의 소매를 끌어당겨 곁에 앉히며 속마음을 고백.
+의상/장소: 추위를 막기 위한 두꺼운 털망토. 달빛이 쏟아지는 탁 트인 고대 석조 망루 위.
+포즈/표정: 난간에 걸터앉아 한 손으로 유저의 망토 자락을 꽉 쥐는 얌전한 포즈. 부끄러움을 꾹 참고 짓는 진지하고 애틋한 눈빛.
+
+Plaintext
+[공통 참조 문구]
+"Please keep ONLY the character's facial features, short reddish-brown hair with a long side braid, golden-brown eyes, and the energetic, confident anime art style from the reference image (star0_8.png). Do NOT copy the pose, holding the sword, or the glowing background from the reference. Create a completely new pose, background, outfit, and facial expression matching the following medieval fantasy scenario:"
+Stage 6 intimacy in a medieval fantasy setting. Setting: Atop an ancient, ruined stone watchtower under a brilliant, starry night sky. Outfit: Wrapped in a thick, warm fur-lined cloak over her ranger gear. Pose: Sitting on the stone ledge, gently but firmly tugging the viewer's sleeve with one hand to pull them closer. Expression: Surprisingly serious and shy, with a tender, deeply romantic gaze, struggling to hide her growing affection. (9:16 aspect ratio)
+
+[7단계] 좁은 틈새의 숨결 (Hidden Crevice Closeness)
+컨셉: 순찰대(또는 마물)를 피해 좁은 바위 틈새에 함께 숨은 상황. 꼼짝달싹 못하는 텐션 폭발 모먼트.
+의상/장소: 은신에 적합한 가벼운 가죽 슈트. 희미한 빛만 들어오는 매우 비좁고 어두운 바위 틈.
+포즈/표정: 유저에게 바짝 밀착되어, 들키지 않으려 검지 손가락을 자신의 입술에 가져다 대는(쉿 하는) 하이앵글 구도. 열기와 긴장감으로 새빨개진 얼굴.
+
+Plaintext
+[공통 참조 문구]
+"Please keep ONLY the character's facial features, short reddish-brown hair with a long side braid, golden-brown eyes, and the energetic, confident anime art style from the reference image (star0_8.png). Do NOT copy the pose, holding the sword, or the glowing background from the reference. Create a completely new pose, background, outfit, and facial expression matching the following medieval fantasy scenario:"
+Stage 7 intimacy in a medieval fantasy setting. Setting: Hidden tightly inside a very narrow, dark rock crevice, with only a sliver of moonlight entering. Outfit: Sleek, form-fitting stealth leather armor. Pose: A high-tension close-up, pressed aggressively close to the camera, placing her index finger over her own lips in a "shh" gesture. Expression: Face heavily flushed from the intense physical proximity, breathing slightly parted lips, showing overwhelming romantic tension and nervousness. (9:16 aspect ratio)
+
+[8단계] 그녀의 아지트 (The Secret Treehouse)
+컨셉: 둘만의 비밀 은신처(오두막)에서, 이제는 톰보이가 아닌 완벽한 연인으로서 보여주는 열렬한 애정.
+의상/장소: 오프숄더 형태의 편안한 흰색 라운지 원피스. 햇살이 가득 들어오는 아늑한 나무 위의 집(Treehouse).
+포즈/표정: 나무 의자를 거꾸로 돌려 앉아 등받이에 팔을 턱 괴고 유저를 빤히 응시함. 꿀이 뚝뚝 떨어지는 헌신적인 미소.
+
+Plaintext
+[공통 참조 문구]
+"Please keep ONLY the character's facial features, short reddish-brown hair with a long side braid, golden-brown eyes, and the energetic, confident anime art style from the reference image (star0_8.png). Do NOT copy the pose, holding the sword, or the glowing background from the reference. Create a completely new pose, background, outfit, and facial expression matching the following medieval fantasy scenario:"
+Stage 8 intimacy in a medieval fantasy setting. Setting: Inside a sun-drenched, extremely cozy wooden treehouse filled with maps and climbing plants. Outfit: A relaxed, off-shoulder white linen lounge dress, very different from her usual armor. Pose: Straddling a wooden chair backward, resting her chin on her arms folded over the backrest, leaning toward the viewer. Expression: A deeply devoted, utterly smitten smile with a heavy blush, radiating pure adoration and love. (9:16 aspect ratio)
+
+[9단계] 담요 속의 수줍음 (Blanket Fort Trust)
+컨셉: 깊은 산장 안. 모든 것을 나눈 뒤, 자신의 넘치는 감정이 쑥스러워 담요 뒤에 숨어버린 가장 무방비한 모습.
+의상/장소: 크고 두꺼운 양모 담요(Blanket)로 온몸을 돌돌 만 연출. 따뜻한 벽난로 앞 푹신한 러그 위.
+포즈/표정: 바닥에 앉아 두꺼운 담요를 코끝까지 끌어올린 채 눈만 빼꼼 내민 귀여운 포즈. 벅찬 신뢰와 터질 듯한 홍조.
+
+Plaintext
+[공통 참조 문구]
+"Please keep ONLY the character's facial features, short reddish-brown hair with a long side braid, golden-brown eyes, and the energetic, confident anime art style from the reference image (star0_8.png). Do NOT copy the pose, holding the sword, or the glowing background from the reference. Create a completely new pose, background, outfit, and facial expression matching the following medieval fantasy scenario:"
+Stage 9 intimacy in a medieval fantasy setting. Setting: A warm, rustic cabin floor in front of a crackling fireplace. Outfit: Completely enveloped in a large, fluffy, oversized wool blanket, hiding her figure playfully. Pose: Sitting on a soft rug, pulling the thick blanket up over the lower half of her face, peeking out at the viewer. Expression: An incredibly sweet, intensely blushing smile seen only through her golden-brown eyes, showing absolute trust and adorable vulnerability. (9:16 aspect ratio)
+
+[10단계] 정상에서의 맹세 (Summit Vows)
+컨셉: 딱딱한 성당이 아닌, 대륙이 내려다보이는 가장 높은 산 정상에서 평생을 함께할 모험을 약속하는 역동적인 프로포즈.
+의상/장소: 하얀색과 금색이 어우러진 화려하고 성스러운 '레인저 웨딩 예복' (미니 원피스와 롱부츠). 일출이 찬란한 산 정상.
+포즈/표정: 카메라(유저)를 향해 와락 몸을 던져 껴안는(Tackling hug) 에너지 넘치는 구도. 감격의 눈물을 흩뿌리며 가장 환희에 차 웃는 얼굴.
+
+Plaintext
+[공통 참조 문구]
+"Please keep ONLY the character's facial features, short reddish-brown hair with a long side braid, golden-brown eyes, and the energetic, confident anime art style from the reference image (star0_8.png). Do NOT copy the pose, holding the sword, or the glowing background from the reference. Create a completely new pose, background, outfit, and facial expression matching the following medieval fantasy scenario:"
+Stage 10 final climax intimacy in a medieval fantasy setting. Setting: The breathtaking, windy peak of the highest mountain overlooking the world during a spectacular sunrise. Outfit: A majestic, custom "ranger-wedding" attire combining a brilliant white and gold mini-dress tunic with elegant adventuring boots. Pose: Leaping forward dynamically to tackle the viewer into a massive, enthusiastic embrace, lifting off her feet slightly. Expression: Pure ecstasy, heavily flushed cheeks, eyes shining with happy tears, laughing loudly with a captivating, brilliant smile of eternal love. (9:16 aspect ratio)
