@@ -1,0 +1,107 @@
+🛡️ [모든 단계 공통 참조 문구] (반드시 복사해서 맨 앞에 붙여넣기)
+"Please keep ONLY the character's facial features, messy dark brown hair in a high ponytail, golden-amber eyes, and the energetic, wild anime art style from the reference image (player_r4_front.png). Do NOT copy the chibi style, the pose, holding the sword, or the background from the reference. Create a completely new pose, background, outfit, and facial expression matching the following medieval fantasy scenario:"
+
+🌹 야생 고양이 레인저의 심쿵 길들이기, 호감도 10단계 프롬프트
+[1단계] 날 선 경계 (Wild Encounter)
+컨셉: 깊은 숲속에서의 첫 만남. 낯선 유저를 나무 위에서 내려다보며 야생동물처럼 경계하는 모습.
+의상/장소: 낡은 녹색 망토와 거친 가죽 정찰복. 이끼가 낀 고대 숲의 거대한 나뭇가지 위.
+포즈/표정: 굵은 나뭇가지 위에 쪼그려 앉아(crouching) 한 손을 무릎에 얹고 내려다보는 구도. 날카롭고 짐승처럼 예리한 눈빛.
+
+Plaintext
+[공통 참조 문구]
+"Please keep ONLY the character's facial features, messy dark brown hair in a high ponytail, golden-amber eyes, and the energetic, wild anime art style from the reference image (player_r4_front.png). Do NOT copy the chibi style, the pose, holding the sword, or the background from the reference. Create a completely new pose, background, outfit, and facial expression matching the following medieval fantasy scenario:"
+Stage 1 intimacy in a medieval fantasy setting. Setting: High up on a thick, mossy branch of an ancient giant tree in a dense forest. Outfit: Rugged green ranger gear with a worn, ragged green cape. Pose: Crouching agilely on the branch, resting one hand on her knee, looking down at the camera. Expression: Sharp, wild, and guarded, evaluating the viewer like a wary animal with her bright amber eyes. (9:16 aspect ratio)
+
+[2단계] 거친 전우애 (Campfire Toss)
+컨셉: 야영지에서 경계를 살짝 풀고, 유저에게 자신의 식량을 툭 던져주는 털털한 단계.
+의상/장소: 망토를 벗어둔 가벼운 소매 없는 튜닉 차림. 타오르는 모닥불 앞의 밤의 야영지.
+포즈/표정: 쓰러진 통나무에 다리를 꼬고 쩍벌리듯 편하게 앉아, 물통(혹은 사과)을 가볍게 던지는 모션. 장난기 섞인 시니컬한 미소.
+
+Plaintext
+[공통 참조 문구]
+"Please keep ONLY the character's facial features, messy dark brown hair in a high ponytail, golden-amber eyes, and the energetic, wild anime art style from the reference image (player_r4_front.png). Do NOT copy the chibi style, the pose, holding the sword, or the background from the reference. Create a completely new pose, background, outfit, and facial expression matching the following medieval fantasy scenario:"
+Stage 2 intimacy in a medieval fantasy setting. Setting: A wilderness campsite at night, illuminated by a warm, crackling campfire. Outfit: Cape removed, wearing a comfortable, practical sleeveless green tunic and leather bracers. Pose: Sitting very casually with one leg propped up on a log, tossing a waterskin or an apple to the viewer. Expression: A relaxed, cocky smirk, showing a rough but friendly camaraderie. (9:16 aspect ratio)
+
+[3단계] 자유로운 질주 (Ruin Runner)
+컨셉: 고대 유적의 지붕 위를 함께 달리며 묘기를 부리듯 아슬아슬하게 뛰어노는 완벽한 친밀감.
+의상/장소: 움직임이 편한 짧은 팬츠와 모험가 크롭탑. 햇살이 내리쬐는 덩굴 얽힌 고대 유적.
+포즈/표정: 좁은 돌기둥 위를 두 팔을 벌려 균형을 잡으며 걷다가, 유저를 돌아보는 역동적인 구도. 세상에서 가장 신나고 호탕한 웃음.
+
+Plaintext
+[공통 참조 문구]
+"Please keep ONLY the character's facial features, messy dark brown hair in a high ponytail, golden-amber eyes, and the energetic, wild anime art style from the reference image (player_r4_front.png). Do NOT copy the chibi style, the pose, holding the sword, or the background from the reference. Create a completely new pose, background, outfit, and facial expression matching the following medieval fantasy scenario:"
+Stage 3 intimacy in a medieval fantasy setting. Setting: Brightly sunlit ancient stone ruins overgrown with green vines and moss. Outfit: Sporty, light adventurer gear with short pants and a practical crop top. Pose: Balancing playfully on a narrow stone pillar with her arms spread out, turning back to look at the viewer dynamically. Expression: Wildly energetic, carefree, and fiercely joyful, showing her completely in her element. (9:16 aspect ratio)
+
+[4단계] 벼랑 끝의 심쿵 (Cliffside Slip)
+컨셉: 거친 바위를 타다 발이 미끄러져 유저에게 안기듯 붙잡힌 순간. 왈가닥 소녀가 처음으로 여자가 되는 찰나.
+의상/장소: 먼지가 묻은 가죽 탐험복. 붉은 노을이 지는 아찔한 협곡의 절벽.
+포즈/표정: 뒤로 살짝 넘어지며 유저의 손(카메라 밖)을 반사적으로 꽉 쥔 포즈. 당황하여 눈이 커지고 얼굴이 터질 듯 붉어짐.
+
+Plaintext
+[공통 참조 문구]
+"Please keep ONLY the character's facial features, messy dark brown hair in a high ponytail, golden-amber eyes, and the energetic, wild anime art style from the reference image (player_r4_front.png). Do NOT copy the chibi style, the pose, holding the sword, or the background from the reference. Create a completely new pose, background, outfit, and facial expression matching the following medieval fantasy scenario:"
+Stage 4 intimacy in a medieval fantasy setting. Setting: A high, rugged cliffside overlook during a breathtaking orange and purple sunset. Outfit: Dusty, practical leather exploration gear. Pose: Slipping slightly backward, grasping the viewer's unseen hand tightly for balance, shoulders tensed. Expression: Startled, eyes wide open, with a sudden heavy blush spreading across her cheeks, completely losing her usual tomboyish cool. (9:16 aspect ratio)
+
+[5단계] 동굴 속의 온기 (Cave Shelter)
+컨셉: 폭우를 피해 비좁은 동굴에 함께 들어옴. 추위에 떨며 유저에게 무의식적으로 기대어오는 무방비한 시간.
+의상/장소: 젖은 망토를 벗고 머리를 대충 묶은 튜닉 차림. 모닥불이 켜진 아늑하고 마른 천연 동굴.
+포즈/표정: 젖은 머리를 수건으로 털다가, 유저 쪽으로 몸을 살짝 기울이고 힐끔 쳐다보는 구도. 경계심이 완전히 사라진 부드럽고 애틋한 눈빛.
+
+Plaintext
+[공통 참조 문구]
+"Please keep ONLY the character's facial features, messy dark brown hair in a high ponytail, golden-amber eyes, and the energetic, wild anime art style from the reference image (player_r4_front.png). Do NOT copy the chibi style, the pose, holding the sword, or the background from the reference. Create a completely new pose, background, outfit, and facial expression matching the following medieval fantasy scenario:"
+Stage 5 intimacy in a medieval fantasy setting. Setting: Inside a dry, warm natural cave lit by a small fire, while a rainstorm pours outside. Outfit: Wet gear removed, wearing only a simple, slightly damp medieval undershirt. Pose: Sitting cross-legged, pausing while drying her messy brown hair with a cloth, leaning slightly towards the viewer. Expression: Softer, unguarded, and deeply trusting, looking at the viewer with quiet, vulnerable affection. (9:16 aspect ratio)
+
+[6단계] 밤바람의 고백 (Watchtower Whisper)
+컨셉: 나무 위 망루에서 보초를 서는 밤. 늘 씩씩하던 그녀가 유저의 어깨에 기대며 쑥스럽게 속마음을 고백.
+의상/장소: 추위를 막기 위해 크고 두꺼운 망토를 푹 눌러씀. 별이 쏟아지는 높은 나무 위의 은신처.
+포즈/표정: 무릎을 모아 앉은 채 유저의 어깨(카메라 쪽)로 자신의 머리를 콩 기대는 얌전한 포즈. 부끄러움에 입술을 꾹 깨문 진지한 표정.
+
+Plaintext
+[공통 참조 문구]
+"Please keep ONLY the character's facial features, messy dark brown hair in a high ponytail, golden-amber eyes, and the energetic, wild anime art style from the reference image (player_r4_front.png). Do NOT copy the chibi style, the pose, holding the sword, or the background from the reference. Create a completely new pose, background, outfit, and facial expression matching the following medieval fantasy scenario:"
+Stage 6 intimacy in a medieval fantasy setting. Setting: High up in a wooden treehouse watchtower under a brilliant, starry night sky. Outfit: Wrapped tightly in a large, thick woolen cloak to ward off the night chill. Pose: Sitting with her knees pulled up, gently resting her head against the viewer's shoulder (near the camera). Expression: Unusually quiet, shy, biting her lower lip nervously, but showing deeply sincere and romantic affection. (9:16 aspect ratio)
+
+[7단계] 숨 막히는 바위 틈 (Trapped Tension)
+💡 (필터 안전 우회 '쉿' 포즈 적용)
+컨셉: 몬스터를 피해 바위틈에 밀착해 숨음. 거친 숨결이 닿는 거리에서 이성이 마비될 듯한 텐션.
+의상/장소: 몸에 핏되는 어두운 색의 날렵한 은밀 기동복. 희미한 빛만 들어오는 몹시 좁고 습한 바위 틈새.
+포즈/표정: 등에 바위가 닿은 채 카메라(유저)와 초밀착하여 입술에 검지 손가락을 대며 '쉿' 하는 하이앵글. 열기로 새빨개진 얼굴과 당황한 호박색 눈동자.
+
+Plaintext
+[공통 참조 문구]
+"Please keep ONLY the character's facial features, messy dark brown hair in a high ponytail, golden-amber eyes, and the energetic, wild anime art style from the reference image (player_r4_front.png). Do NOT copy the chibi style, the pose, holding the sword, or the background from the reference. Create a completely new pose, background, outfit, and facial expression matching the following medieval fantasy scenario:"
+Stage 7 intimacy in a medieval fantasy setting. Setting: Hiding inside a very narrow, dark rock crevice, avoiding a patrolling monster. Outfit: Sleek, form-fitting dark rogue/stealth attire. Pose: A dramatic high-tension close-up shot, standing inches away from the viewer, placing her index finger gently over her own lips in a 'shh' gesture. Expression: Cheeks heavily flushed from the intense closeness, wide amber eyes looking up with unspoken, overwhelming romantic tension. (9:16 aspect ratio)
+
+[8단계] 길들여진 야생고양이 (Oversized Vulnerability) 👙
+💡 (요청하신 완벽한 치트키 앵글: '유저의 오버핏 셔츠 + 카메라를 향해 살짝 튼 45도 반측면 + 무릎 꽉 끌어안기'로 하의실종/아슬아슬한 텐션의 정점을 찍습니다.)
+컨셉: 산장 안. 흙투성이 왈가닥이 씻고 나와 오직 유저의 큰 셔츠만 빌려 입은 채, 가장 도발적이고 사랑스럽게 유저를 바라보는 밤.
+의상/장소: 바지 없이 오직 유저의 헐렁한 흰색 수면 셔츠만 입음. 따뜻한 벽난로가 타오르는 아늑한 통나무집 침실.
+포즈/표정: 카메라를 향해 살짝 몸을 튼 45도 구도(Angled slightly towards the camera). 푹신한 러그 위에 앉아 두 무릎을 가슴까지 꽉 끌어올려 안고(hugging her knees tightly to her chest) 올려다보는 자세. (셔츠가 팽팽하게 당겨져 아슬아슬한 구도). 짙은 애정과 부끄러움이 섞인 도발적인 미소.
+
+Plaintext
+[공통 참조 문구]
+"Please keep ONLY the character's facial features, messy dark brown hair in a high ponytail, golden-amber eyes, and the energetic, wild anime art style from the reference image (player_r4_front.png). Do NOT copy the chibi style, the pose, holding the sword, or the background from the reference. Create a completely new pose, background, outfit, and facial expression matching the following medieval fantasy scenario:"
+Stage 8 intimacy in a medieval fantasy setting. Setting: A cozy, warm, candle-lit private wooden cabin at night with a roaring fireplace. Outfit: Wearing an oversized, loose white linen button-up nightshirt clearly borrowed from the viewer. Pose: Angled slightly towards the camera. Sitting on a plush rug with her body turned partially towards the viewer, gently hugging her knees tightly to her chest in a curled-up posture, looking up directly at the camera. Expression: A deeply affectionate, heavily blushing smile, peeking up with intense affection and sweet, vulnerable trust. (9:16 aspect ratio)
+
+[9단계] 아찔한 아침의 무방비함 (Morning Camisole)
+💡 (새롭게 저장된 치트키: '흘러내린 실크 캐미솔 + 무릎 위 베개에 팔 기대기 + 상체를 살짝 숙인 자세'로 꽁꽁 싸매지 않은 완벽한 무방비 텐션을 연출합니다.)
+컨셉: 야생고양이 같던 그녀가 유저의 침대에서 완벽하게 경계를 풀고 나른한 애교를 부리는 아침.
+의상/장소: 어깨끈이 한쪽 살짝 흘러내린 얇고 부드러운 하얀색 실크 캐미솔. 눈부신 아침 햇살이 쏟아지는 크고 푹신한 침대 위.
+포즈/표정: 흐트러진 침대 위에 앉아, 무릎 위에 둔 푹신한 베개에 팔을 걸치고 유저(카메라) 쪽으로 상체를 살짝 숙인 구도(leaning forward slightly). 막 잠에서 깬 나른하고 달콤한 표정, 살짝 벌어진 입술과 터질 듯한 홍조.
+
+Plaintext
+[공통 참조 문구]
+"Please keep ONLY the character's facial features, messy dark brown hair in a high ponytail, golden-amber eyes, and the energetic, wild anime art style from the reference image (player_r4_front.png). Do NOT copy the chibi style, the pose, holding the sword, or the background from the reference. Create a completely new pose, background, outfit, and facial expression matching the following medieval fantasy scenario:"
+Stage 9 intimacy in a medieval fantasy setting. Setting: A grand, plush bed bathed in warm, brilliant morning sunlight filtering through lace curtains. Outfit: A delicate, thin white silk camisole sleepwear with a loose wide neckline, slipping slightly off one bare shoulder. Pose: Angled slightly towards the camera. Sitting up in the messy bed, leaning forward slightly towards the viewer while resting her arms casually on a soft pillow in her lap, showing a completely relaxed, unguarded morning posture. Expression: A highly affectionate, slightly sleepy morning look, with a heavy blush, slightly parted lips, and a sweet, vulnerable gaze full of absolute trust and romantic tension. (9:16 aspect ratio)
+
+[10단계] 정상에서의 도약 (Eternal Leap)
+💡 (불쾌한 골짜기를 뺀 자연스럽고 벅찬 눈물의 미소 묘사 적용)
+컨셉: 높은 산 정상. 거추장스러운 예식 대신 그녀의 성격에 딱 맞게, 아침 해를 등지고 하늘을 날 듯 뛰어오르며 유저에게 안기는 박력 넘치는 프로포즈.
+의상/장소: 짧고 발랄한 화이트 레이스 드레스에 거친 모험가 가죽 부츠와 벨트를 믹스매치한 '레인저 웨딩룩'. 구름바다가 펼쳐진 찬란한 일출의 절벽 끝.
+포즈/표정: 카메라(유저)를 향해 두 팔을 벌리고 허공을 날아오르듯(Leaping) 와락 뛰어들어 안기는 초역동적인 구도. 기쁨의 눈물을 뚝뚝 흘리며, 살짝 벌어진 입술로 세상에서 가장 다정하고 아름답게 미소 짓는 얼굴.
+
+Plaintext
+[공통 참조 문구]
+"Please keep ONLY the character's facial features, messy dark brown hair in a high ponytail, golden-amber eyes, and the energetic, wild anime art style from the reference image (player_r4_front.png). Do NOT copy the chibi style, the pose, holding the sword, or the background from the reference. Create a completely new pose, background, outfit, and facial expression matching the following medieval fantasy scenario:"
+Stage 10 final climax intimacy in a medieval fantasy setting. Setting: A breathtaking cliffside peak overlooking a vast sea of clouds and a glorious golden sunrise. Outfit: A unique "Ranger Bride" attire, combining a brilliant white mini wedding dress with practical leather belts and adventuring boots. Pose: Leaping forward dynamically through the air with both arms outstretched for a massive, enthusiastic flying embrace. Expression: Pure bliss, crying soft tears of joy, a beautiful and natural warm smile with slightly parted lips, eyes shining with overwhelming affection and eternal love. (9:16 aspect ratio)
