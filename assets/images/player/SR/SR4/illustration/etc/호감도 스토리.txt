@@ -1,0 +1,107 @@
+🛡️ [모든 단계 공통 참조 문구] (반드시 복사해서 맨 앞에 붙여넣기)
+"Please keep ONLY the character's facial features, short messy silver hair, steampunk goggles resting on her head, teal-green eyes, and the energetic, confident anime art style from the reference image (player_sr4_front.png). Do NOT copy the chibi style, the pose, holding the sword, or the background from the reference. Pay strict and careful attention to rendering hands, fingers, and toes perfectly and anatomically correct. Create a completely new pose, background, outfit, and facial expression matching the following medieval fantasy scenario:"
+
+🌹 천재 스팀펑크 함장의 무장해제, 호감도 10단계 프롬프트
+[1단계] 기계 도시의 첫 만남 (Clockwork Captain)
+컨셉: 증기가 뿜어져 나오는 기계 도시의 비행선 갑판. 자신의 구역에 들어온 유저를 흥미롭지만 경계하는 눈빛으로 쳐다보는 함장.
+의상/장소: 갈색 가죽 롱코트와 스팀펑크 벨트가 가득한 정복. 톱니바퀴와 굴뚝이 배경으로 보이는 황동 비행선 갑판.
+포즈/표정: 조타륜(Steering wheel) 옆에 비스듬히 짝다리를 짚고 서서, 팔짱을 낀 채 내려다보는 구도. 정교하게 그려진 손가락. 호기심과 경계심이 반반 섞인 당찬 눈빛.
+
+Plaintext
+[공통 참조 문구]
+"Please keep ONLY the character's facial features, short messy silver hair, steampunk goggles resting on her head, teal-green eyes, and the energetic, confident anime art style from the reference image (player_sr4_front.png). Do NOT copy the chibi style, the pose, holding the sword, or the background from the reference. Pay strict and careful attention to rendering hands, fingers, and toes perfectly and anatomically correct. Create a completely new pose, background, outfit, and facial expression matching the following medieval fantasy scenario:"
+Stage 1 intimacy in a medieval fantasy setting. Setting: The brass and wood deck of a steampunk airship docked in a city with steam vents and giant gears. Outfit: A long brown leather captain's coat over a corseted uniform with multiple belts. Pose: Standing casually with her weight on one leg, arms crossed confidently over her chest with perfectly drawn hands, leaning slightly against a brass steering wheel. Expression: Confident, assessing, and slightly guarded, analyzing the viewer with sharp teal-green eyes. (9:16 aspect ratio)
+
+[2단계] 공구와 샌드위치 (Engine Room Break)
+컨셉: 비행선 엔진실에서 함께 수리를 마친 후 휴식. 기름 묻은 손으로 샌드위치를 나눠주며 씩 웃는 털털한 전우애.
+의상/장소: 더운 코트를 벗은 프릴 블라우스와 서스펜더. 증기 파이프가 가득한 따뜻하고 비좁은 엔진실.
+포즈/표정: 나무 상자 위에 편하게 주저앉아, 유저 쪽으로 샌드위치 반쪽을 쓱 내미는 모션. 뺨에 기름때가 살짝 묻은 채 짓는 쾌활한 미소.
+
+Plaintext
+[공통 참조 문구]
+"Please keep ONLY the character's facial features, short messy silver hair, steampunk goggles resting on her head, teal-green eyes, and the energetic, confident anime art style from the reference image (player_sr4_front.png). Do NOT copy the chibi style, the pose, holding the sword, or the background from the reference. Pay strict and careful attention to rendering hands, fingers, and toes perfectly and anatomically correct. Create a completely new pose, background, outfit, and facial expression matching the following medieval fantasy scenario:"
+Stage 2 intimacy in a medieval fantasy setting. Setting: Inside the warm, cramped engine room of an airship, surrounded by glowing copper pipes. Outfit: Coat removed, wearing a white ruffled blouse with rolled-up sleeves and leather suspenders. Pose: Sitting casually on a wooden crate, offering half of a sandwich toward the viewer with her perfectly drawn fingers. Expression: A clever, friendly smirk, showing a smudge of grease on her cheek, displaying relaxed camaraderie. (9:16 aspect ratio)
+
+[3단계] 하늘 위의 자랑 (Skyborn Pride)
+컨셉: 구름 위를 항해하며 자신이 개조한 비행선의 속도를 유저에게 신나게 자랑하는 시간.
+의상/장소: 펄럭이는 가죽 코트와 머리 위의 고글. 하얀 구름바다가 끝없이 펼쳐진 눈부신 파란 하늘 배경의 선수(Ship's bow).
+포즈/표정: 뱃머리 난간에 상체를 쑥 내밀어 바람을 맞으며, 뒤돌아서 유저를 향해 엄지손가락을 치켜세우는(thumbs up) 역동적인 구도. 세상에서 가장 신나고 호탕한 웃음.
+
+Plaintext
+[공통 참조 문구]
+"Please keep ONLY the character's facial features, short messy silver hair, steampunk goggles resting on her head, teal-green eyes, and the energetic, confident anime art style from the reference image (player_sr4_front.png). Do NOT copy the chibi style, the pose, holding the sword, or the background from the reference. Pay strict and careful attention to rendering hands, fingers, and toes perfectly and anatomically correct. Create a completely new pose, background, outfit, and facial expression matching the following medieval fantasy scenario:"
+Stage 3 intimacy in a medieval fantasy setting. Setting: The bow of a flying airship soaring high above a breathtaking sea of white clouds under a bright blue sky. Outfit: Her full captain's coat fluttering dramatically in the strong wind. Pose: Leaning excitedly over the front railing, turning back to give the viewer an enthusiastic thumbs-up with a perfectly drawn hand. Expression: Wildly energetic, fiercely joyful, and bursting with proud, carefree laughter. (9:16 aspect ratio)
+
+[4단계] 고장 난 평정심 (Sudden Turbulence)
+컨셉: 갑작스러운 난기류로 비행선이 흔들리며 중심을 잃고 유저의 품에 와락 안기듯 떨어진 찰나. 계산 밖의 스킨십에 당황한 함장님.
+의상/장소: 코트를 벗고 조끼만 입은 활동적인 차림. 항해도구와 지도가 흩어지는 흔들리는 조종실.
+포즈/표정: 넘어지면서 반사적으로 유저의 어깨(카메라 밖)를 두 손으로 꽉 부여잡은 포즈. 항상 당당하던 눈이 커지고, 은발 아래로 새빨개진 얼굴.
+
+Plaintext
+[공통 참조 문구]
+"Please keep ONLY the character's facial features, short messy silver hair, steampunk goggles resting on her head, teal-green eyes, and the energetic, confident anime art style from the reference image (player_sr4_front.png). Do NOT copy the chibi style, the pose, holding the sword, or the background from the reference. Pay strict and careful attention to rendering hands, fingers, and toes perfectly and anatomically correct. Create a completely new pose, background, outfit, and facial expression matching the following medieval fantasy scenario:"
+Stage 4 intimacy in a medieval fantasy setting. Setting: Inside the airship's navigation room as maps and compasses slide off a desk due to sudden turbulence. Outfit: A practical leather vest over her blouse, looking sporty and ready for action. Pose: Stumbling forward off-balance, grasping the viewer's unseen shoulders tightly with perfectly drawn hands to catch her fall. Expression: Shocked, eyes wide open, with a sudden heavy blush spreading across her cheeks, completely losing her usual confident captain's swagger. (9:16 aspect ratio)
+
+[5단계] 야간 비행의 온기 (Midnight Navigation)
+컨셉: 모두가 잠든 고요한 밤. 조타륜 앞의 작은 의자에 유저와 나란히 앉아 별자리를 보며, 평소의 왈가닥 본성을 죽이고 얌전히 기대는 밤.
+의상/장소: 셔츠 단추를 느슨하게 푼 편안한 상태. 밤하늘의 은하수가 쏟아지는 어둡고 고요한 비행선 조종석.
+포즈/표정: 의자에 무릎을 모으고 앉아 한 손으로 턱을 괸 채, 창밖이 아닌 유저의 옆모습(카메라)을 지그시 올려다보는 구도. 몹시 부드럽고 온전히 신뢰하는 눈빛.
+
+Plaintext
+[공통 참조 문구]
+"Please keep ONLY the character's facial features, short messy silver hair, steampunk goggles resting on her head, teal-green eyes, and the energetic, confident anime art style from the reference image (player_sr4_front.png). Do NOT copy the chibi style, the pose, holding the sword, or the background from the reference. Pay strict and careful attention to rendering hands, fingers, and toes perfectly and anatomically correct. Create a completely new pose, background, outfit, and facial expression matching the following medieval fantasy scenario:"
+Stage 5 intimacy in a medieval fantasy setting. Setting: The dark, quiet steering deck of an airship sailing under a brilliant, starry night sky. Outfit: Heavy coats and belts removed, wearing a soft, relaxed off-shoulder white tunic. Pose: Sitting with her knees pulled together on a small chair, resting her chin on her perfectly drawn hand, leaning slightly toward the viewer. Expression: Softer, deeply relaxed, and completely unguarded, looking up at the viewer with quiet, affectionate trust. (9:16 aspect ratio)
+
+[6단계] 동력석 앞의 고백 (Core Room Whisper)
+컨셉: 마법 동력석이 빛나는 엔진실. 자신의 심장과도 같은 가장 소중한 동력실에서 유저의 손을 잡으며 쑥스럽게 속마음을 고백.
+의상/장소: 가벼운 리넨 셔츠. 에메랄드빛 마법 에너지가 몽환적으로 뿜어져 나오는 비행선 깊은 곳의 동력실.
+포즈/표정: 차가운 금속 벽에 등을 기대고, 유저의 손을 두 손으로 감싸 쥐어 자신의 가슴팍으로 조심스레 끌어당기는 포즈. 쑥스러워 아랫입술을 꾹 깨문 진지한 로맨틱함.
+
+Plaintext
+[공통 참조 문구]
+"Please keep ONLY the character's facial features, short messy silver hair, steampunk goggles resting on her head, teal-green eyes, and the energetic, confident anime art style from the reference image (player_sr4_front.png). Do NOT copy the chibi style, the pose, holding the sword, or the background from the reference. Pay strict and careful attention to rendering hands, fingers, and toes perfectly and anatomically correct. Create a completely new pose, background, outfit, and facial expression matching the following medieval fantasy scenario:"
+Stage 6 intimacy in a medieval fantasy setting. Setting: The airship's core room, bathed in a mesmerizing, glowing teal magical energy from a central crystal. Outfit: A simple, slightly loose white shirt with her silver hair looking beautifully messy. Pose: Leaning her back against a brass wall, gently pulling the viewer's hand toward her heart with both of her perfectly drawn hands. Expression: Unusually shy, blushing deeply, biting her lower lip, showing intensely sincere, deeply loving, and passionate romantic emotion. (9:16 aspect ratio)
+
+[7단계] 숨 막히는 환기구 (Ventilation Shaft)
+💡 (필터 안전 우회 '쉿' 포즈 + 손가락 완벽 렌더링)
+컨셉: 공중 해적을 피해 비행선의 좁은 환기구(Ventilation shaft) 틈새에 유저와 밀착해 숨음. 기계 소리보다 유저의 숨결이 더 크게 느껴지는 초밀착 텐션.
+의상/장소: 몸에 딱 붙는 어두운 가죽 은밀 기동복. 희미한 달빛만 환풍구를 통해 들어오는 몹시 좁고 서늘한 금속 통로.
+포즈/표정: 금속 벽에 기대어 카메라(유저)와 초밀착한 상태에서, 입술에 검지를 대며 '쉿' 하는 하이앵글. 열기로 새빨개진 얼굴과 당황하여 흔들리는 청록색 눈동자.
+
+Plaintext
+[공통 참조 문구]
+"Please keep ONLY the character's facial features, short messy silver hair, steampunk goggles resting on her head, teal-green eyes, and the energetic, confident anime art style from the reference image (player_sr4_front.png). Do NOT copy the chibi style, the pose, holding the sword, or the background from the reference. Pay strict and careful attention to rendering hands, fingers, and toes perfectly and anatomically correct. Create a completely new pose, background, outfit, and facial expression matching the following medieval fantasy scenario:"
+Stage 7 intimacy in a medieval fantasy setting. Setting: Hiding inside a extremely narrow, dark metal ventilation shaft inside an airship, avoiding sky pirates. Outfit: Sleek, form-fitting dark leather stealth attire. Pose: A dramatic high-tension close-up shot, standing inches away from the viewer, placing her perfectly drawn index finger over her own lips in a 'shh' gesture. Expression: Cheeks heavily flushed from the intense physical closeness, wide teal-green eyes looking up with unspoken, overwhelming romantic desire. (9:16 aspect ratio)
+
+[8단계] 고장 난 함장님 (Oversized Vulnerability) 👙
+💡 (요청 치트키: '오직 유저의 오버핏 셔츠 + 반측면 구도 + 무릎 꽉 끌어안기 + 정교한 손/발가락 묘사 지시'로 하의실종 물리 텐션 극대화)
+컨셉: 유저의 개인 선실. 기계와 제복으로 꽁꽁 싸매던 그녀가 오직 유저의 큰 셔츠만 빌려 입은 채, 얌전한 고양이처럼 무장해제된 도발적인 밤.
+의상/장소: 바지 없이 오직 유저의 헐렁한 흰색 수면 셔츠만 입음. 따뜻한 작은 난로가 켜진 아늑한 나무 선실.
+포즈/표정: 카메라를 향해 살짝 몸을 튼 반측면 구도(Angled slightly towards the camera). 푹신한 러그 위에 앉아 두 무릎을 가슴까지 꽉 끌어올려 안고(맨다리와 완벽하게 묘사된 예쁜 발가락 노출) 올려다보는 자세. (셔츠가 팽팽하게 당겨짐). 짙은 애정과 부끄러움이 섞인 몽롱한 미소.
+
+Plaintext
+[공통 참조 문구]
+"Please keep ONLY the character's facial features, short messy silver hair, steampunk goggles resting on her head, teal-green eyes, and the energetic, confident anime art style from the reference image (player_sr4_front.png). Do NOT copy the chibi style, the pose, holding the sword, or the background from the reference. Pay strict and careful attention to rendering hands, fingers, and toes perfectly and anatomically correct. Create a completely new pose, background, outfit, and facial expression matching the following medieval fantasy scenario:"
+Stage 8 intimacy in a medieval fantasy setting. Setting: A cozy, warm, candle-lit private wooden cabin on the airship at night. Outfit: Wearing an oversized, loose white linen button-up nightshirt clearly borrowed from the viewer. Pose: Angled slightly towards the camera. Sitting on a plush rug with her body turned partially towards the viewer, gently hugging her knees tightly to her chest with perfectly drawn hands, showing her bare legs and perfectly drawn toes, looking up directly at the camera. Expression: A deeply affectionate, heavily blushing smile, peeking up with intense affection and sweet, vulnerable trust. (9:16 aspect ratio)
+
+[9단계] 아찔한 아침의 무방비함 (Morning Camisole)
+💡 (요청 치트키: '흘러내린 실크 캐미솔 + 무릎 위 베개에 팔 기대기 + 상체를 숙인 자세 + 정교한 손'으로 완벽한 무방비 텐션 연출)
+컨셉: 모든 것을 나눈 다음 날 아침. 뻗친 은발이 더욱 귀엽게 흐트러진 채, 유저의 침대에서 완벽하게 경계를 풀고 나른하게 기대어오는 시간.
+의상/장소: 어깨끈이 한쪽 살짝 흘러내린 얇고 부드러운 하얀색 실크 캐미솔. 둥근 유리창으로 눈부신 아침 햇살이 쏟아지는 푹신한 침대 위.
+포즈/표정: 흐트러진 침대 위에 앉아, 무릎 위에 둔 푹신한 베개에 팔을 걸치고 유저(카메라) 쪽으로 상체를 살짝 숙인 구도(leaning forward slightly). 막 잠에서 깬 나른하고 뇌쇄적인 표정, 살짝 벌어진 입술과 붉어진 뺨.
+
+Plaintext
+[공통 참조 문구]
+"Please keep ONLY the character's facial features, short messy silver hair, steampunk goggles resting on her head, teal-green eyes, and the energetic, confident anime art style from the reference image (player_sr4_front.png). Do NOT copy the chibi style, the pose, holding the sword, or the background from the reference. Pay strict and careful attention to rendering hands, fingers, and toes perfectly and anatomically correct. Create a completely new pose, background, outfit, and facial expression matching the following medieval fantasy scenario:"
+Stage 9 intimacy in a medieval fantasy setting. Setting: A grand, plush bed inside the airship cabin bathed in warm, brilliant morning sunlight. Outfit: A delicate, thin white silk camisole sleepwear with a loose wide neckline, slipping slightly off one bare shoulder. Pose: Angled slightly towards the camera. Sitting up in the messy bed, leaning forward slightly towards the viewer while resting her beautifully drawn arms and hands casually on a soft pillow in her lap, showing a completely relaxed morning posture. Expression: A highly affectionate, slightly sleepy morning look, with a heavy blush, slightly parted lips, and a sweet, vulnerable gaze full of absolute trust and romantic desire. (9:16 aspect ratio)
+
+[10단계] 하늘 위의 서약 (Sky Captain's Vow)
+💡 (불쾌한 골짜기 차단: 작위적인 웃음 대신, 벅찬 눈물과 애틋하고 다정한 미소 묘사 + 손 묘사 집중)
+컨셉: 구름 바다를 항해하는 비행선 선수(갑판 앞머리)에서의 결혼식. 화려한 톱니바퀴와 레이스가 섞인 유니크한 웨딩드레스를 입고 감격에 겨워 유저에게 안겨오는 프로포즈.
+의상/장소: 순백의 미니 드레스에 갈색 가죽과 황동 톱니바퀴 장식이 믹스된 '스팀펑크 함장의 웨딩룩'. 찬란한 일출 빛이 쏟아지는 구름 위 비행선 갑판.
+포즈/표정: 카메라(유저)를 향해 두 팔을 뻗으며 감격스럽게 달려와 와락 안기는 구도. 기쁨의 눈물을 뚝뚝 흘리며, 입을 너무 크게 벌리지 않고 세상에서 가장 다정하고 아름답게 짓는 환희의 미소.
+
+Plaintext
+[공통 참조 문구]
+"Please keep ONLY the character's facial features, short messy silver hair, steampunk goggles resting on her head, teal-green eyes, and the energetic, confident anime art style from the reference image (player_sr4_front.png). Do NOT copy the chibi style, the pose, holding the sword, or the background from the reference. Pay strict and careful attention to rendering hands, fingers, and toes perfectly and anatomically correct. Create a completely new pose, background, outfit, and facial expression matching the following medieval fantasy scenario:"
+Stage 10 final climax intimacy in a medieval fantasy setting. Setting: The front wooden deck of a majestic airship soaring above a sea of clouds during a glorious, bright sunrise. Outfit: A spectacular "Steampunk Captain Bride" attire, combining a brilliant white ruffled mini wedding dress with elegant brass gear accents and leather adventuring boots. Pose: Stepping forward dynamically with both arms outstretched for a massive, enthusiastic embrace, showing perfectly drawn hands. Expression: Pure bliss, crying soft tears of joy, a beautiful and natural warm smile with slightly parted lips, eyes shining with overwhelming affection and eternal love. (9:16 aspect ratio)

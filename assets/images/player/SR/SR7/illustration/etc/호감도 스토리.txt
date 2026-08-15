@@ -1,0 +1,107 @@
+🛡️ [모든 단계 공통 참조 문구] (반드시 복사해서 맨 앞에 붙여넣기)
+"Please keep ONLY the character's facial features, dark purple hair styled in twin buns with purple ribbons, bright purple eyes, and the earnest, disciplined anime art style from the reference image (player_sr7_front.png). Do NOT copy the chibi style, the pose, holding the sword, or the background from the reference. Pay strict and careful attention to rendering hands, fingers, and toes perfectly and anatomically correct. Create a completely new pose, background, outfit, and facial expression matching the following medieval fantasy scenario:"
+
+🌹 새침한 동양풍 검사의 순애, 호감도 10단계 프롬프트
+[1단계] 대나무 숲의 경계 (Bamboo Sentinel)
+컨셉: 안개 낀 대나무 숲에서의 첫 만남. 주군(또는 유저)을 지키기 위해 바짝 날이 선 고지식한 호위무사의 모습.
+의상/장소: 네이비색 기모노풍 전투복과 어깨 견갑. 안개가 자욱하게 깔린 고요한 달빛 아래 대나무 숲길.
+포즈/표정: 몸을 살짝 틀어, 한 손으로 카타나(일본도)의 자루를 꽉 쥔 포즈. 정교하게 그려진 손가락. 감정을 억누른 채 날카롭고 깐깐하게 쏘아보는 보라색 눈빛.
+
+Plaintext
+[공통 참조 문구]
+"Please keep ONLY the character's facial features, dark purple hair styled in twin buns with purple ribbons, bright purple eyes, and the earnest, disciplined anime art style from the reference image (player_sr7_front.png). Do NOT copy the chibi style, the pose, holding the sword, or the background from the reference. Pay strict and careful attention to rendering hands, fingers, and toes perfectly and anatomically correct. Create a completely new pose, background, outfit, and facial expression matching the following medieval fantasy scenario:"
+Stage 1 intimacy in a medieval fantasy setting. Setting: A quiet, misty bamboo forest path illuminated by soft moonlight. Outfit: Navy blue and white kimono-style battle gear with a shoulder pauldron. Pose: Standing in a vigilant, side-facing stance, gripping the hilt of her sheathed katana tightly with perfectly drawn hands. Expression: Stoic, strict, and highly disciplined, evaluating the viewer with sharp, untrusting purple eyes. (9:16 aspect ratio)
+
+[2단계] 툇마루의 차 한 잔 (Engawa Peace)
+컨셉: 임무가 끝난 후, 고풍스러운 저택의 툇마루에서 유저에게 따뜻한 차를 내어주며 아주 약간 경계를 푸는 단계.
+의상/장소: 무거운 무장과 견갑을 벗은 단정한 네이비색 평상복 기모노. 모래 정원이 보이는 고요한 목조 저택의 툇마루(Engawa).
+포즈/표정: 툇마루에 다소곳하게 정좌(무릎 꿇고 앉기)하여, 유저 쪽으로 찻잔을 두 손으로 조심스레 밀어주는 모션. 깐깐함이 조금 풀린 희미하고 예의 바른 미소.
+
+Plaintext
+[공통 참조 문구]
+"Please keep ONLY the character's facial features, dark purple hair styled in twin buns with purple ribbons, bright purple eyes, and the earnest, disciplined anime art style from the reference image (player_sr7_front.png). Do NOT copy the chibi style, the pose, holding the sword, or the background from the reference. Pay strict and careful attention to rendering hands, fingers, and toes perfectly and anatomically correct. Create a completely new pose, background, outfit, and facial expression matching the following medieval fantasy scenario:"
+Stage 2 intimacy in a medieval fantasy setting. Setting: A traditional wooden engawa (porch) overlooking a peaceful zen rock garden in the afternoon. Outfit: Armor removed, wearing a modest, comfortable navy blue casual kimono. Pose: Kneeling politely (seiza), carefully offering a traditional cup of green tea toward the viewer with her perfectly drawn fingers. Expression: A polite, subtle, and slightly stiff smile, showing a softening, respectful demeanor. (9:16 aspect ratio)
+
+[3단계] 축제의 당고 (Festival Dango)
+컨셉: 우연히 함께 가게 된 마을 축제. 평소의 융통성 없는 모습을 버리고, 처음으로 아이처럼 신나게 웃는 시간.
+의상/장소: 화려한 벚꽃 무늬가 들어간 가벼운 유카타 차림. 붉은 등불이 가득 켜진 시끌벅적한 야시장.
+포즈/표정: 삼색 당고(꼬치)를 손에 쥐고 유저를 향해 확 뒤돌아보며 한 입 먹어보라고 내미는 역동적인 구도. 세상에서 가장 해맑고 무방비한 쾌활한 웃음.
+
+Plaintext
+[공통 참조 문구]
+"Please keep ONLY the character's facial features, dark purple hair styled in twin buns with purple ribbons, bright purple eyes, and the earnest, disciplined anime art style from the reference image (player_sr7_front.png). Do NOT copy the chibi style, the pose, holding the sword, or the background from the reference. Pay strict and careful attention to rendering hands, fingers, and toes perfectly and anatomically correct. Create a completely new pose, background, outfit, and facial expression matching the following medieval fantasy scenario:"
+Stage 3 intimacy in a medieval fantasy setting. Setting: A bustling, vibrant Japanese-style town street at night, decorated with glowing red lanterns. Outfit: A cute, casual yukata dress with floral cherry blossom patterns. Pose: Turning around dynamically, holding a skewer of three-colored dango with perfectly drawn hands, offering it to the viewer playfully. Expression: Bright, energetic, and genuinely cheerful, dropping her strict guard completely. (9:16 aspect ratio)
+
+[4단계] 달빛 아래 연무장 (Moonlit Fluster)
+컨셉: 달밤에 혼자 목검을 휘두르며 훈련하다, 유저가 지켜보고 있었다는 걸 깨닫고 크게 당황하는 츤데레 찰나.
+의상/장소: 땀에 살짝 젖은 하얀색 수련용 도복(검도복). 벚꽃잎이 흩날리는 고요한 달밤의 마당.
+포즈/표정: 손등으로 뺨의 땀을 닦아내다 멈칫하여 유저와 눈이 마주친 구도. 크게 당황하여 보라색 눈망울이 흔들리고, 귀끝까지 새빨개진 츤데레 표정.
+
+Plaintext
+[공통 참조 문구]
+"Please keep ONLY the character's facial features, dark purple hair styled in twin buns with purple ribbons, bright purple eyes, and the earnest, disciplined anime art style from the reference image (player_sr7_front.png). Do NOT copy the chibi style, the pose, holding the sword, or the background from the reference. Pay strict and careful attention to rendering hands, fingers, and toes perfectly and anatomically correct. Create a completely new pose, background, outfit, and facial expression matching the following medieval fantasy scenario:"
+Stage 4 intimacy in a medieval fantasy setting. Setting: A quiet wooden training courtyard at night, with cherry blossom petals falling under a bright moon. Outfit: A practical, slightly damp white martial arts training gi. Pose: Pausing mid-motion, wiping sweat from her cheek with the back of her perfectly drawn hand, caught off guard. Expression: Startled, highly flustered, with a sudden heavy blush spreading across her cheeks, losing her composed samurai demeanor completely. (9:16 aspect ratio)
+
+[5단계] 소나기를 피해서 (Shrine Shelter)
+컨셉: 갑작스러운 소나기를 피해 들어온 낡은 사당. 비에 젖은 만두머리를 풀며, 유저에게 완전히 기대어 쉬는 무방비한 시간.
+의상/장소: 젖은 겉옷을 벗은 가벼운 흰색 속기모노(하주반) 차림. 비 내리는 소리만 들리는 어두운 목조 사당 안쪽.
+포즈/표정: 바닥에 다리를 모으고 편하게 앉아, 젖은 트윈 만두머리를 수건으로 털어 말리다 유저를 지그시 올려다보는 구도. 날 선 모습은 완전히 사라진 애틋하고 나른한 눈빛.
+
+Plaintext
+[공통 참조 문구]
+"Please keep ONLY the character's facial features, dark purple hair styled in twin buns with purple ribbons, bright purple eyes, and the earnest, disciplined anime art style from the reference image (player_sr7_front.png). Do NOT copy the chibi style, the pose, holding the sword, or the background from the reference. Pay strict and careful attention to rendering hands, fingers, and toes perfectly and anatomically correct. Create a completely new pose, background, outfit, and facial expression matching the following medieval fantasy scenario:"
+Stage 5 intimacy in a medieval fantasy setting. Setting: Inside an old, dry wooden shrine room while a heavy rainstorm pours outside. Outfit: Outer kimono removed, wearing only a relaxed, slightly damp white inner robe. Pose: Sitting casually on the wooden floor, pausing while drying her wet twin buns with perfectly drawn hands, leaning slightly toward the viewer. Expression: Soft, unguarded, and deeply relaxed, looking up at the viewer with quiet, vulnerable affection. (9:16 aspect ratio)
+
+[6단계] 지붕 위의 진심 (Rooftop Confession)
+컨셉: 고성(저택)의 높은 기와지붕 위. 평생 주군으로만 모시려 했으나 커져버린 사랑을 주체하지 못하고 고백하는 밤.
+의상/장소: 우아한 짙은 보라색 실크 이브닝 기모노. 보름달이 거대하게 뜬 고풍스러운 기와지붕 위.
+포즈/표정: 유저의 손을 두 손으로 소중히 감싸 쥐고, 자신의 뺨에 가져다 대며 시선을 살짝 피하는 애달픈 포즈. 부끄러움에 터질 듯 붉어진 얼굴과 진지한 로맨틱함.
+
+Plaintext
+[공통 참조 문구]
+"Please keep ONLY the character's facial features, dark purple hair styled in twin buns with purple ribbons, bright purple eyes, and the earnest, disciplined anime art style from the reference image (player_sr7_front.png). Do NOT copy the chibi style, the pose, holding the sword, or the background from the reference. Pay strict and careful attention to rendering hands, fingers, and toes perfectly and anatomically correct. Create a completely new pose, background, outfit, and facial expression matching the following medieval fantasy scenario:"
+Stage 6 intimacy in a medieval fantasy setting. Setting: Sitting on the curved tiled roof of a traditional high estate under a giant, glowing full moon. Outfit: An elegant, flowing deep-purple silk evening kimono. Pose: Sitting close, gently holding the viewer's hand with both of her perfectly drawn hands, pressing it tenderly against her cheek while looking slightly away. Expression: Unusually shy, blushing deeply, showing intensely sincere, deeply loving, and passionate romantic emotion, characteristic of a flustered tsundere. (9:16 aspect ratio)
+
+[7단계] 장지문 뒤의 텐션 (Shoji Screen Tension)
+💡 (필터 안전 우회 '쉿' 포즈 + 손가락 완벽 렌더링)
+컨셉: 암살자를 피해 좁은 장지문(Shoji) 틈새의 벽장에 유저와 밀착해 숨음. 거친 숨결이 닿는 거리에서 이성이 마비될 듯한 초밀착 텐션.
+의상/장소: 몸에 딱 붙는 어두운 색의 쿠노이치(여닌자) 은밀 기동복. 달빛조차 들지 않는 몹시 좁고 밀폐된 나무 벽장 속.
+포즈/표정: 나무 벽에 기대어 카메라(유저)와 초밀착한 상태에서, 입술에 검지를 대며 '쉿' 하는 하이앵글. 열기로 새빨개진 얼굴과 당황하여 흔들리는 보라색 눈동자.
+
+Plaintext
+[공통 참조 문구]
+"Please keep ONLY the character's facial features, dark purple hair styled in twin buns with purple ribbons, bright purple eyes, and the earnest, disciplined anime art style from the reference image (player_sr7_front.png). Do NOT copy the chibi style, the pose, holding the sword, or the background from the reference. Pay strict and careful attention to rendering hands, fingers, and toes perfectly and anatomically correct. Create a completely new pose, background, outfit, and facial expression matching the following medieval fantasy scenario:"
+Stage 7 intimacy in a medieval fantasy setting. Setting: Hiding inside a extremely narrow, dark closet space behind traditional shoji sliding doors, avoiding enemy ninjas. Outfit: Sleek, form-fitting dark ninja/stealth attire. Pose: A dramatic high-tension close-up shot, standing inches away from the viewer, placing her perfectly drawn index finger over her own lips in a 'shh' gesture. Expression: Cheeks heavily flushed from the intense physical closeness, wide purple eyes looking up with unspoken, overwhelming romantic desire. (9:16 aspect ratio)
+
+[8단계] 해제된 무사 (Oversized Vulnerability) 👙
+💡 (요청 치트키: '오직 유저의 오버핏 셔츠 + 반측면 구도 + 무릎 꽉 끌어안기 + 정교한 손/발가락 묘사 지시'로 하의실종 물리 텐션 극대화)
+컨셉: 유저의 방. 항상 무장과 기모노로 온몸을 꽁꽁 싸매던 고지식한 그녀가, 오직 유저의 큰 셔츠만 빌려 입은 채 얌전한 강아지처럼 무장해제된 도발적인 밤.
+의상/장소: 바지 없이 오직 유저의 헐렁한 흰색 수면 셔츠만 입음. 따뜻한 화로가 타오르는 아늑한 다다미방.
+포즈/표정: 카메라를 향해 살짝 몸을 튼 반측면 구도(Angled slightly towards the camera). 푹신한 요 위(Futon)에 앉아 두 무릎을 가슴까지 꽉 끌어올려 안고(맨다리와 완벽하게 묘사된 예쁜 발가락 노출) 올려다보는 자세. (셔츠가 팽팽하게 당겨짐). 짙은 애정과 부끄러움이 섞인 몽롱한 미소.
+
+Plaintext
+[공통 참조 문구]
+"Please keep ONLY the character's facial features, dark purple hair styled in twin buns with purple ribbons, bright purple eyes, and the earnest, disciplined anime art style from the reference image (player_sr7_front.png). Do NOT copy the chibi style, the pose, holding the sword, or the background from the reference. Pay strict and careful attention to rendering hands, fingers, and toes perfectly and anatomically correct. Create a completely new pose, background, outfit, and facial expression matching the following medieval fantasy scenario:"
+Stage 8 intimacy in a medieval fantasy setting. Setting: A cozy, warm, candle-lit private tatami room at night with a small hearth. Outfit: Wearing an oversized, loose white linen button-up nightshirt clearly borrowed from the viewer. Pose: Angled slightly towards the camera. Sitting on a plush futon with her body turned partially towards the viewer, gently hugging her knees tightly to her chest with perfectly drawn hands, showing her bare legs and perfectly drawn toes, looking up directly at the camera. Expression: A deeply affectionate, heavily blushing smile, peeking up with intense affection and sweet, vulnerable trust. (9:16 aspect ratio)
+
+[9단계] 아찔한 아침의 무방비함 (Morning Camisole)
+💡 (요청 치트키: '흘러내린 실크 캐미솔 + 무릎 위 베개에 팔 기대기 + 상체를 숙인 자세 + 정교한 손'으로 완벽한 무방비 텐션 연출)
+컨셉: 모든 것을 나눈 다음 날 아침. 단정하던 트윈 만두머리가 헝클어진 채, 유저의 이부자리에서 완벽하게 경계를 풀고 나른하게 다가오는 시간.
+의상/장소: 어깨끈이 한쪽 살짝 흘러내린 얇고 부드러운 하얀색 실크 캐미솔. 장지문 사이로 눈부신 아침 햇살이 쏟아지는 푹신한 침구 위.
+포즈/표정: 흐트러진 이부자리 위에 앉아, 무릎 위에 둔 푹신한 베개에 팔을 걸치고 유저(카메라) 쪽으로 상체를 살짝 숙인 구도(leaning forward slightly). 막 잠에서 깬 나른하고 뇌쇄적인 표정, 살짝 벌어진 입술과 붉어진 뺨.
+
+Plaintext
+[공통 참조 문구]
+"Please keep ONLY the character's facial features, dark purple hair styled in twin buns with purple ribbons, bright purple eyes, and the earnest, disciplined anime art style from the reference image (player_sr7_front.png). Do NOT copy the chibi style, the pose, holding the sword, or the background from the reference. Pay strict and careful attention to rendering hands, fingers, and toes perfectly and anatomically correct. Create a completely new pose, background, outfit, and facial expression matching the following medieval fantasy scenario:"
+Stage 9 intimacy in a medieval fantasy setting. Setting: A grand, plush futon bed bathed in warm, brilliant morning sunlight filtering through shoji screens. Outfit: A delicate, thin white silk camisole sleepwear with a loose wide neckline, slipping slightly off one bare shoulder. Pose: Angled slightly towards the camera. Sitting up in the messy bed, leaning forward slightly towards the viewer while resting her beautifully drawn arms and hands casually on a soft pillow in her lap, showing a completely relaxed morning posture. Expression: A highly affectionate, slightly sleepy morning look, with a heavy blush, slightly parted lips, and a sweet, vulnerable gaze full of absolute trust and romantic desire. (9:16 aspect ratio)
+
+[10단계] 영원한 검의 서약 (Samurai's Vow)
+💡 (불쾌한 골짜기 차단: 작위적인 웃음 대신, 벅찬 눈물과 애틋하고 다정한 미소 묘사 + 손 묘사 집중)
+컨셉: 흩날리는 벚꽃나무 아래에서의 신성한 결혼식. 검을 버리고 화려한 전통 혼례복을 입은 그녀가, 기쁨의 눈물을 펑펑 흘리며 유저에게 와락 안겨오는 프로포즈.
+의상/장소: 순백의 실크에 은은한 보라색 벚꽃 자수가 새겨진 동양풍의 판타지 웨딩드레스(Shiromuku fusion). 연분홍 벚꽃잎이 눈처럼 흩날리는 찬란한 신사 앞마당.
+포즈/표정: 카메라(유저)를 향해 두 팔을 뻗으며 감격스럽게 달려와 와락 안기는 구도. 기쁨의 눈물을 뚝뚝 흘리며, 입을 너무 크게 벌리지 않고 세상에서 가장 다정하고 아름답게 짓는 환희의 미소.
+
+Plaintext
+[공통 참조 문구]
+"Please keep ONLY the character's facial features, dark purple hair styled in twin buns with purple ribbons, bright purple eyes, and the earnest, disciplined anime art style from the reference image (player_sr7_front.png). Do NOT copy the chibi style, the pose, holding the sword, or the background from the reference. Pay strict and careful attention to rendering hands, fingers, and toes perfectly and anatomically correct. Create a completely new pose, background, outfit, and facial expression matching the following medieval fantasy scenario:"
+Stage 10 final climax intimacy in a medieval fantasy setting. Setting: A breathtaking shrine courtyard illuminated by a glorious morning sun, with hundreds of cherry blossom petals swirling in the air. Outfit: A spectacular fantasy wedding attire fusing a white Shiromuku gown with elegant purple floral embroidery. Pose: Stepping forward dynamically with both arms outstretched for a massive, enthusiastic embrace, showing perfectly drawn hands. Expression: Pure bliss, crying soft tears of joy, a beautiful and natural warm smile with slightly parted lips, eyes shining with overwhelming affection and eternal love. (9:16 aspect ratio)

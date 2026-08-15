@@ -1,0 +1,162 @@
+🛡️ [모든 단계 공통 참조 문구] (반드시 복사해서 맨 앞에 붙여넣기)
+​"Please keep ONLY the character's facial features, short chestnut brown hair, bright blue eyes, and overall anime art style from the reference image (image_12.png). Do NOT copy the pose, sitting position, or camera angle from the reference. Pay strict and careful attention to rendering hands, fingers, and toes perfectly and anatomically correct. Create a completely new pose, background, outfit, and facial expression matching the following medieval fantasy scenario:"
+
+
+​🌹 은근히 새침한 기사단장의 무장해제, 호감도 10단계 프롬프트
+​[1단계] 냉철한 감시 (Distant Sentinel)
+
+컨셉: 기사단 본부 정문. 유저를 잠재적 위협으로 간주하고, 정의로운 시선으로 철저히 감시하며 거리를 두는 모습.
+
+의상/장소: 이미지의 단정한 파란색 기사단 복장에 어깨 견갑을 착용한 모습. 석조로 지어진 웅장한 기사단 본부 입구.
+
+포즈/표정: 허리에 한 손을 얹고 곧게 서서 정면을 쳐다보며, 단검의 자루를 꽉 쥔 포즈. 정교하게 그려진 손가락. Stoic하고 차가운, 불통의 시선. Direct, untrusting eye contact.
+
+​Plaintext
+
+[공통 참조 문구]
+
+Stage 1 intimacy in a medieval fantasy setting. Setting: The grand, sunlit stone entrance of a prestigious knight order guildhall. Outfit: Full neat blue and white knight uniform with gold trim and one shoulder pauldron. Pose: Standing perfectly straight, placing one hand with perfectly drawn fingers on her hip while the other grips her daggers hilt, inspecting the viewer closely. Expression: Stoic, vigilant, and cool expression, analyzing the viewer with unwavering, untrusting blue eyes. (9:16 aspect ratio)
+
+
+​[2단계] 공적인 차 한잔 (Greasy Camaraderie)
+
+컨셉: 비행선 조종실. 함께 비행선 엔진을 정비한 후. 유저의 실력을 인정하며 공구를 툭 던져주는 털털한 전우애.
+
+의상/장소: 코트를 벗고 소매를 걷어붙인 흰 셔츠와 가죽 서스펜더. 햇살이 비치는 비행선의 갑판.
+
+포즈/표정: 나무 상자 위에 걸터앉아, 유저를 향해 작은 톱니바퀴(Gear)를 가볍게 던지는 모션. 얼굴에 기름때가 살짝 묻은 채 짓는 자신만만한 미소.
+
+​Plaintext
+
+[공통 참조 문구]
+
+Stage 2 intimacy in a medieval fantasy setting. Setting: Inside a moving, warm airship cockpit filled with brass gears and navigation tools. Outfit: Vest removed, wearing a comfortable white linen shirt with rolled-up sleeves and leather suspenders. Pose: Sitting on a wooden crate, balancing on one leg, playfully tossing a small brass gear toward the viewer with perfectly drawn hands. Expression: A clever, confident smirk, showing a smudge of grease on her cheek. (9:16 aspect ratio)
+
+
+​[3단계] 기사단의 긍지 (Inventor's Pride)
+
+컨셉: 기계 도시의 광장. 자신이 새로 발견한 동력석(크리스털)을 유저에게 신나게 자랑하며, 기 기계장치를 가리키는 쾌활한 시간.
+
+의상/장소: 톱니바퀴 장식이 달린 스포티하고 발랄한 사복 튜닉. 증기가 피어오르는 활기찬 기계 도시의 태엽 광장.
+
+포즈/표정: 상점 가판대에 상체를 쑥 내밀며, 손에 든 빛나는 크리스털을 가리키고 유저를 돌아보는 역동적인 구도. 세상에서 가장 신나고 호기심 가득한 웃음.
+
+​Plaintext
+
+[공통 참조 문구]
+
+Stage 3 intimacy in a medieval fantasy setting. Setting: A bustling, sunlit clockwork city market square with steam vents and brass architecture. Outfit: Sporty, casual inventor's tunic with tool belts and Goggles resting on her head. Pose: Leaning forward excitedly over a stall, pointing at a shiny glowing crystal with perfectly drawn hands, looking back at the viewer. Expression: Bright, enthusiastic, and bursting with proud, energetic joy. (9:16 aspect ratio)
+
+
+​[4단계] 황혼의 연무장 (Twilight Touch)
+
+컨셉: 훈련이 끝난 저녁. 목검을 건네받다 유저의 손과 스치자, 평정심을 잃고 은근한 텐션을 느끼는 찰나.
+
+의상/장소: 땀에 살짝 젖은 흰색 리넨 셔츠와 가죽 바지. 붉은 노을이 길게 드리운 고요한 기사단 연무장.
+
+포즈/표정: 목검을 건네다가 멈칫하여 유저의 손(카메라 밖)에 시선이 머문 구도. 놀라움에 푸른 눈동자가 커지고, 하얀 뺨에 확연한 홍조가 번짐.
+
+​Plaintext
+
+[공통 참조 문구]
+
+Stage 4 intimacy in a medieval fantasy setting. Setting: A quiet, dusty knight academy training ground in a castle courtyard during twilight. Outfit: Damp with sweat white linen training shirt and leather trousers. Pose: Pausing mid-motion while handing over a wooden practice sword with perfectly drawn fingers, looking at her hand in surprise. Expression: Startled, heart-fluttering, with a sudden heavy blush spreading across her pale cheeks, losing her composed demeanor. (9:16 aspect ratio)
+
+
+​[5단계] 조종실의 쉼표 (Quiet Porthole)
+
+컨셉: 비가 쏟아지는 비행선 조종실 안. 엔진 소리와 빗소리만 들리는 좁은 공간에서 평소의 허세를 풀고 유저에게 기대는 밤.
+
+의상/장소: 고글을 목에 걸치고 단추를 느슨하게 푼 리넨 셔츠. 빗방울이 부딪히는 둥근 유리창(Porthole)이 있는 조종실.
+
+포즈/표정: 낡은 가죽 소파에 양반다리를 하고 앉아, 수건으로 젖은 은발을 털다 말고 유저를 지그시 응시하는 구도. 한결 부드럽고 애틋해진 눈빛.
+
+​Plaintext
+
+[공통 참조 문구]
+
+Stage 5 intimacy in a medieval fantasy setting. Setting: Inside a cozy, dimly lit airship cockpit, with rain hitting the round glass porthole window. Outfit: Relaxed medieval loungewear, soft off-shoulder white linen tunic. Pose: Sitting cross-legged on a leather sofa, resting her perfectly drawn hands casually in her lap, looking down at her hands. Expression: Soft, unguarded, and deeply relaxed, showing immense comfort and absolute trust. (9:16 aspect ratio)
+
+
+​[6단계] 동력실의 고백 (Engine Room Whispers)
+
+컨셉: 푸르게 빛나는 엔진 동력실. 자신의 가장 은밀한 공간에서 유저의 손을 잡으며 새침하면서도 진지하게 속마음을 고백함.
+
+의상/장소: 얇은 캐미솔 위에 갈색 코트를 툭 걸친 모습. 푸른빛이 몽환적으로 감도는 비행선 동력실.
+
+포즈/표정: 차가운 황동 난간에 등을 기대고, 유저의 손(카메라 쪽)을 끌어당겨 자신의 가슴 쪽으로 이끄는 포즈. 쑥스러워 아랫입술을 꾹 깨문 뇌쇄적인 새침함.
+
+​Plaintext
+
+[공통 참조 문구]
+
+Stage 6 intimacy in a medieval fantasy setting. Setting: A high castle balcony at night, looking down on a glowing magical city under a moonlit sky. Outfit: An elegant navy-blue velvet evening gown with gold embroidery. Pose: Leaning back gently against the stone railing, reaching out a perfectly drawn hand with perfectly drawn fingers to gently hold the viewer's hand. Expression: Dreamy, alluring, and slightly hesitant, biting her lower lip, showing deep, serious romantic emotion. (9:16 aspect ratio)
+
+
+​[7단계] 숨 막히는 동력실의 틈새 (Gear Shaft Tension)
+
+💡 (필터 안전 우회 '쉿' 포즈 적용)
+
+컨셉: 경비병을 피해 거대한 톱니바퀴들이 돌아가는 정비 통로(Shaft)에 함께 숨은 상황. 기계 소리보다 유저의 심장 소리가 더 크게 들리는 초밀착 텐션.
+
+의상/장소: 몸에 딱 붙는 어두운 색의 야간 기동복. 희미한 램프 불빛만 있는 몹시 좁고 뻑뻑한 톱니바퀴 틈새.
+
+포즈/표정: 벽에 기대어 카메라(유저)와 초밀착한 상태에서, 입술에 검지를 대며 '쉿' 하는 하이앵글 구도. 열기로 새빨개진 얼굴과 당황한 푸른 눈동자.
+
+​Plaintext
+
+[공통 참조 문구]
+
+Stage 7 intimacy in a medieval fantasy setting. Setting: Hiding inside a extremely narrow, dark maintenance shaft between giant brass gears. Outfit: Sleek, form-fitting dark rogue/stealth attire. Pose: A dramatic high-tension close-up shot, standing inches away from the viewer, placing her perfectly drawn index finger over her own lips in a 'shh' gesture. Expression: Heav히 flushed from the intense closeness, wide blue eyes looking up with unspoken, overwhelming romantic desire. (9:16 aspect ratio)
+
+
+​[8단계] 녹아내린 원칙 (Oversized Vulnerability) 👙
+
+💡 (완벽한 치트키 앵글: '오직 유저의 오버핏 셔츠 + 카메라를 향해 살짝 튼 반측면 + 무릎 꽉 끌어안기 + 정교한 손/발가락 묘사 지시'로 하의실종 물리 텐션 극대화)
+
+컨셉: 유저의 방. 항상 단정하던 기사단장이 제복을 벗고 오직 유저의 큰 셔츠만 빌려 입은 채, 얌전한 고양이처럼 무장해제된 도발적인 밤.
+
+의상/장소: 바지 없이 오직 유저의 헐렁한 흰색 수면 셔츠만 입음. 따뜻한 난로가 타오르는 아늑한 통나무 선실.
+
+포즈/표정: 카메라를 향해 살짝 몸을 튼 반측면 구도. 푹신한 러그 위에 앉아 두 무릎을 가슴까지 꽉 끌어올려 안고(맨다리와 예쁜 발가락 노출) 올려다보는 자세. (셔츠가 팽팽하게 당겨져 아슬아슬한 텐션). 짙은 애정과 부끄러움이 섞인 몽롱한 미소.
+
+​Plaintext
+
+[공통 참조 문구]
+
+Stage 8 intimacy in a medieval fantasy setting. Setting: A cozy, warm, candle-lit private bedroom at night with a small fireplace. Outfit: Wearing an oversized, loose white linen button-up nightshirt clearly borrowed from the viewer. Pose: Angled slightly towards the camera. Sitting on a plush rug with her body turned partially towards the viewer, gently hugging her knees tightly to her chest with perfectly drawn hands, showing her bare dark legs and perfectly drawn toes, looking up directly at the camera. Expression: A deeply affectionate, heavily blushing smile, peeking up with intense affection and sweet, vulnerable trust. (9:16 aspect ratio)
+
+
+​[9단계] 아찔한 아침의 새침함 (Morning Camisole)
+
+💡 (저장된 9단계 치트키: '흘러내린 실크 캐미솔 + 무릎 위 베개에 팔 기대기 + 상체를 살짝 숙인 자세'로 필터를 속이면서 완벽한 무방비 텐션을 연출합니다.)
+
+컨셉: 모든 것을 나눈 다음 날 아침. 기계밖에 모르던 그녀가 유저의 침대에서 완벽하게 경계를 풀고 나른하게 기대어오는 시간.
+
+의상/장소: 어깨끈이 한쪽 살짝 흘러내린 얇고 부드러운 하얀색 실크 캐미솔. 눈부신 아침 햇살이 쏟아지는 크고 푹신한 침대 위.
+
+포즈/표정: 흐트러진 침대 위에 앉아, 무릎 위에 둔 푹신한 베개에 팔을 걸치고 유저(카메라) 쪽으로 상체를 살짝 숙인 구도. 막 잠에서 깬 나른하고 뇌쇄적인 표정, 살짝 벌어진 입술과 붉어진 뺨.
+
+​Plaintext
+
+[공통 참조 문구]
+
+Stage 9 intimacy in a medieval fantasy setting. Setting: A grand, plush bed bathed in warm, brilliant morning sunlight filtering through lace curtains. Outfit: A delicate, thin white silk camisole sleepwear with a loose wide neckline, slipping slightly off one bare shoulder. Pose: Angled slightly towards the camera. Sitting up in the messy bed, leaning forward slightly towards the viewer while resting her beautifully drawn arms casually on a soft pillow in her lap, showing a completely relaxed morning posture. Expression: A highly affectionate, slightly sleepy morning look, with a heavy blush, slightly parted lips, and a sweet, vulnerable gaze full of absolute trust and romantic desire. (9:16 aspect ratio)
+
+
+​[10단계] 영원한 검의 서약 (Knight's Vow)
+
+💡 (불쾌한 골짜기를 뺀 자연스럽고 벅찬 눈물의 미소 묘사 + 손 묘사 집중)
+
+컨셉: 스테인드글라스 빛이 찬란한 대성당. 부족의 구속에서 벗어나 오직 유저만을 자신의 수호자로 받아들이는 정글의 프로포즈. 화려한 이국적 웨딩드레스를 입고 유저에게 와락 안겨오는 순간.
+
+의상/장소: 순백의 드레스에 푸른색 벨벳과 금빛 자수, 금장 장갑이 어우러진 '기사단장 웨딩룩'. 일출 빛이 쏟아지는 웅장한 대성당.
+
+포즈/표정: 카메라(유저)를 향해 두 팔을 뻗으며 감격스럽게 달려와 와락 안기는 구도. 기쁨의 눈물을 뚝뚝 흘리며, 입을 너무 크게 벌리지 않고 세상에서 가장 다정하고 아름답게 짓는 환희의 미소.
+
+​Plaintext
+
+[공통 참조 문구]
+
+Stage 10 final climax intimacy in a medieval fantasy setting. Setting: A magnificent grand cathedral illuminated by brilliant, colorful light shining through massive stained-glass windows. Outfit: A spectacular "Grand Knight Bride" attire, combining a brilliant white ruffled wedding dress with elegant blue velvet accents and refined silver gauntlets. Pose: Stepping forward dynamically with both arms outstretched for a massive, enthusiastic embrace, showing perfectly drawn hands. Expression: Pure bliss, crying soft tears of joy, a beautiful and natural warm smile with slightly parted lips, eyes shining with overwhelming affection and eternal love. (9:16 aspect ratio)
+

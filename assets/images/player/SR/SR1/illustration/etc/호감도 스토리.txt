@@ -1,0 +1,107 @@
+🛡️ [모든 단계 공통 참조 문구] (반드시 복사해서 맨 앞에 붙여넣기)
+"Please keep ONLY the character's facial features, short silver-blue hair with small braids and star-shaped hairpins, bright blue eyes, and the elegant, graceful anime art style from the reference image (player_sr1_front.png). Do NOT copy the chibi style, the pose, holding the sword, or the background from the reference. Pay strict and careful attention to rendering hands, fingers, and toes perfectly and anatomically correct. Create a completely new pose, background, outfit, and facial expression matching the following medieval fantasy scenario:"
+
+🌹 고결한 성기사의 무장해제, 호감도 10단계 프롬프트
+[1단계] 성역의 감시자 (Sacred Sentinel)
+컨셉: 대성당 입구에서의 첫 만남. 성스러운 임무를 수행하며 유저를 차갑고 예의 바르게 대하는 모습.
+의상/장소: 순백과 푸른색이 어우러진 화려한 성기사 갑옷과 망토. 햇살이 비치는 거대한 대성당의 대리석 복도.
+포즈/표정: 두 손을 검 자루(또는 허리춤)에 가지런히 모으고 곧게 선 포즈. 정교하게 그려진 손가락. 감정을 억누른, 고결하고 차가운 푸른 눈빛.
+
+Plaintext
+[공통 참조 문구]
+"Please keep ONLY the character's facial features, short silver-blue hair with small braids and star-shaped hairpins, bright blue eyes, and the elegant, graceful anime art style from the reference image (player_sr1_front.png). Do NOT copy the chibi style, the pose, holding the sword, or the background from the reference. Pay strict and careful attention to rendering hands, fingers, and toes perfectly and anatomically correct. Create a completely new pose, background, outfit, and facial expression matching the following medieval fantasy scenario:"
+Stage 1 intimacy in a medieval fantasy setting. Setting: A grand, sunlit marble corridor inside a sacred cathedral. Outfit: Elegant holy knight armor in white, blue, and gold with a flowing white cape. Pose: Standing perfectly straight, resting her perfectly drawn hands gracefully on her waist or sword hilt, keeping a strict distance. Expression: Stoic, polite, and emotionally distant, looking at the viewer with cold, dutiful blue eyes. (9:16 aspect ratio)
+
+[2단계] 치유의 빛 (Healing Hands)
+컨셉: 전투 후 예배당. 유저의 상처를 신성력으로 치료해주며, 아주 미세하게 걱정하는 내색을 보이는 단계.
+의상/장소: 무거운 갑옷을 벗고 단정한 흰색 사제복(튜닉) 차림. 스테인드글라스 빛이 쏟아지는 조용한 예배당.
+포즈/표정: 나무 의자에 앉아, 유저 쪽으로 빛나는 작은 물약병(Potion)을 조심스레 건네는 모션. 차가움이 가시고 살짝 부드러워진 온화한 미소.
+
+Plaintext
+[공통 참조 문구]
+"Please keep ONLY the character's facial features, short silver-blue hair with small braids and star-shaped hairpins, bright blue eyes, and the elegant, graceful anime art style from the reference image (player_sr1_front.png). Do NOT copy the chibi style, the pose, holding the sword, or the background from the reference. Pay strict and careful attention to rendering hands, fingers, and toes perfectly and anatomically correct. Create a completely new pose, background, outfit, and facial expression matching the following medieval fantasy scenario:"
+Stage 2 intimacy in a medieval fantasy setting. Setting: A quiet, peaceful chapel illuminated by colorful light from stained-glass windows. Outfit: Heavy armor removed, wearing a neat, modest white and blue cleric tunic. Pose: Sitting gently on a wooden pew, carefully offering a small glowing potion bottle toward the viewer with perfectly drawn hands. Expression: A soft, polite, and reassuring smile, showing genuine care and a softening demeanor. (9:16 aspect ratio)
+
+[3단계] 온실 밖의 호기심 (Festival Joy)
+컨셉: 수도를 벗어나 처음 겪어보는 마을 축제. 평소의 엄숙함을 잊고 빛나는 마법 풍등을 보며 순수하게 기뻐하는 시간.
+의상/장소: 별 모양 장식이 달린 우아하고 가벼운 흰색/푸른색 평상복 드레스. 빛나는 마법 풍등이 떠다니는 활기찬 밤의 축제 광장.
+포즈/표정: 허공에 떠오르는 풍등을 향해 한 손을 뻗으며(reaching up), 어깨너머로 유저를 돌아보는 역동적인 구도. 세상의 모든 것이 신기한 듯 맑고 해맑은 미소.
+
+Plaintext
+[공통 참조 문구]
+"Please keep ONLY the character's facial features, short silver-blue hair with small braids and star-shaped hairpins, bright blue eyes, and the elegant, graceful anime art style from the reference image (player_sr1_front.png). Do NOT copy the chibi style, the pose, holding the sword, or the background from the reference. Pay strict and careful attention to rendering hands, fingers, and toes perfectly and anatomically correct. Create a completely new pose, background, outfit, and facial expression matching the following medieval fantasy scenario:"
+Stage 3 intimacy in a medieval fantasy setting. Setting: A lively town square at night, filled with glowing floating magic lanterns. Outfit: An elegant, casual white and blue town dress adorned with subtle star motifs. Pose: Reaching up gracefully to touch a floating lantern with one perfectly drawn hand, looking back over her shoulder at the viewer. Expression: Pure, innocent, and genuinely bright, laughing warmly with sparkling eyes. (9:16 aspect ratio)
+
+[4단계] 성스러운 샘물 (Sacred Spring)
+컨셉: 숲속의 달빛 깃든 샘물. 씻으려다 유저의 기척을 느끼고 돌아보며, 성기사가 아닌 한 명의 소녀로서 묘한 설렘을 느끼는 찰나.
+의상/장소: 가벼운 리넨 원피스. 은은한 푸른 마법 빛이 감도는 밤의 신성한 숲속 샘물.
+포즈/표정: 샘물가에 무릎을 꿇고 물을 만지려다 멈칫하여 뒤돌아보는 구도. 놀라움에 눈망울이 커지고, 하얀 뺨에 붉은 홍조가 확 번짐.
+
+Plaintext
+[공통 참조 문구]
+"Please keep ONLY the character's facial features, short silver-blue hair with small braids and star-shaped hairpins, bright blue eyes, and the elegant, graceful anime art style from the reference image (player_sr1_front.png). Do NOT copy the chibi style, the pose, holding the sword, or the background from the reference. Pay strict and careful attention to rendering hands, fingers, and toes perfectly and anatomically correct. Create a completely new pose, background, outfit, and facial expression matching the following medieval fantasy scenario:"
+Stage 4 intimacy in a medieval fantasy setting. Setting: A glowing, sacred forest spring at night, bathed in ethereal moonlight. Outfit: A simple, soft white linen dress. Pose: Kneeling elegantly by the water, pausing mid-motion to look back over her shoulder at the viewer, her perfectly drawn fingers hovering above the water. Expression: Startled, heart-fluttering, with a sudden heavy blush spreading across her pale cheeks, losing her composed, holy demeanor. (9:16 aspect ratio)
+
+[5단계] 빗속의 은신처 (Ruined Temple)
+컨셉: 폭우를 피해 들어온 버려진 신전. 비에 젖어 흐트러진 모습으로, 유저에게 완전히 마음을 열고 무방비하게 기대는 밤.
+의상/장소: 젖은 망토를 벗고 머리가 헝클어진 편안한 상태. 모닥불이 켜진 아늑하고 비 새는 고대 신전의 처마 밑.
+포즈/표정: 차가운 돌계단에 앉아 수건으로 은빛 머리칼을 닦다 말고, 상체를 유저 쪽으로 기울여 빤히 응시하는 구도. 나른하고 온전히 신뢰하는 눈빛.
+
+Plaintext
+[공통 참조 문구]
+"Please keep ONLY the character's facial features, short silver-blue hair with small braids and star-shaped hairpins, bright blue eyes, and the elegant, graceful anime art style from the reference image (player_sr1_front.png). Do NOT copy the chibi style, the pose, holding the sword, or the background from the reference. Pay strict and careful attention to rendering hands, fingers, and toes perfectly and anatomically correct. Create a completely new pose, background, outfit, and facial expression matching the following medieval fantasy scenario:"
+Stage 5 intimacy in a medieval fantasy setting. Setting: Inside a dry, sheltered corner of a ruined ancient temple lit by a small campfire while rain pours outside. Outfit: Wet outer robes removed, wearing only a relaxed, slightly damp white tunic. Pose: Sitting on a stone step, pausing while drying her silver-blue hair, leaning forward slightly toward the viewer. Expression: Completely unguarded, soft, and deeply relaxed, showing immense comfort and absolute trust. (9:16 aspect ratio)
+
+[6단계] 별빛 아래의 고백 (Starlight Confession)
+컨셉: 성의 가장 높은 발코니. 교단의 규율보다 유저를 향한 마음이 커져버린 그녀가, 벅찬 마음으로 자신의 가슴(심장) 쪽으로 유저의 손을 이끄는 고백.
+의상/장소: 우아하고 차분한 은푸른빛 이브닝 가운. 별이 쏟아지는 높은 성곽의 대리석 발코니.
+포즈/표정: 유저의 손을 두 손으로 감싸 쥐고 자신의 가슴팍에 가져다 대며 눈을 살짝 내리깐 애틋한 포즈. 부끄러움에 붉어진 얼굴과 터질 듯 진지한 로맨틱함.
+
+Plaintext
+[공통 참조 문구]
+"Please keep ONLY the character's facial features, short silver-blue hair with small braids and star-shaped hairpins, bright blue eyes, and the elegant, graceful anime art style from the reference image (player_sr1_front.png). Do NOT copy the chibi style, the pose, holding the sword, or the background from the reference. Pay strict and careful attention to rendering hands, fingers, and toes perfectly and anatomically correct. Create a completely new pose, background, outfit, and facial expression matching the following medieval fantasy scenario:"
+Stage 6 intimacy in a medieval fantasy setting. Setting: A high marble castle balcony under a breathtaking, star-filled night sky. Outfit: A flowing, elegant silver-blue silk evening gown. Pose: Standing close, gently holding the viewer's hand with both of her perfectly drawn hands, pressing it tenderly against her heart. Expression: Unusually shy, blushing deeply, with half-lidded eyes showing intensely sincere, deeply loving, and passionate emotion. (9:16 aspect ratio)
+
+[7단계] 지하 묘소의 틈새 (Catacomb Tension)
+💡 (필터 안전 우회 '쉿' 포즈 + 손가락 완벽 렌더링)
+컨셉: 타락한 마물들을 피해 좁은 지하 묘소(Catacomb)의 암벽 틈새에 유저와 밀착해 숨음. 성스러운 기도문 대신 거친 숨결이 오가는 초밀착 텐션.
+의상/장소: 몸에 딱 붙는 어두운 색의 정찰 기동복. 희미한 마법석 빛만 있는 몹시 좁고 서늘한 돌 틈새.
+포즈/표정: 벽에 기대어 카메라(유저)와 초밀착한 상태에서, 입술에 검지를 대며 '쉿' 하는 하이앵글. 이성이 날아가 몹시 달아오른 얼굴과 촉촉해진 푸른 눈동자.
+
+Plaintext
+[공통 참조 문구]
+"Please keep ONLY the character's facial features, short silver-blue hair with small braids and star-shaped hairpins, bright blue eyes, and the elegant, graceful anime art style from the reference image (player_sr1_front.png). Do NOT copy the chibi style, the pose, holding the sword, or the background from the reference. Pay strict and careful attention to rendering hands, fingers, and toes perfectly and anatomically correct. Create a completely new pose, background, outfit, and facial expression matching the following medieval fantasy scenario:"
+Stage 7 intimacy in a medieval fantasy setting. Setting: Hiding inside a very narrow, dark stone crevice in ancient underground catacombs, avoiding corrupted enemies. Outfit: Sleek, form-fitting dark stealth holy vestments. Pose: A dramatic high-tension close-up shot, standing inches away from the viewer, placing her perfectly drawn index finger gently over her own lips in a 'shh' gesture. Expression: Pale cheeks heavily flushed from the intense physical closeness, wide vibrant blue eyes looking up with unspoken, overwhelming romantic tension. (9:16 aspect ratio)
+
+[8단계] 타락한 성녀 (Oversized Vulnerability) 👙
+💡 (치트키: '오직 유저의 오버핏 셔츠 + 반측면 구도 + 무릎 꽉 끌어안기 + 정교한 발가락 묘사 지시'로 하의실종 물리 텐션 극대화)
+컨셉: 유저의 방. 고결하던 성기사가 갑옷을 벗어 던지고 오직 유저의 큰 셔츠만 빌려 입은 채, 가장 무방비하고 도발적으로 올려다보는 밤.
+의상/장소: 바지 없이 오직 유저의 헐렁한 흰색 수면 셔츠만 입음. 따뜻한 벽난로가 타오르는 아늑한 침실.
+포즈/표정: 카메라를 향해 살짝 몸을 튼 반측면 구도(Angled slightly towards the camera). 푹신한 러그 위에 앉아 두 무릎을 가슴까지 꽉 끌어올려 안고(맨다리와 완벽하게 묘사된 예쁜 발가락 노출) 올려다보는 자세. (셔츠가 팽팽하게 당겨짐). 짙은 애정과 부끄러움이 섞인 몽롱한 미소.
+
+Plaintext
+[공통 참조 문구]
+"Please keep ONLY the character's facial features, short silver-blue hair with small braids and star-shaped hairpins, bright blue eyes, and the elegant, graceful anime art style from the reference image (player_sr1_front.png). Do NOT copy the chibi style, the pose, holding the sword, or the background from the reference. Pay strict and careful attention to rendering hands, fingers, and toes perfectly and anatomically correct. Create a completely new pose, background, outfit, and facial expression matching the following medieval fantasy scenario:"
+Stage 8 intimacy in a medieval fantasy setting. Setting: A cozy, warm, candle-lit private bedroom at night with a roaring fireplace. Outfit: Wearing an oversized, loose white linen button-up nightshirt clearly borrowed from the viewer. Pose: Angled slightly towards the camera. Sitting on a plush rug with her body turned partially towards the viewer, gently hugging her knees tightly to her chest with perfectly drawn hands, showing her bare legs and perfectly drawn toes, looking up directly at the camera. Expression: A deeply affectionate, heavily blushing smile, peeking up with intense affection and sweet, vulnerable trust. (9:16 aspect ratio)
+
+[9단계] 아찔한 아침의 무방비함 (Morning Camisole)
+💡 (치트키: '흘러내린 실크 캐미솔 + 무릎 위 베개에 팔 기대기 + 상체를 숙인 자세 + 정교한 손'으로 완벽한 무방비 텐션 연출)
+컨셉: 모든 것을 나눈 다음 날 아침. 단정했던 은빛 머리칼이 헝클어진 채, 유저의 침대에서 완벽하게 경계를 풀고 나른하게 기대어오는 시간.
+의상/장소: 어깨끈이 한쪽 살짝 흘러내린 얇고 부드러운 하얀색 실크 캐미솔. 눈부신 아침 햇살이 쏟아지는 크고 푹신한 침대 위.
+포즈/표정: 흐트러진 침대 위에 앉아, 무릎 위에 둔 푹신한 베개에 팔을 걸치고 유저(카메라) 쪽으로 상체를 살짝 숙인 구도(leaning forward slightly). 막 잠에서 깬 나른하고 뇌쇄적인 표정, 살짝 벌어진 입술과 붉어진 뺨.
+
+Plaintext
+[공통 참조 문구]
+"Please keep ONLY the character's facial features, short silver-blue hair with small braids and star-shaped hairpins, bright blue eyes, and the elegant, graceful anime art style from the reference image (player_sr1_front.png). Do NOT copy the chibi style, the pose, holding the sword, or the background from the reference. Pay strict and careful attention to rendering hands, fingers, and toes perfectly and anatomically correct. Create a completely new pose, background, outfit, and facial expression matching the following medieval fantasy scenario:"
+Stage 9 intimacy in a medieval fantasy setting. Setting: A grand, plush bed bathed in warm, brilliant morning sunlight filtering through lace curtains. Outfit: A delicate, thin white silk camisole sleepwear with a loose wide neckline, slipping slightly off one bare shoulder. Pose: Angled slightly towards the camera. Sitting up in the messy bed, leaning forward slightly towards the viewer while resting her beautifully drawn arms and hands casually on a soft pillow in her lap, showing a completely relaxed morning posture. Expression: A highly affectionate, slightly sleepy morning look, with a heavy blush, slightly parted lips, and a sweet, vulnerable gaze full of absolute trust and romantic desire. (9:16 aspect ratio)
+
+[10단계] 성스러운 서약 (Holy Vow)
+💡 (불쾌한 골짜기 차단: 작위적인 웃음 대신, 벅찬 눈물과 애틋하고 다정한 미소 묘사 + 손 묘사 집중)
+컨셉: 찬란한 대성당에서의 결혼식. 여신이 아닌 오직 유저만을 모시기로 맹세하며, 기쁨의 눈물을 펑펑 흘리며 와락 안겨오는 프로포즈.
+의상/장소: 순백의 실크에 푸른색 보석과 별 모양 금장 장식이 어우러진 '성녀의 웨딩룩'. 스테인드글라스 빛이 찬란하게 쏟아지는 웅장한 대성당 제단.
+포즈/표정: 카메라(유저)를 향해 두 팔을 뻗으며 감격스럽게 달려와 와락 안기는 구도. 기쁨의 눈물을 뚝뚝 흘리며, 입을 너무 크게 벌리지 않고 세상에서 가장 다정하고 아름답게 짓는 환희의 미소.
+
+Plaintext
+[공통 참조 문구]
+"Please keep ONLY the character's facial features, short silver-blue hair with small braids and star-shaped hairpins, bright blue eyes, and the elegant, graceful anime art style from the reference image (player_sr1_front.png). Do NOT copy the chibi style, the pose, holding the sword, or the background from the reference. Pay strict and careful attention to rendering hands, fingers, and toes perfectly and anatomically correct. Create a completely new pose, background, outfit, and facial expression matching the following medieval fantasy scenario:"
+Stage 10 final climax intimacy in a medieval fantasy setting. Setting: A magnificent grand cathedral illuminated by brilliant, colorful light shining through massive stained-glass windows. Outfit: A spectacular "Holy Saintess Bride" attire, combining a flowing white silk wedding gown with elegant blue jewel accents and delicate star-shaped gold embroidery. Pose: Stepping forward dynamically with both arms outstretched for a massive, enthusiastic embrace, showing perfectly drawn hands. Expression: Pure bliss, crying soft tears of joy, a beautiful and natural warm smile with slightly parted lips, eyes shining with overwhelming affection and eternal love. (9:16 aspect ratio)

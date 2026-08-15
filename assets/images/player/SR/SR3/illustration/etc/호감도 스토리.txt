@@ -1,0 +1,107 @@
+🛡️ [모든 단계 공통 참조 문구] (반드시 복사해서 맨 앞에 붙여넣기)
+"Please keep ONLY the character's facial features, tan skin, short messy red hair with twin braids, bright amber eyes, and the energetic, bold anime art style from the reference image (player_sr3_front.png). Do NOT copy the chibi style, the pose, holding the sword, or the background from the reference. Pay strict and careful attention to rendering hands, fingers, and toes perfectly and anatomically correct. Create a completely new pose, background, outfit, and facial expression matching the following medieval fantasy scenario:"
+
+🌹 능글맞은 사막 도적의 진심, 호감도 10단계 프롬프트
+[1단계] 모래폭풍의 그림자 (Desert Ambush)
+컨셉: 뜨거운 사막 한가운데서 유저의 상단을 습격(?)하며 나타난 첫 만남. 여유롭고 능글맞게 상황을 통제하는 모습.
+의상/장소: 청록색 스카프가 흩날리는 모래바람에 강한 사막 도적 복장. 작열하는 태양 아래 거대한 사구(Sand dune).
+포즈/표정: 커다란 바위에 걸터앉아, 한쪽 무릎을 세운 채(one knee raised) 팔을 걸치고 유저를 내려다보는 구도. 능글맞고 여유로우며 약간은 위험한 호박색 눈빛.
+
+Plaintext
+[공통 참조 문구]
+"Please keep ONLY the character's facial features, tan skin, short messy red hair with twin braids, bright amber eyes, and the energetic, bold anime art style from the reference image (player_sr3_front.png). Do NOT copy the chibi style, the pose, holding the sword, or the background from the reference. Pay strict and careful attention to rendering hands, fingers, and toes perfectly and anatomically correct. Create a completely new pose, background, outfit, and facial expression matching the following medieval fantasy scenario:"
+Stage 1 intimacy in a medieval fantasy setting. Setting: A vast, scorching desert with towering sand dunes under a blazing midday sun. Outfit: Rugged desert thief attire with a flowing teal scarf and leather belts. Pose: Sitting casually on a large sun-baked rock, one knee raised with her arm resting on it, looking down at the viewer. Expression: A confident, slightly dangerous, and teasing smirk, evaluating the viewer with sharp amber eyes. (9:16 aspect ratio)
+
+[2단계] 오아시스의 장난 (Oasis Coin)
+컨셉: 동료가 된 후 오아시스에서의 휴식. 유저의 주머니에서 훔친 동전을 던지며 장난을 치는 털털한 친밀감.
+의상/장소: 스카프를 풀고 배가 드러난 시원한 크롭탑 차림. 맑은 물과 야자수가 있는 시원한 사막 오아시스.
+포즈/표정: 물가에 앉아 유저의 은화 한 닢을 손가락으로 튕겨 올리며(tossing a silver coin) 윙크하는 모션. 장난기 가득한 유쾌한 미소.
+
+Plaintext
+[공통 참조 문구]
+"Please keep ONLY the character's facial features, tan skin, short messy red hair with twin braids, bright amber eyes, and the energetic, bold anime art style from the reference image (player_sr3_front.png). Do NOT copy the chibi style, the pose, holding the sword, or the background from the reference. Pay strict and careful attention to rendering hands, fingers, and toes perfectly and anatomically correct. Create a completely new pose, background, outfit, and facial expression matching the following medieval fantasy scenario:"
+Stage 2 intimacy in a medieval fantasy setting. Setting: A lush, cool desert oasis with crystal-clear water and green palm trees. Outfit: Teal scarf removed, wearing a comfortable, breezy white crop top and loose desert pants. Pose: Sitting near the water's edge, playfully tossing a silver coin in the air with perfectly drawn fingers, winking at the viewer. Expression: A highly playful, mischievous, and bright smile, showing relaxed camaraderie. (9:16 aspect ratio)
+
+[3단계] 사막 야시장의 활기 (Bazaar Chase)
+컨셉: 시끌벅적한 사막 도시의 야시장. 특유의 날렵함으로 사람들을 요리조리 피하며 유저의 손목을 잡아끄는 완벽한 친밀감.
+의상/장소: 화려한 금장식과 얇은 천이 덧대어진 이국적인 평상복. 다채로운 등불이 가득한 활기찬 밤의 사막 바자(Bazaar).
+포즈/표정: 복잡한 인파 속에서 휙 뒤돌아보며, 유저에게 빨리 오라며 손짓하는(beckoning with her hand) 역동적인 구도. 세상에서 가장 자유롭고 신난 해맑은 웃음.
+
+Plaintext
+[공통 참조 문구]
+"Please keep ONLY the character's facial features, tan skin, short messy red hair with twin braids, bright amber eyes, and the energetic, bold anime art style from the reference image (player_sr3_front.png). Do NOT copy the chibi style, the pose, holding the sword, or the background from the reference. Pay strict and careful attention to rendering hands, fingers, and toes perfectly and anatomically correct. Create a completely new pose, background, outfit, and facial expression matching the following medieval fantasy scenario:"
+Stage 3 intimacy in a medieval fantasy setting. Setting: A bustling, vibrant desert bazaar at night, illuminated by hundreds of colorful glowing lanterns. Outfit: Sporty, exotic desert casual wear with teal fabric and small gold ornaments. Pose: Walking ahead through the crowd, turning back dynamically to beckon the viewer forward with one perfectly drawn hand. Expression: Wildly energetic, carefree, and fiercely joyful, radiating bright, inviting energy. (9:16 aspect ratio)
+
+[4단계] 무너지는 무덤 (Tomb Slip)
+컨셉: 고대 파라오 무덤 탐험 중, 함정에 걸려 무너지는 바닥에서 유저에게 허리를 안기듯 구해진 순간. 늘 여유롭던 그녀의 첫 당황.
+의상/장소: 흙먼지가 묻은 탐험용 가죽 복장. 횃불만 타오르는 어둡고 무너져가는 고대 사암 무덤.
+포즈/표정: 바닥이 꺼지며 반사적으로 유저의 어깨(카메라 밖)를 두 손으로 꽉 부여잡은 포즈. 능글맞은 여유는 싹 사라지고, 커진 눈망울과 탠 스킨 위에 확 번진 붉은 홍조.
+
+Plaintext
+[공통 참조 문구]
+"Please keep ONLY the character's facial features, tan skin, short messy red hair with twin braids, bright amber eyes, and the energetic, bold anime art style from the reference image (player_sr3_front.png). Do NOT copy the chibi style, the pose, holding the sword, or the background from the reference. Pay strict and careful attention to rendering hands, fingers, and toes perfectly and anatomically correct. Create a completely new pose, background, outfit, and facial expression matching the following medieval fantasy scenario:"
+Stage 4 intimacy in a medieval fantasy setting. Setting: Inside a crumbling, ancient sandstone tomb lit only by flickering torches. Outfit: Dusty, practical leather exploration gear. Pose: Slipping dramatically into a pitfall, grasping the viewer's unseen shoulders tightly with perfectly drawn hands to stop herself from falling. Expression: Shocked, eyes wide open, with a sudden heavy blush spreading across her tan skin, completely losing her usual confident swagger. (9:16 aspect ratio)
+
+[5단계] 유목민 천막의 밤 (Nomad Tent)
+컨셉: 차가운 사막의 밤. 모닥불이 켜진 좁은 천막 안에서 유저에게 슬쩍 기대앉아, 평소의 장난기를 빼고 조용히 쉬는 무방비한 시간.
+의상/장소: 겉옷과 무거운 장비를 모두 벗은 얇은 리넨 셔츠. 화려한 양탄자와 쿠션이 깔린 아늑한 유목민 천막.
+포즈/표정: 푹신한 쿠션 무더기 위에 비스듬히 누워(reclining casually), 손으로 턱을 괸 채 유저를 빤히 응시하는 구도. 나른하고 온전히 신뢰하는 끈적한 눈빛.
+
+Plaintext
+[공통 참조 문구]
+"Please keep ONLY the character's facial features, tan skin, short messy red hair with twin braids, bright amber eyes, and the energetic, bold anime art style from the reference image (player_sr3_front.png). Do NOT copy the chibi style, the pose, holding the sword, or the background from the reference. Pay strict and careful attention to rendering hands, fingers, and toes perfectly and anatomically correct. Create a completely new pose, background, outfit, and facial expression matching the following medieval fantasy scenario:"
+Stage 5 intimacy in a medieval fantasy setting. Setting: Inside a warm, heavily draped nomad tent filled with colorful woven carpets and soft incense smoke. Outfit: Outer gear and belts removed, wearing only a relaxed, loose off-shoulder linen undershirt. Pose: Reclining comfortably on a pile of plush cushions, resting her head on her perfectly drawn hand, looking closely at the viewer. Expression: Softer, deeply relaxed, and completely unguarded, showing quiet, affectionate, and slightly alluring trust. (9:16 aspect ratio)
+
+[6단계] 별 쏟아지는 모래언덕 (Dune Confession)
+컨셉: 은하수가 쏟아지는 밤의 사구(Sand dune) 위. 자유만을 쫓던 도적이 처음으로 누군가에게 묶이고 싶어 짐을 인정하며 손을 잡는 고백.
+의상/장소: 밤바람을 막기 위한 화려하고 부드러운 사막 숄(Shawl)을 걸친 모습. 끝없이 펼쳐진 모래 언덕과 쏟아지는 별빛.
+포즈/표정: 모래 위에 무릎을 꿇고 앉아, 유저의 손을 두 손으로 조심스레 감싸 쥐며 눈을 내리깐 애틋한 포즈. 부끄러움에 붉어진 얼굴과 터질 듯 진지한 로맨틱함.
+
+Plaintext
+[공통 참조 문구]
+"Please keep ONLY the character's facial features, tan skin, short messy red hair with twin braids, bright amber eyes, and the energetic, bold anime art style from the reference image (player_sr3_front.png). Do NOT copy the chibi style, the pose, holding the sword, or the background from the reference. Pay strict and careful attention to rendering hands, fingers, and toes perfectly and anatomically correct. Create a completely new pose, background, outfit, and facial expression matching the following medieval fantasy scenario:"
+Stage 6 intimacy in a medieval fantasy setting. Setting: A vast, silent sand dune under a breathtaking, clear night sky filled with a glowing galaxy. Outfit: Wrapped comfortably in a beautiful, intricately woven desert shawl over her gear. Pose: Kneeling gently in the sand, holding the viewer's hand with both of her perfectly drawn hands, looking down at them tenderly. Expression: Unusually shy, blushing deeply, showing intensely sincere, deeply loving, and passionate romantic emotion, totally stripped of her teasing nature. (9:16 aspect ratio)
+
+[7단계] 항구 뒷골목의 틈새 (Alleyway Tension)
+💡 (필터 안전 우회 '쉿' 포즈 + 손가락 완벽 렌더링)
+컨셉: 쫓아오는 용병들을 피해 항구 도시의 어둡고 비좁은 골목 틈새에 유저와 밀착해 숨음. 거친 숨결이 닿는 거리에서 이성이 마비될 듯한 초밀착 텐션.
+의상/장소: 몸에 딱 붙는 어두운 색의 야간 은밀 기동복. 달빛조차 들지 않는 몹시 좁고 습한 돌담 틈.
+포즈/표정: 벽에 기대어 카메라(유저)와 초밀착한 상태에서, 입술에 검지를 대며 '쉿' 하는 하이앵글. 열기로 새빨개진 구릿빛 얼굴과 당황하여 흔들리는 호박색 눈동자.
+
+Plaintext
+[공통 참조 문구]
+"Please keep ONLY the character's facial features, tan skin, short messy red hair with twin braids, bright amber eyes, and the energetic, bold anime art style from the reference image (player_sr3_front.png). Do NOT copy the chibi style, the pose, holding the sword, or the background from the reference. Pay strict and careful attention to rendering hands, fingers, and toes perfectly and anatomically correct. Create a completely new pose, background, outfit, and facial expression matching the following medieval fantasy scenario:"
+Stage 7 intimacy in a medieval fantasy setting. Setting: Hiding inside a extremely narrow, pitch-black gap between two stone buildings in a port city alleyway, avoiding patrols. Outfit: Sleek, form-fitting dark stealth attire. Pose: A dramatic high-tension close-up shot, standing inches away from the viewer, placing her perfectly drawn index finger over her own lips in a 'shh' gesture. Expression: Tan cheeks heavily flushed from the intense physical closeness, wide amber eyes looking up with unspoken, overwhelming romantic desire. (9:16 aspect ratio)
+
+[8단계] 빼앗긴 여유 (Oversized Vulnerability) 👙
+💡 (요청 치트키: '오직 유저의 오버핏 셔츠 + 반측면 구도 + 무릎 꽉 끌어안기 + 정교한 손/발가락 묘사 지시'로 하의실종 물리 텐션 극대화)
+컨셉: 모험을 마친 유저의 방. 항상 주도권을 쥐던 능글맞은 그녀가, 씻고 나와 오직 유저의 큰 셔츠만 빌려 입은 채 얌전한 고양이처럼 무장해제된 도발적인 밤.
+의상/장소: 바지 없이 오직 유저의 헐렁한 흰색 수면 셔츠만 입음. 따뜻한 벽난로가 타오르는 아늑한 사막 도시의 여관방.
+포즈/표정: 카메라를 향해 살짝 몸을 튼 반측면 구도. 푹신한 양탄자 위에 앉아 두 무릎을 가슴까지 꽉 끌어올려 안고(맨다리와 완벽하게 묘사된 예쁜 발가락 노출) 올려다보는 자세. (셔츠가 팽팽하게 당겨짐). 짙은 애정과 부끄러움이 섞인 몽롱한 미소.
+
+Plaintext
+[공통 참조 문구]
+"Please keep ONLY the character's facial features, tan skin, short messy red hair with twin braids, bright amber eyes, and the energetic, bold anime art style from the reference image (player_sr3_front.png). Do NOT copy the chibi style, the pose, holding the sword, or the background from the reference. Pay strict and careful attention to rendering hands, fingers, and toes perfectly and anatomically correct. Create a completely new pose, background, outfit, and facial expression matching the following medieval fantasy scenario:"
+Stage 8 intimacy in a medieval fantasy setting. Setting: A cozy, warm, candle-lit private room in a desert inn at night with a roaring fireplace. Outfit: Wearing an oversized, loose white linen button-up nightshirt clearly borrowed from the viewer. Pose: Angled slightly towards the camera. Sitting on a plush rug with her body turned partially towards the viewer, gently hugging her knees tightly to her chest with perfectly drawn hands, showing her bare tan legs and perfectly drawn toes, looking up directly at the camera. Expression: A deeply affectionate, heavily blushing smile, peeking up with intense affection and sweet, vulnerable trust. (9:16 aspect ratio)
+
+[9단계] 아찔한 아침의 무방비함 (Morning Camisole)
+💡 (요청 치트키: '흘러내린 실크 캐미솔 + 무릎 위 베개에 팔 기대기 + 상체를 숙인 자세 + 정교한 손'으로 완벽한 무방비 텐션 연출)
+컨셉: 모든 것을 나눈 다음 날 아침. 야생에서 구르던 도적이 유저의 푹신한 침대에서 완벽하게 경계를 풀고 나른한 애교를 부리는 시간.
+의상/장소: 어깨끈이 한쪽 살짝 흘러내린 얇고 부드러운 하얀색 실크 캐미솔. 얇은 커튼 사이로 눈부신 아침 햇살이 쏟아지는 크고 푹신한 침대 위.
+포즈/표정: 흐트러진 침대 위에 앉아, 무릎 위에 둔 푹신한 베개에 팔을 걸치고 유저(카메라) 쪽으로 상체를 살짝 숙인 구도(leaning forward slightly). 막 잠에서 깬 나른하고 뇌쇄적인 표정, 살짝 벌어진 입술과 붉어진 뺨.
+
+Plaintext
+[공통 참조 문구]
+"Please keep ONLY the character's facial features, tan skin, short messy red hair with twin braids, bright amber eyes, and the energetic, bold anime art style from the reference image (player_sr3_front.png). Do NOT copy the chibi style, the pose, holding the sword, or the background from the reference. Pay strict and careful attention to rendering hands, fingers, and toes perfectly and anatomically correct. Create a completely new pose, background, outfit, and facial expression matching the following medieval fantasy scenario:"
+Stage 9 intimacy in a medieval fantasy setting. Setting: A grand, plush bed bathed in warm, brilliant morning sunlight filtering through sheer silk curtains. Outfit: A delicate, thin white silk camisole sleepwear with a loose wide neckline, slipping slightly off one bare shoulder. Pose: Angled slightly towards the camera. Sitting up in the messy bed, leaning forward slightly towards the viewer while resting her beautifully drawn arms and hands casually on a soft pillow in her lap, showing a completely relaxed morning posture. Expression: A highly affectionate, slightly sleepy morning look, with a heavy blush on her tan skin, slightly parted lips, and a sweet, vulnerable gaze full of absolute trust and romantic desire. (9:16 aspect ratio)
+
+[10단계] 사막의 보석 (Oasis Vow)
+💡 (불쾌한 골짜기 차단: 작위적인 웃음 대신, 벅찬 눈물과 애틋하고 다정한 미소 묘사 + 손 묘사 집중)
+컨셉: 거대한 사막의 심장부, 눈부신 오아시스 신전에서의 맹세. 보물을 훔치던 도적이 가장 소중한 '유저'라는 보물을 얻고 기쁨의 눈물을 펑펑 흘리며 와락 안겨오는 프로포즈.
+의상/장소: 하얀 실크와 청록색 장식, 화려한 황금 쥬얼리가 어우러진 '사막 여왕'의 웨딩드레스. 일출 빛이 쏟아지는 웅장한 오아시스 신전.
+포즈/표정: 카메라(유저)를 향해 두 팔을 뻗으며 감격스럽게 달려와 와락 안기는 구도. 기쁨의 눈물을 뚝뚝 흘리며, 입을 너무 크게 벌리지 않고 세상에서 가장 다정하고 아름답게 짓는 환희의 미소.
+
+Plaintext
+[공통 참조 문구]
+"Please keep ONLY the character's facial features, tan skin, short messy red hair with twin braids, bright amber eyes, and the energetic, bold anime art style from the reference image (player_sr3_front.png). Do NOT copy the chibi style, the pose, holding the sword, or the background from the reference. Pay strict and careful attention to rendering hands, fingers, and toes perfectly and anatomically correct. Create a completely new pose, background, outfit, and facial expression matching the following medieval fantasy scenario:"
+Stage 10 final climax intimacy in a medieval fantasy setting. Setting: A majestic, glowing oasis temple at sunrise, with golden light reflecting on the water and floating flower petals. Outfit: A spectacular "Desert Queen Bride" attire, combining flowing white silk with elegant teal accents and exquisite gold jewelry. Pose: Stepping forward dynamically with both arms outstretched for a massive, enthusiastic embrace, showing perfectly drawn hands. Expression: Pure bliss, crying soft tears of joy, a beautiful and natural warm smile with slightly parted lips, eyes shining with overwhelming affection and eternal love. (9:16 aspect ratio)

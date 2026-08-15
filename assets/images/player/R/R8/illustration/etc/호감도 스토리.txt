@@ -1,0 +1,107 @@
+🛡️ [모든 단계 공통 참조 문구] (반드시 복사해서 맨 앞에 붙여넣기)
+"Please keep ONLY the character's facial features, long silver-ash hair with intricate side braids, vibrant blue eyes, and the elegant, disciplined anime art style from the reference image (player_r8_front.png). Do NOT copy the chibi style, the pose, holding the sword, or the background from the reference. Pay strict and careful attention to rendering hands, fingers, and toes perfectly and anatomically correct. Create a completely new pose, background, outfit, and facial expression matching the following medieval fantasy scenario:"
+
+🌹 차가운 은빛 기사의 헌신, 호감도 10단계 프롬프트
+[1단계] 눈보라 속의 경계 (Winter Vanguard)
+컨셉: 혹한의 설산에서 유저를 처음 마주한 순간. 원칙대로 거리를 두며 유저를 시험하듯 바라보는 냉철한 모습.
+의상/장소: 눈이 살짝 내려앉은 네이비 망토와 단정한 기사 제복. 눈보라가 치는 고대의 좁은 산길.
+포즈/표정: 차가운 바람을 맞으며 망토를 한 손으로 단정히 여미고 곧게 선 포즈. 완벽하게 그려진 손가락, 감정을 읽을 수 없는 서늘하고 맑은 푸른 눈빛.
+
+Plaintext
+[공통 참조 문구]
+"Please keep ONLY the character's facial features, long silver-ash hair with intricate side braids, vibrant blue eyes, and the elegant, disciplined anime art style from the reference image (player_r8_front.png). Do NOT copy the chibi style, the pose, holding the sword, or the background from the reference. Pay strict and careful attention to rendering hands, fingers, and toes perfectly and anatomically correct. Create a completely new pose, background, outfit, and facial expression matching the following medieval fantasy scenario:"
+Stage 1 intimacy in a medieval fantasy setting. Setting: A narrow, ancient mountain pass during a heavy, freezing snowstorm. Outfit: Her elegant navy-blue knight's uniform covered by a heavy, snow-dusted navy cloak. Pose: Standing perfectly straight, clutching the edge of her cloak with one perfectly drawn hand to shield against the wind. Expression: Stoic, disciplined, and emotionally distant, analyzing the viewer with cool, piercing blue eyes. (9:16 aspect ratio)
+
+[2단계] 흔들리는 마차 (Carriage Solace)
+컨셉: 임무 중 마차 안에서 단둘이 이동하는 시간. 유저에게 따뜻한 차를 건네며 아주 미세하게 경계를 푸는 단계.
+의상/장소: 망토의 후드를 내린 제복 차림. 비가 내리는 창밖 풍경이 보이는 흔들리는 마차 내부.
+포즈/표정: 창가에 기대어 앉아, 김이 모락모락 나는 은빛 찻잔을 유저 쪽으로 조심스레 내미는 모션. 차가움이 가시고 살짝 부드러워진 예의 바른 미소.
+
+Plaintext
+[공통 참조 문구]
+"Please keep ONLY the character's facial features, long silver-ash hair with intricate side braids, vibrant blue eyes, and the elegant, disciplined anime art style from the reference image (player_r8_front.png). Do NOT copy the chibi style, the pose, holding the sword, or the background from the reference. Pay strict and careful attention to rendering hands, fingers, and toes perfectly and anatomically correct. Create a completely new pose, background, outfit, and facial expression matching the following medieval fantasy scenario:"
+Stage 2 intimacy in a medieval fantasy setting. Setting: Inside a moving, dimly lit horse-drawn carriage while soft rain taps against the glass window. Outfit: Cloak hood down, wearing her neat, formal navy tabard and leather gloves. Pose: Sitting near the window, carefully offering a steaming silver teacup to the viewer with perfectly drawn hands. Expression: A subtle, polite, and gently softening smile, showing initial signs of trust and comfort. (9:16 aspect ratio)
+
+[3단계] 얼어붙은 호수의 꽃 (Frozen Bloom)
+컨셉: 얼어붙은 호숫가 근처에서 희귀한 눈꽃을 발견하고, 기사의 엄격함을 잊은 채 순수하게 기뻐하는 시간.
+의상/장소: 가벼운 네이비색 활동용 평상복. 햇살이 반사되어 반짝이는 거대한 얼음 호수.
+포즈/표정: 바닥에 한쪽 무릎을 꿇고 앉아, 얼음 틈에서 피어난 꽃을 조심스레 만지며 유저를 올려다보는 구도. 그동안의 차가움이 완전히 녹아내린 맑고 해맑은 미소.
+
+Plaintext
+[공통 참조 문구]
+"Please keep ONLY the character's facial features, long silver-ash hair with intricate side braids, vibrant blue eyes, and the elegant, disciplined anime art style from the reference image (player_r8_front.png). Do NOT copy the chibi style, the pose, holding the sword, or the background from the reference. Pay strict and careful attention to rendering hands, fingers, and toes perfectly and anatomically correct. Create a completely new pose, background, outfit, and facial expression matching the following medieval fantasy scenario:"
+Stage 3 intimacy in a medieval fantasy setting. Setting: A breathtaking frozen lake sparkling under bright, clear winter sunlight. Outfit: A casual, comfortable navy-blue winter dress with silver embroidery. Pose: Kneeling elegantly on the ice, gently touching a rare glowing winter flower with perfectly drawn fingers, looking up at the viewer. Expression: A rare, genuinely bright, and innocent smile, her usual strictness melting away completely. (9:16 aspect ratio)
+
+[4단계] 황혼의 연무장 (Twilight Touch)
+컨셉: 훈련이 끝난 저녁. 목검을 건네받다 유저의 손과 스치자, 평정심을 잃고 강렬한 설렘을 느끼는 찰나.
+의상/장소: 땀에 살짝 젖은 흰색 리넨 셔츠와 가죽 바지. 붉은 노을이 길게 드리운 고요한 기사단 연무장.
+포즈/표정: 목검을 건네다가 멈칫하여 유저의 손(카메라 밖)에 시선이 머문 구도. 놀라움에 푸른 눈동자가 커지고, 하얀 뺨에 확연한 홍조가 번짐.
+
+Plaintext
+[공통 참조 문구]
+"Please keep ONLY the character's facial features, long silver-ash hair with intricate side braids, vibrant blue eyes, and the elegant, disciplined anime art style from the reference image (player_r8_front.png). Do NOT copy the chibi style, the pose, holding the sword, or the background from the reference. Pay strict and careful attention to rendering hands, fingers, and toes perfectly and anatomically correct. Create a completely new pose, background, outfit, and facial expression matching the following medieval fantasy scenario:"
+Stage 4 intimacy in a medieval fantasy setting. Setting: A quiet stone training ground in a castle courtyard during a beautiful, glowing twilight. Outfit: A practical, slightly damp white linen training shirt and dark leather trousers. Pose: Pausing mid-motion while handing over a wooden practice sword, her perfectly drawn fingers hovering as if they just brushed the viewer's hand. Expression: Startled, heart-fluttering, with a sudden heavy blush spreading across her pale cheeks, losing her composed demeanor. (9:16 aspect ratio)
+
+[5단계] 벽난로 앞의 해제 (Fireside Solitude)
+컨셉: 눈보라를 피해 들어온 여관방. 젖은 머리를 말리며 갑옷을 벗고, 유저에게 무방비하게 등을 내어주는 따뜻한 밤.
+의상/장소: 두꺼운 제복을 벗고 편안한 짙은 파란색 니트 스웨터를 입은 모습. 장작불이 타오르는 아늑한 통나무 여관.
+포즈/표정: 벽난로 앞 의자에 앉아 한 손으로 은빛 머리칼을 등 뒤로 넘기며(머리를 묶기 위해) 어깨너머로 유저를 응시하는 구도. 나른하고 온전히 신뢰하는 눈빛.
+
+Plaintext
+[공통 참조 문구]
+"Please keep ONLY the character's facial features, long silver-ash hair with intricate side braids, vibrant blue eyes, and the elegant, disciplined anime art style from the reference image (player_r8_front.png). Do NOT copy the chibi style, the pose, holding the sword, or the background from the reference. Pay strict and careful attention to rendering hands, fingers, and toes perfectly and anatomically correct. Create a completely new pose, background, outfit, and facial expression matching the following medieval fantasy scenario:"
+Stage 5 intimacy in a medieval fantasy setting. Setting: A cozy, warm inn room lit by a crackling fireplace during a blizzard. Outfit: Uniform removed, wearing a soft, relaxed dark blue knitted sweater. Pose: Sitting on a wooden chair, gathering her long silver hair over one shoulder with perfectly drawn hands, looking back over her other shoulder at the viewer. Expression: Completely unguarded, soft, and deeply relaxed, showing immense comfort and absolute trust. (9:16 aspect ratio)
+
+[6단계] 오로라의 고백 (Auroral Confession)
+컨셉: 성의 가장 높은 발코니. 밤하늘의 오로라 아래서, 이성을 억누르지 못하고 자신의 심장 쪽으로 유저의 손을 이끄는 고백.
+의상/장소: 우아하고 차분한 은회색 이브닝 가운. 찬란한 녹색과 보라색 오로라가 펼쳐진 고성 발코니.
+포즈/표정: 유저의 손을 두 손으로 감싸 쥐고 자신의 뺨에 가져다 대며 눈을 살짝 내리깐 애틋한 포즈. 부끄러움에 붉어진 얼굴과 터질 듯 진지한 로맨틱함.
+
+Plaintext
+[공통 참조 문구]
+"Please keep ONLY the character's facial features, long silver-ash hair with intricate side braids, vibrant blue eyes, and the elegant, disciplined anime art style from the reference image (player_r8_front.png). Do NOT copy the chibi style, the pose, holding the sword, or the background from the reference. Pay strict and careful attention to rendering hands, fingers, and toes perfectly and anatomically correct. Create a completely new pose, background, outfit, and facial expression matching the following medieval fantasy scenario:"
+Stage 6 intimacy in a medieval fantasy setting. Setting: A high castle stone balcony under a spectacular, glowing aurora borealis night sky. Outfit: An elegant, flowing silver-grey evening gown that highlights her graceful figure. Pose: Standing close, gently holding the viewer's hand with both of her perfectly drawn hands, pressing it tenderly against her cheek. Expression: Unusually shy, blushing deeply, with half-lidded eyes showing intensely sincere, deeply loving, and passionate emotion. (9:16 aspect ratio)
+
+[7단계] 무기고의 틈새 (Armory Tension)
+💡 (필터 안전 우회 '쉿' 포즈 + 손가락 완벽 렌더링)
+컨셉: 순찰을 도는 동료 기사들을 피해 좁은 무기고 캐비닛/틈새에 유저와 밀착해 숨음. 차가운 금속 사이로 거친 숨결이 오가는 초밀착 텐션.
+의상/장소: 몸에 딱 붙는 어두운 색의 정찰 기동복. 차가운 강철 무기들이 진열된 몹시 비좁고 어두운 무기고 틈새.
+포즈/표정: 벽에 기대어 카메라(유저)와 초밀착한 상태에서, 입술에 검지를 대며 '쉿' 하는 하이앵글. 이성이 날아가 몹시 달아오른 얼굴과 촉촉해진 푸른 눈동자.
+
+Plaintext
+[공통 참조 문구]
+"Please keep ONLY the character's facial features, long silver-ash hair with intricate side braids, vibrant blue eyes, and the elegant, disciplined anime art style from the reference image (player_r8_front.png). Do NOT copy the chibi style, the pose, holding the sword, or the background from the reference. Pay strict and careful attention to rendering hands, fingers, and toes perfectly and anatomically correct. Create a completely new pose, background, outfit, and facial expression matching the following medieval fantasy scenario:"
+Stage 7 intimacy in a medieval fantasy setting. Setting: Hiding inside a very narrow, dark space between cold steel weapon racks in a castle armory, avoiding patrols. Outfit: Sleek, form-fitting dark navy stealth attire. Pose: A dramatic high-tension close-up shot, standing inches away from the viewer, placing her perfectly drawn index finger gently over her own lips in a 'shh' gesture. Expression: Pale cheeks heavily flushed from the intense physical closeness, wide vibrant blue eyes looking up with unspoken, overwhelming romantic tension. (9:16 aspect ratio)
+
+[8단계] 녹아내린 긍지 (Oversized Vulnerability) 👙
+💡 (요청 치트키: '오직 유저의 오버핏 셔츠 + 반측면 구도 + 무릎 꽉 끌어안기 + 정교한 손/발가락 묘사 지시'로 하의실종 물리 텐션 극대화)
+컨셉: 유저의 방. 항상 단정하던 기사단장이 제복을 벗고 오직 유저의 큰 셔츠만 빌려 입은 채, 수줍은 소녀처럼 유저를 올려다보는 도발적인 밤.
+의상/장소: 바지 없이 오직 유저의 헐렁한 흰색 수면 셔츠만 입음. 따뜻한 벽난로가 타오르는 아늑한 침실.
+포즈/표정: 카메라를 향해 살짝 몸을 튼 반측면 구도(Angled slightly towards the camera). 푹신한 러그 위에 앉아 두 무릎을 가슴까지 꽉 끌어올려 안고(맨다리와 완벽하게 묘사된 예쁜 발가락 노출) 올려다보는 자세. (셔츠가 팽팽하게 당겨짐). 짙은 애정과 부끄러움이 섞인 몽롱한 미소.
+
+Plaintext
+[공통 참조 문구]
+"Please keep ONLY the character's facial features, long silver-ash hair with intricate side braids, vibrant blue eyes, and the elegant, disciplined anime art style from the reference image (player_r8_front.png). Do NOT copy the chibi style, the pose, holding the sword, or the background from the reference. Pay strict and careful attention to rendering hands, fingers, and toes perfectly and anatomically correct. Create a completely new pose, background, outfit, and facial expression matching the following medieval fantasy scenario:"
+Stage 8 intimacy in a medieval fantasy setting. Setting: A cozy, warm, candle-lit private bedroom at night with a roaring fireplace. Outfit: Wearing an oversized, loose white linen button-up nightshirt clearly borrowed from the viewer. Pose: Angled slightly towards the camera. Sitting on a plush rug with her body turned partially towards the viewer, gently hugging her knees tightly to her chest with perfectly drawn hands, showing her bare legs and perfectly drawn toes, looking up directly at the camera. Expression: A deeply affectionate, heavily blushing smile, peeking up with intense affection and sweet, vulnerable trust. (9:16 aspect ratio)
+
+[9단계] 아찔한 아침의 무방비함 (Morning Camisole)
+💡 (요청 치트키: '흘러내린 실크 캐미솔 + 무릎 위 베개에 팔 기대기 + 상체를 숙인 자세 + 정교한 손가락'으로 꽁꽁 싸매지 않은 완벽한 무방비 텐션 연출)
+컨셉: 모든 것을 나눈 다음 날 아침. 차가웠던 은빛 머리칼이 흐트러진 채, 유저의 침대에서 완벽하게 경계를 풀고 나른하게 다가오는 시간.
+의상/장소: 어깨끈이 한쪽 살짝 흘러내린 얇고 부드러운 하얀색 실크 캐미솔. 눈부신 아침 햇살이 쏟아지는 크고 푹신한 침대 위.
+포즈/표정: 흐트러진 침대 위에 앉아, 무릎 위에 둔 푹신한 베개에 팔을 걸치고 유저(카메라) 쪽으로 상체를 살짝 숙인 구도(leaning forward slightly). 막 잠에서 깬 나른하고 뇌쇄적인 표정, 살짝 벌어진 입술과 붉어진 뺨.
+
+Plaintext
+[공통 참조 문구]
+"Please keep ONLY the character's facial features, long silver-ash hair with intricate side braids, vibrant blue eyes, and the elegant, disciplined anime art style from the reference image (player_r8_front.png). Do NOT copy the chibi style, the pose, holding the sword, or the background from the reference. Pay strict and careful attention to rendering hands, fingers, and toes perfectly and anatomically correct. Create a completely new pose, background, outfit, and facial expression matching the following medieval fantasy scenario:"
+Stage 9 intimacy in a medieval fantasy setting. Setting: A grand, plush bed bathed in warm, brilliant morning sunlight filtering through lace curtains. Outfit: A delicate, thin white silk camisole sleepwear with a loose wide neckline, slipping slightly off one bare shoulder. Pose: Angled slightly towards the camera. Sitting up in the messy bed, leaning forward slightly towards the viewer while resting her beautifully drawn arms and fingers casually on a soft pillow in her lap, showing a completely relaxed posture. Expression: A highly affectionate, slightly sleepy morning look, with a heavy blush, slightly parted lips, and a sweet, vulnerable gaze full of absolute trust and romantic tension. (9:16 aspect ratio)
+
+[10단계] 영원한 검의 서약 (Knight's Vow)
+💡 (불쾌한 골짜기 차단: 작위적인 웃음 대신, 벅찬 눈물과 애틋하고 다정한 미소 묘사)
+컨셉: 크리스털로 장식된 성당에서의 결혼식. 항상 감정을 억누르던 그녀가, 평생의 반려자 앞에서 기쁨의 눈물을 펑펑 흘리며 와락 안겨오는 프로포즈.
+의상/장소: 순백의 드레스에 네이비색 벨벳과 은빛 기사 장갑이 어우러진 '기사단장의 웨딩드레스'. 스테인드글라스 빛이 찬란하게 쏟아지는 웅장한 대성당.
+포즈/표정: 카메라(유저)를 향해 두 팔을 뻗으며 감격스럽게 달려와 와락 안기는 구도. 기쁨의 눈물을 뚝뚝 흘리며, 입을 너무 크게 벌리지 않고 세상에서 가장 다정하고 아름답게 짓는 환희의 미소.
+
+Plaintext
+[공통 참조 문구]
+"Please keep ONLY the character's facial features, long silver-ash hair with intricate side braids, vibrant blue eyes, and the elegant, disciplined anime art style from the reference image (player_r8_front.png). Do NOT copy the chibi style, the pose, holding the sword, or the background from the reference. Pay strict and careful attention to rendering hands, fingers, and toes perfectly and anatomically correct. Create a completely new pose, background, outfit, and facial expression matching the following medieval fantasy scenario:"
+Stage 10 final climax intimacy in a medieval fantasy setting. Setting: A majestic grand cathedral illuminated by brilliant, colorful light shining through massive stained-glass windows. Outfit: A spectacular "Royal Knight Bride" attire, combining a flowing white silk wedding gown with elegant navy-blue velvet accents and delicate silver gauntlets. Pose: Stepping forward dynamically with both arms outstretched for a massive, enthusiastic embrace, showing perfectly drawn hands. Expression: Pure bliss, crying soft tears of joy, a beautiful and natural warm smile with slightly parted lips, eyes shining with overwhelming affection and eternal love. (9:16 aspect ratio)

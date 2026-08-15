@@ -1,0 +1,107 @@
+🛡️ [모든 단계 공통 참조 문구] (반드시 복사해서 맨 앞에 붙여넣기)
+"Please keep ONLY the character's facial features, short messy silver hair with a side braid, emerald green eyes, steampunk goggles resting on her head, and the energetic, clever anime art style from the reference image (player_r6_front.png). Do NOT copy the chibi style, the pose, holding the weapon, or the background from the reference. Pay strict and careful attention to rendering hands, fingers, and toes perfectly and anatomically correct. Create a completely new pose, background, outfit, and facial expression matching the following medieval fantasy scenario:"
+
+🌹 천재 발명가의 심쿵 비행, 호감도 10단계 프롬프트
+[1단계] 날 선 기계공 (Clockwork Vigilance)
+컨셉: 그녀의 공방에서 첫 만남. 낯선 유저를 침입자로 오해하고 몽키스패너(혹은 기계장치)를 들고 경계하는 모습.
+의상/장소: 갈색 가죽 코트와 톱니바퀴 장식이 달린 스팀펑크 작업복. 황동 부품과 설계도가 가득한 어두운 기계 공방.
+포즈/표정: 작업대 뒤에 서서 발명품(기계)을 양손으로 꽉 쥐고 유저를 노려보는 구도. 차갑고 계산적이며 날카로운 눈빛.
+
+Plaintext
+[공통 참조 문구]
+"Please keep ONLY the character's facial features, short messy silver hair with a side braid, emerald green eyes, steampunk goggles resting on her head, and the energetic, clever anime art style from the reference image (player_r6_front.png). Do NOT copy the chibi style, the pose, holding the weapon, or the background from the reference. Pay strict and careful attention to rendering hands, fingers, and toes perfectly and anatomically correct. Create a completely new pose, background, outfit, and facial expression matching the following medieval fantasy scenario:"
+Stage 1 intimacy in a medieval fantasy setting. Setting: A dusty, dimly lit steampunk workshop filled with brass gears, tools, and blueprints. Outfit: A brown leather coat over a corseted inventor's outfit with tool belts. Pose: Standing defensively behind a wooden workbench, gripping a glowing brass gadget tightly with perfectly drawn hands. Expression: Sharp, suspicious, and highly vigilant, analyzing the viewer with cold green eyes. (9:16 aspect ratio)
+
+[2단계] 기름 묻은 신뢰 (Greasy Camaraderie)
+컨셉: 비행선 엔진을 함께 고친 후. 유저의 실력을 인정하며 공구를 툭 던져주는 털털한 전우애.
+의상/장소: 코트를 벗고 소매를 걷어붙인 프릴 블라우스. 햇살이 비치는 나무 비행선의 갑판.
+포즈/표정: 나무 상자 위에 걸터앉아, 유저를 향해 작은 톱니바퀴(Gear)를 가볍게 던지는 모션. 얼굴에 기름때가 살짝 묻은 채 짓는 자신만만한 미소.
+
+Plaintext
+[공통 참조 문구]
+"Please keep ONLY the character's facial features, short messy silver hair with a side braid, emerald green eyes, steampunk goggles resting on her head, and the energetic, clever anime art style from the reference image (player_r6_front.png). Do NOT copy the chibi style, the pose, holding the weapon, or the background from the reference. Pay strict and careful attention to rendering hands, fingers, and toes perfectly and anatomically correct. Create a completely new pose, background, outfit, and facial expression matching the following medieval fantasy scenario:"
+Stage 2 intimacy in a medieval fantasy setting. Setting: The sunny, breezy wooden deck of a docked steampunk airship. Outfit: Coat removed, wearing a white ruffled blouse with rolled-up sleeves, showing leather suspenders. Pose: Sitting casually on a wooden crate, playfully tossing a small brass gear toward the viewer. Expression: A clever, confident, and slightly cocky smirk, showing a smudge of engine grease on her cheek. (9:16 aspect ratio)
+
+[3단계] 발명가의 긍지 (Inventor's Pride)
+컨셉: 기계 도시의 광장에서 자신이 새로 발견한 동력석(크리스털)을 유저에게 신나게 자랑하는 시간.
+의상/장소: 톱니바퀴 장식이 달린 스포티하고 발랄한 평상복. 증기가 피어오르는 활기찬 기계 도시의 태엽 광장.
+포즈/표정: 상점 가판대에 상체를 쑥 내밀며, 손에 든 빛나는 크리스털을 가리키고 유저를 돌아보는 역동적인 구도. 세상에서 가장 신나고 호기심 가득한 웃음.
+
+Plaintext
+[공통 참조 문구]
+"Please keep ONLY the character's facial features, short messy silver hair with a side braid, emerald green eyes, steampunk goggles resting on her head, and the energetic, clever anime art style from the reference image (player_r6_front.png). Do NOT copy the chibi style, the pose, holding the weapon, or the background from the reference. Pay strict and careful attention to rendering hands, fingers, and toes perfectly and anatomically correct. Create a completely new pose, background, outfit, and facial expression matching the following medieval fantasy scenario:"
+Stage 3 intimacy in a medieval fantasy setting. Setting: A bustling, sunlit clockwork city market square with steam vents and brass architecture. Outfit: Sporty, casual inventor's tunic with a short pleated skirt and goggles on her head. Pose: Leaning forward excitedly over a stall, pointing at a shiny glowing crystal with one beautifully drawn hand, looking back at the viewer. Expression: Bright, enthusiastic, and bursting with proud, energetic joy. (9:16 aspect ratio)
+
+[4단계] 아찔한 비행 (Airship Slip)
+컨셉: 야간 비행 중 갑판 난간에 올라갔다가 삐끗하여 유저에게 손을 붙잡힌 찰나. 계산 밖의 스킨십에 고장 나버린 이성.
+의상/장소: 가벼운 비행용 가죽 재킷. 기계 도시의 야경이 내려다보이는 비행선 발코니.
+포즈/표정: 난간에서 미끄러지며 유저의 손(카메라 밖)을 반사적으로 꽉 쥔 포즈. 당황해서 눈망울이 커지고 홍조가 확 번짐.
+
+Plaintext
+[공통 참조 문구]
+"Please keep ONLY the character's facial features, short messy silver hair with a side braid, emerald green eyes, steampunk goggles resting on her head, and the energetic, clever anime art style from the reference image (player_r6_front.png). Do NOT copy the chibi style, the pose, holding the weapon, or the background from the reference. Pay strict and careful attention to rendering hands, fingers, and toes perfectly and anatomically correct. Create a completely new pose, background, outfit, and facial expression matching the following medieval fantasy scenario:"
+Stage 4 intimacy in a medieval fantasy setting. Setting: A high, breezy metal balcony on an airship overlooking a glowing steampunk city at night. Outfit: A sleek, dark leather aviator jacket over her usual clothes. Pose: Slipping slightly backward, grasping the viewer's unseen hand tightly with her perfectly drawn fingers for balance. Expression: Startled, eyes wide with a sudden, intense blush spreading across her cheeks, completely losing her usual calculated cool. (9:16 aspect ratio)
+
+[5단계] 빗속의 조종실 (Rainy Cockpit)
+컨셉: 폭우가 쏟아지는 비행선 조종실 안. 엔진 소리와 빗소리만 들리는 좁은 공간에서 평소의 허세를 풀고 유저에게 기대는 밤.
+의상/장소: 고글을 목에 걸치고 단추를 느슨하게 푼 리넨 셔츠. 빗방울이 부딪히는 둥근 유리창(Porthole)이 있는 조종실.
+포즈/표정: 낡은 가죽 소파에 양반다리를 하고 앉아, 수건으로 젖은 은발을 털다 말고 유저를 지그시 응시하는 구도. 한결 부드럽고 애틋해진 눈빛.
+
+Plaintext
+[공통 참조 문구]
+"Please keep ONLY the character's facial features, short messy silver hair with a side braid, emerald green eyes, steampunk goggles resting on her head, and the energetic, clever anime art style from the reference image (player_r6_front.png). Do NOT copy the chibi style, the pose, holding the weapon, or the background from the reference. Pay strict and careful attention to rendering hands, fingers, and toes perfectly and anatomically correct. Create a completely new pose, background, outfit, and facial expression matching the following medieval fantasy scenario:"
+Stage 5 intimacy in a medieval fantasy setting. Setting: Inside a cozy, dimly lit airship cockpit, with rain hitting the round glass porthole window. Outfit: Relaxed, unbuttoned white linen shirt, with her goggles resting around her neck instead of her head. Pose: Sitting cross-legged on a leather sofa, pausing while wiping engine grease off her perfectly drawn hands with a cloth. Expression: Soft, unguarded, and deeply relaxed, showing quiet, vulnerable affection. (9:16 aspect ratio)
+
+[6단계] 동력실의 고백 (Engine Room Whispers)
+컨셉: 마법 동력이 푸르게 빛나는 엔진실. 자신의 가장 은밀한 공간에서 유저의 손을 잡으며 수줍게 속마음을 고백함.
+의상/장소: 얇은 슬립 위에 두꺼운 갈색 코트를 툭 걸친 모습. 푸른빛이 몽환적으로 감도는 비행선 동력실.
+포즈/표정: 차가운 황동 난간에 등을 기대고, 유저의 손을 자신의 가슴 쪽으로 조심스레 끌어당기는 포즈. 쑥스러워 아랫입술을 꾹 깨문 진지한 로맨틱함.
+
+Plaintext
+[공통 참조 문구]
+"Please keep ONLY the character's facial features, short messy silver hair with a side braid, emerald green eyes, steampunk goggles resting on her head, and the energetic, clever anime art style from the reference image (player_r6_front.png). Do NOT copy the chibi style, the pose, holding the weapon, or the background from the reference. Pay strict and careful attention to rendering hands, fingers, and toes perfectly and anatomically correct. Create a completely new pose, background, outfit, and facial expression matching the following medieval fantasy scenario:"
+Stage 6 intimacy in a medieval fantasy setting. Setting: The glowing blue engine core room of a flying ship, bathed in soft, magical light and steam. Outfit: A delicate white sleep-shirt with her heavy brown leather coat thrown loosely over her shoulders. Pose: Leaning her back against a brass railing, reaching out to gently hold the viewer's hand with her perfectly drawn fingers, pressing it to her chest. Expression: Unusually shy and serious, biting her lower lip, with a deeply romantic, tender green gaze. (9:16 aspect ratio)
+
+[7단계] 숨 막히는 톱니바퀴 틈새 (Gear Shaft Tension)
+💡 (필터 안전 우회 '쉿' 포즈 적용)
+컨셉: 경비병을 피해 거대한 톱니바퀴들이 돌아가는 정비 통로(Shaft)에 함께 숨은 상황. 기계 소리보다 유저의 심장 소리가 더 크게 들리는 초밀착 텐션.
+의상/장소: 몸에 딱 붙는 어두운 색의 야간 기동복. 희미한 램프 불빛만 있는 몹시 좁고 뻑뻑한 톱니바퀴 틈새.
+포즈/표정: 벽에 기대어 카메라(유저)와 초밀착한 상태에서, 입술에 검지를 대며 '쉿' 하는 하이앵글 구도. 열기로 새빨개진 얼굴과 당황한 눈동자.
+
+Plaintext
+[공통 참조 문구]
+"Please keep ONLY the character's facial features, short messy silver hair with a side braid, emerald green eyes, steampunk goggles resting on her head, and the energetic, clever anime art style from the reference image (player_r6_front.png). Do NOT copy the chibi style, the pose, holding the weapon, or the background from the reference. Pay strict and careful attention to rendering hands, fingers, and toes perfectly and anatomically correct. Create a completely new pose, background, outfit, and facial expression matching the following medieval fantasy scenario:"
+Stage 7 intimacy in a medieval fantasy setting. Setting: Hiding inside a very narrow, dark maintenance shaft surrounded by giant, stationary brass gears. Outfit: Sleek, form-fitting dark stealth and mechanic gear. Pose: A dramatic high-tension close-up shot, standing inches away from the viewer, placing her perfectly drawn index finger gently over her own lips in a 'shh' gesture. Expression: Cheeks heavily flushed from the intense closeness, wide emerald eyes looking up with unspoken, overwhelming romantic tension. (9:16 aspect ratio)
+
+[8단계] 고장 난 이성 (Oversized Vulnerability) 👙
+💡 (완벽한 치트키 앵글: '오직 유저의 오버핏 셔츠 + 카메라를 향해 살짝 튼 반측면 + 무릎 꽉 끌어안기 + 정교한 손/발가락 묘사 지시'로 하의실종 텐션의 정점을 찍습니다.)
+컨셉: 유저의 선실. 샤워를 마치고 나온 천재 공학자가 오직 유저의 큰 셔츠만 빌려 입은 채, 얌전한 강아지처럼 무장해제된 도발적인 밤.
+의상/장소: 바지 없이 오직 유저의 헐렁한 흰색 수면 셔츠만 입음. 따뜻한 난로가 타오르는 아늑한 나무 선실.
+포즈/표정: 카메라를 향해 살짝 몸을 튼 반측면 구도. 푹신한 러그 위에 앉아 두 무릎을 가슴까지 꽉 끌어올려 안고(맨다리와 예쁜 발가락 노출) 올려다보는 자세. (셔츠가 팽팽하게 당겨져 아슬아슬한 텐션). 짙은 애정과 부끄러움이 섞인 몽롱한 미소.
+
+Plaintext
+[공통 참조 문구]
+"Please keep ONLY the character's facial features, short messy silver hair with a side braid, emerald green eyes, steampunk goggles resting on her head, and the energetic, clever anime art style from the reference image (player_r6_front.png). Do NOT copy the chibi style, the pose, holding the weapon, or the background from the reference. Pay strict and careful attention to rendering hands, fingers, and toes perfectly and anatomically correct. Create a completely new pose, background, outfit, and facial expression matching the following medieval fantasy scenario:"
+Stage 8 intimacy in a medieval fantasy setting. Setting: A cozy, warm, candle-lit private wooden cabin on the airship at night with a small fireplace. Outfit: Wearing an oversized, loose white linen button-up nightshirt clearly borrowed from the viewer. Pose: Angled slightly towards the camera. Sitting on a plush rug with her body turned partially towards the viewer, gently hugging her knees tightly to her chest with perfectly drawn hands, showing her bare legs and perfectly drawn toes, looking up directly at the camera. Expression: A deeply affectionate, heavily blushing smile, peeking up with intense affection and sweet, vulnerable trust. (9:16 aspect ratio)
+
+[9단계] 아찔한 아침의 무방비함 (Morning Camisole)
+💡 (저장된 9단계 치트키: '흘러내린 실크 캐미솔 + 무릎 위 베개에 팔 기대기 + 상체를 살짝 숙인 자세'로 필터를 속이면서 완벽한 무방비 텐션을 연출합니다.)
+컨셉: 모든 것을 나눈 다음 날 아침. 기계밖에 모르던 그녀가 유저의 침대에서 완벽하게 경계를 풀고 나른하게 기대어오는 시간.
+의상/장소: 어깨끈이 한쪽 살짝 흘러내린 얇고 부드러운 하얀색 실크 캐미솔. 눈부신 아침 햇살이 쏟아지는 크고 푹신한 침대 위.
+포즈/표정: 흐트러진 침대 위에 앉아, 무릎 위에 둔 푹신한 베개에 팔을 걸치고 유저(카메라) 쪽으로 상체를 살짝 숙인 구도. 막 잠에서 깬 나른하고 뇌쇄적인 표정, 살짝 벌어진 입술과 붉어진 뺨.
+
+Plaintext
+[공통 참조 문구]
+"Please keep ONLY the character's facial features, short messy silver hair with a side braid, emerald green eyes, steampunk goggles resting on her head, and the energetic, clever anime art style from the reference image (player_r6_front.png). Do NOT copy the chibi style, the pose, holding the weapon, or the background from the reference. Pay strict and careful attention to rendering hands, fingers, and toes perfectly and anatomically correct. Create a completely new pose, background, outfit, and facial expression matching the following medieval fantasy scenario:"
+Stage 9 intimacy in a medieval fantasy setting. Setting: A grand, plush bed bathed in warm, brilliant morning sunlight filtering through lace curtains. Outfit: A delicate, thin white silk camisole sleepwear with a loose wide neckline, slipping slightly off one bare shoulder. Pose: Angled slightly towards the camera. Sitting up in the messy bed, leaning forward slightly towards the viewer while resting her beautifully drawn arms casually on a soft pillow in her lap. Expression: A highly affectionate, slightly sleepy morning look, with a heavy blush, slightly parted lips, and a sweet, vulnerable gaze full of absolute trust and romantic tension. (9:16 aspect ratio)
+
+[10단계] 하늘 위의 서약 (Airship Vow)
+💡 (불쾌한 골짜기를 뺀 자연스럽고 벅찬 눈물의 미소 묘사 + 손 묘사 집중)
+컨셉: 구름 바다를 항해하는 비행선 선수(갑판 앞머리)에서의 결혼식. 스팀펑크풍의 유니크한 웨딩드레스를 입고 감격에 겨워 유저에게 안겨오는 프로포즈.
+의상/장소: 순백의 프릴 미니드레스에 황동 톱니바퀴와 가죽 부츠가 믹스된 '스팀펑크 신부' 룩. 일출 빛이 쏟아지는 구름 위 비행선 갑판.
+포즈/표정: 카메라(유저)를 향해 두 팔을 뻗으며 벅차게 달려와 와락 안기는 구도. 기쁨의 눈물을 뚝뚝 흘리며, 입을 너무 크게 벌리지 않고 세상에서 가장 아름답고 애틋하게 짓는 환희의 미소.
+
+Plaintext
+[공통 참조 문구]
+"Please keep ONLY the character's facial features, short messy silver hair with a side braid, emerald green eyes, steampunk goggles resting on her head, and the energetic, clever anime art style from the reference image (player_r6_front.png). Do NOT copy the chibi style, the pose, holding the weapon, or the background from the reference. Pay strict and careful attention to rendering hands, fingers, and toes perfectly and anatomically correct. Create a completely new pose, background, outfit, and facial expression matching the following medieval fantasy scenario:"
+Stage 10 final climax intimacy in a medieval fantasy setting. Setting: The front deck of a majestic wooden airship soaring above a sea of clouds during a breathtaking golden sunrise. Outfit: A spectacular "Steampunk Bride" attire, combining a brilliant white ruffled mini wedding dress with elegant brass gear accents and leather adventuring boots. Pose: Stepping forward dynamically with both arms outstretched for a massive, enthusiastic embrace, showing perfectly drawn hands. Expression: Pure bliss, crying soft tears of joy, a beautiful and natural warm smile with slightly parted lips, eyes shining with overwhelming affection and eternal love. (9:16 aspect ratio)

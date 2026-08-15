@@ -1,0 +1,107 @@
+🛡️ [모든 단계 공통 참조 문구] (반드시 복사해서 맨 앞에 붙여넣기)
+"Please keep ONLY the character's facial features, tan skin, messy silver-ash hair with a thick side braid, sharp teal-green eyes, and the tough, cynical anime art style from the reference image (player_r10_front.png). Do NOT copy the chibi style, the pose, holding the sword, or the background from the reference. Pay strict and careful attention to rendering hands, fingers, and toes perfectly and anatomically correct. Create a completely new pose, background, outfit, and facial expression matching the following medieval fantasy scenario:"
+
+🌹 시니컬한 떠돌이 용병의 융해, 호감도 10단계 프롬프트
+[1단계] 무법자의 주점 (Mercenary's Glare)
+컨셉: 연기가 자욱한 용병 주점에서의 첫 만남. 낯선 유저를 철저하게 경계하며 날 선 눈빛으로 쏘아보는 베테랑.
+의상/장소: 낡은 버건디 코트와 수많은 가죽 벨트를 찬 전투 복장. 담배 연기와 시끄러운 소음이 가득한 더러운 지하 주점.
+포즈/표정: 구석 나무 테이블에 비스듬히 기대어 앉아, 한 손으로 맥주잔을 쥔 채 턱을 치켜들고 유저를 쏘아보는 구도. 무표정하고 차가운, 사람을 불신하는 청록색 눈빛.
+
+Plaintext
+[공통 참조 문구]
+"Please keep ONLY the character's facial features, tan skin, messy silver-ash hair with a thick side braid, sharp teal-green eyes, and the tough, cynical anime art style from the reference image (player_r10_front.png). Do NOT copy the chibi style, the pose, holding the sword, or the background from the reference. Pay strict and careful attention to rendering hands, fingers, and toes perfectly and anatomically correct. Create a completely new pose, background, outfit, and facial expression matching the following medieval fantasy scenario:"
+Stage 1 intimacy in a medieval fantasy setting. Setting: A smoky, crowded, and dimly lit underground mercenary tavern. Outfit: Rugged veteran combat gear with a worn burgundy coat and multiple leather belts. Pose: Leaning back casually in a corner wooden chair, holding a wooden mug with perfectly drawn fingers, tilting her chin up slightly to glare at the viewer. Expression: Cynical, stoic, and highly guarded, analyzing the viewer with cold, untrusting teal-green eyes. (9:16 aspect ratio)
+
+[2단계] 거친 야영지 (Campfire Scars)
+컨셉: 험난한 의뢰 중 야영지. 함께 몬스터를 처치한 뒤, 자신의 단검을 유저에게 무심하게 던져주며 실력을 인정함.
+의상/장소: 무거운 코트를 벗어둔 거친 셔츠와 가죽 장갑. 몬스터의 뼈가 뒹구는 삭막한 밤의 야영지 모닥불 앞.
+포즈/표정: 바닥에 쩍 벌리고 편하게 앉아(manspreading casually), 단검의 손잡이를 유저 쪽으로 내밀어 건네는 역동적인 모션. 옅은 흥미가 도는 시니컬한 작은 미소.
+
+Plaintext
+[공통 참조 문구]
+"Please keep ONLY the character's facial features, tan skin, messy silver-ash hair with a thick side braid, sharp teal-green eyes, and the tough, cynical anime art style from the reference image (player_r10_front.png). Do NOT copy the chibi style, the pose, holding the sword, or the background from the reference. Pay strict and careful attention to rendering hands, fingers, and toes perfectly and anatomically correct. Create a completely new pose, background, outfit, and facial expression matching the following medieval fantasy scenario:"
+Stage 2 intimacy in a medieval fantasy setting. Setting: A desolate night campsite surrounded by rocky terrain and a crackling campfire. Outfit: Coat removed, wearing a practical, slightly torn white shirt and dark leather bracers. Pose: Sitting casually on a rock with legs spread slightly, tossing a small throwing knife toward the viewer by the handle with perfectly drawn hands. Expression: A slight, cynical smirk, showing a rough but genuine acknowledgment of the viewer's skills. (9:16 aspect ratio)
+
+[3단계] 전리품의 여유 (Bounty Pouch)
+컨셉: 의뢰 성공 후 보상금을 받은 날. 평소의 무뚝뚝함을 던져버리고 유저의 어깨를 툭 치며 호탕하게 웃는 단계.
+의상/장소: 단추를 몇 개 푼 편안한 붉은 튜닉. 맑은 하늘 아래 햇살이 비치는 활기찬 용병 길드 앞마당.
+포즈/표정: 묵직한 동전 주머니를 한 손으로 위아래로 튕기며(tossing a coin pouch), 유저를 돌아보고 시원하게 웃는 구도. 경계심이 완전히 사라진 쾌활한 표정.
+
+Plaintext
+[공통 참조 문구]
+"Please keep ONLY the character's facial features, tan skin, messy silver-ash hair with a thick side braid, sharp teal-green eyes, and the tough, cynical anime art style from the reference image (player_r10_front.png). Do NOT copy the chibi style, the pose, holding the sword, or the background from the reference. Pay strict and careful attention to rendering hands, fingers, and toes perfectly and anatomically correct. Create a completely new pose, background, outfit, and facial expression matching the following medieval fantasy scenario:"
+Stage 3 intimacy in a medieval fantasy setting. Setting: A bright, sunlit courtyard outside a bustling mercenary guild. Outfit: A relaxed red tunic with a few buttons undone and a green neck scarf. Pose: Tossing a heavy coin pouch in the air with one perfectly drawn hand, looking over her shoulder at the viewer. Expression: Genuine, carefree, and surprisingly bright, laughing out loud with comfortable camaraderie. (9:16 aspect ratio)
+
+[4단계] 폐허 속의 심쿵 (Ruin Slip)
+컨셉: 비가 내리는 고대 유적 탐험 중. 무너지는 바닥에서 발을 헛디뎌 유저에게 안기듯 구조된 찰나. 베테랑의 이성이 무너지는 순간.
+의상/장소: 비에 젖은 진흙투성이 탐험복. 빗물이 쏟아지는 어둡고 위험한 고대 사원 폐허.
+포즈/표정: 바닥이 꺼지며 반사적으로 유저의 팔뚝(카메라 밖)을 두 손으로 꽉 부여잡고 매달린 포즈. 공포와 설렘이 섞여 눈망울이 커지고 탠 스킨 위에 짙은 홍조가 번짐.
+
+Plaintext
+[공통 참조 문구]
+"Please keep ONLY the character's facial features, tan skin, messy silver-ash hair with a thick side braid, sharp teal-green eyes, and the tough, cynical anime art style from the reference image (player_r10_front.png). Do NOT copy the chibi style, the pose, holding the sword, or the background from the reference. Pay strict and careful attention to rendering hands, fingers, and toes perfectly and anatomically correct. Create a completely new pose, background, outfit, and facial expression matching the following medieval fantasy scenario:"
+Stage 4 intimacy in a medieval fantasy setting. Setting: A crumbling, ancient stone temple ruin during a heavy rainstorm. Outfit: Wet, muddy, and practical exploration gear. Pose: Slipping dramatically, grasping the viewer's unseen arm tightly with perfectly drawn hands to stop herself from falling. Expression: Shocked, eyes wide open, with a sudden heavy blush spreading across her tan skin, completely losing her usual tough composure. (9:16 aspect ratio)
+
+[5단계] 빗소리 섞인 치유 (Healing Silence)
+컨셉: 비를 피해 들어온 낡은 방. 상처를 치료해 주는 유저의 손길을 가만히 받으며, 평소의 날 선 가시를 거두고 온전히 기대는 시간.
+의상/장소: 상의를 가볍게 벗어 어깨에 붕대를 감은 편안한 차림. 촛불 하나만 켜진 고요하고 비 새는 여관방.
+포즈/표정: 침대에 걸터앉아 고개를 푹 숙인 채, 붕대를 감아주는 유저의 손길을 느끼며 힐끔 올려다보는 구도. 몹시 얌전해진, 부드럽고 애틋한 눈빛.
+
+Plaintext
+[공통 참조 문구]
+"Please keep ONLY the character's facial features, tan skin, messy silver-ash hair with a thick side braid, sharp teal-green eyes, and the tough, cynical anime art style from the reference image (player_r10_front.png). Do NOT copy the chibi style, the pose, holding the sword, or the background from the reference. Pay strict and careful attention to rendering hands, fingers, and toes perfectly and anatomically correct. Create a completely new pose, background, outfit, and facial expression matching the following medieval fantasy scenario:"
+Stage 5 intimacy in a medieval fantasy setting. Setting: A quiet, dimly lit, leaky inn room illuminated by a single candle while rain pours outside. Outfit: Heavy gear removed, wearing only a loose linen undershirt with a white bandage wrapped around her shoulder. Pose: Sitting on the edge of the bed, leaning forward slightly, letting the viewer tend to her wounds. Expression: Very soft, unguarded, and vulnerable, looking up at the viewer with quiet, deep affection. (9:16 aspect ratio)
+
+[6단계] 성벽 밖의 고백 (Vanguard's Vow)
+컨셉: 전투를 앞둔 밤, 성벽 높은 곳에서. 죽음을 넘나드는 용병이 처음으로 누군가를 잃을까 두려워하며 유저의 손을 잡는 진지한 고백.
+의상/장소: 밤바람을 막기 위한 두꺼운 회색 숄을 푹 둘러쓴 모습. 붉은 달이 떠 있는 서늘하고 높은 성벽 초소.
+포즈/표정: 차가운 돌벽에 등을 기대고, 유저의 손을 두 손으로 꽉 쥐어 자신의 뺨에 비비는 애달픈 포즈. 부끄러움과 절박함이 섞인 진지한 로맨틱함.
+
+Plaintext
+[공통 참조 문구]
+"Please keep ONLY the character's facial features, tan skin, messy silver-ash hair with a thick side braid, sharp teal-green eyes, and the tough, cynical anime art style from the reference image (player_r10_front.png). Do NOT copy the chibi style, the pose, holding the sword, or the background from the reference. Pay strict and careful attention to rendering hands, fingers, and toes perfectly and anatomically correct. Create a completely new pose, background, outfit, and facial expression matching the following medieval fantasy scenario:"
+Stage 6 intimacy in a medieval fantasy setting. Setting: A high, cold stone castle watchtower under a glowing red moon. Outfit: Wrapped tightly in a thick, worn grey wool shawl over her gear. Pose: Leaning her back against the stone wall, desperately holding the viewer's hand with both of her perfectly drawn hands, pressing it against her cheek. Expression: Unusually flushed, biting her lower lip, showing intensely sincere, desperate, and passionate romantic emotion. (9:16 aspect ratio)
+
+[7단계] 핏빛 골목의 틈새 (Alleyway Tension)
+💡 (필터 안전 우회 '쉿' 포즈 + 손가락 완벽 렌더링)
+컨셉: 암살자를 피해 어두운 빈민가 골목의 아주 비좁은 틈새에 숨음. 살기와 숨결이 섞이는 위험하고 아찔한 초밀착 텐션.
+의상/장소: 피가 살짝 튄 어두운 은밀 기동복. 달빛조차 들지 않는 몹시 좁고 습한 빈민가 골목 암전 구역.
+포즈/표정: 벽에 기대어 카메라(유저)와 초밀착한 상태에서, 입술에 검지를 대며 '쉿' 하는 하이앵글. 흥분과 긴장으로 새빨개진 얼굴과 흔들리는 청록색 눈동자.
+
+Plaintext
+[공통 참조 문구]
+"Please keep ONLY the character's facial features, tan skin, messy silver-ash hair with a thick side braid, sharp teal-green eyes, and the tough, cynical anime art style from the reference image (player_r10_front.png). Do NOT copy the chibi style, the pose, holding the sword, or the background from the reference. Pay strict and careful attention to rendering hands, fingers, and toes perfectly and anatomically correct. Create a completely new pose, background, outfit, and facial expression matching the following medieval fantasy scenario:"
+Stage 7 intimacy in a medieval fantasy setting. Setting: Hiding inside a extremely narrow, pitch-black gap between two stone buildings in a slum alleyway, avoiding assassins. Outfit: Sleek, form-fitting dark rogue attire with slight scuff marks. Pose: A dramatic high-tension close-up shot, standing inches away from the viewer, placing her perfectly drawn index finger over her own lips in a 'shh' gesture. Expression: Tan cheeks heavily flushed from the intense closeness and adrenaline, wide teal-green eyes looking up with unspoken, overwhelming romantic desire. (9:16 aspect ratio)
+
+[8단계] 해제된 무장 (Oversized Vulnerability) 👙
+💡 (요청 치트키: '오직 유저의 오버핏 셔츠 + 반측면 구도 + 무릎 꽉 끌어안기 + 정교한 손/발가락 묘사 지시'로 하의실종 물리 텐션 극대화)
+컨셉: 전투가 끝난 유저의 방. 거친 용병이 모든 무장을 해제하고 오직 유저의 큰 셔츠만 빌려 입은 채, 가장 무방비하고 도발적으로 올려다보는 밤.
+의상/장소: 바지 없이 오직 유저의 헐렁한 흰색 수면 셔츠만 입음. 따뜻한 벽난로가 타오르는 아늑한 침실.
+포즈/표정: 카메라를 향해 살짝 몸을 튼 반측면 구도(Angled slightly towards the camera). 푹신한 러그 위에 앉아 두 무릎을 가슴까지 꽉 끌어올려 안고(구릿빛 맨다리와 예쁜 발가락 노출) 올려다보는 자세. (셔츠가 팽팽하게 당겨짐). 짙은 애정과 부끄러움이 섞인 몽롱한 미소.
+
+Plaintext
+[공통 참조 문구]
+"Please keep ONLY the character's facial features, tan skin, messy silver-ash hair with a thick side braid, sharp teal-green eyes, and the tough, cynical anime art style from the reference image (player_r10_front.png). Do NOT copy the chibi style, the pose, holding the sword, or the background from the reference. Pay strict and careful attention to rendering hands, fingers, and toes perfectly and anatomically correct. Create a completely new pose, background, outfit, and facial expression matching the following medieval fantasy scenario:"
+Stage 8 intimacy in a medieval fantasy setting. Setting: A cozy, warm, candle-lit private bedroom at night with a roaring fireplace. Outfit: Wearing an oversized, loose white linen button-up nightshirt clearly borrowed from the viewer. Pose: Angled slightly towards the camera. Sitting on a plush rug with her body turned partially towards the viewer, gently hugging her knees tightly to her chest with perfectly drawn hands, showing her bare tan legs and perfectly drawn toes, looking up directly at the camera. Expression: A deeply affectionate, heavily blushing smile, peeking up with intense affection and sweet, vulnerable trust. (9:16 aspect ratio)
+
+[9단계] 아찔한 아침의 무방비함 (Morning Camisole)
+💡 (요청 치트키: '흘러내린 실크 캐미솔 + 무릎 위 베개에 팔 기대기 + 상체를 숙인 자세 + 정교한 손'으로 완벽한 무방비 텐션 연출)
+컨셉: 피비린내 나는 전장을 떠나 맞이한 평화로운 아침. 헝클어진 은빛 머리로 유저의 침대에서 완벽하게 경계를 풀고 나른하게 기대어오는 시간.
+의상/장소: 어깨끈이 한쪽 살짝 흘러내린 얇고 부드러운 하얀색 실크 캐미솔. 눈부신 아침 햇살이 쏟아지는 크고 푹신한 침대 위.
+포즈/표정: 흐트러진 침대 위에 앉아, 무릎 위에 둔 푹신한 베개에 팔을 걸치고 유저(카메라) 쪽으로 상체를 살짝 숙인 구도(leaning forward slightly). 막 잠에서 깬 나른하고 뇌쇄적인 표정, 살짝 벌어진 입술과 붉어진 뺨.
+
+Plaintext
+[공통 참조 문구]
+"Please keep ONLY the character's facial features, tan skin, messy silver-ash hair with a thick side braid, sharp teal-green eyes, and the tough, cynical anime art style from the reference image (player_r10_front.png). Do NOT copy the chibi style, the pose, holding the sword, or the background from the reference. Pay strict and careful attention to rendering hands, fingers, and toes perfectly and anatomically correct. Create a completely new pose, background, outfit, and facial expression matching the following medieval fantasy scenario:"
+Stage 9 intimacy in a medieval fantasy setting. Setting: A grand, plush bed bathed in warm, brilliant morning sunlight filtering through lace curtains. Outfit: A delicate, thin white silk camisole sleepwear with a loose wide neckline, slipping slightly off one bare shoulder. Pose: Angled slightly towards the camera. Sitting up in the messy bed, leaning forward slightly towards the viewer while resting her beautifully drawn arms and hands casually on a soft pillow in her lap, showing a completely relaxed morning posture. Expression: A highly affectionate, slightly sleepy morning look, with a heavy blush on her tan skin, slightly parted lips, and a sweet, vulnerable gaze full of absolute trust and romantic desire. (9:16 aspect ratio)
+
+[10단계] 피의 서약 대신 (Mercenary's Vow)
+💡 (불쾌한 골짜기 차단: 작위적인 웃음 대신, 벅찬 눈물과 애틋하고 다정한 미소 묘사 + 손 묘사 집중)
+컨셉: 전쟁이 끝난 후 아름다운 들판에서의 결혼식. 피 묻은 검을 버리고 화려한 드레스를 입은 그녀가, 평생의 반려자 앞에서 기쁨의 눈물을 펑펑 흘리며 와락 안겨오는 프로포즈.
+의상/장소: 순백의 드레스에 버건디 코트의 디테일과 가죽 부츠가 믹스된 '용병의 웨딩드레스'. 새들이 날아오르는 눈부신 일출의 야생화 들판.
+포즈/표정: 카메라(유저)를 향해 두 팔을 뻗으며 감격스럽게 달려와 와락 안기는 구도. 기쁨의 눈물을 뚝뚝 흘리며, 입을 너무 크게 벌리지 않고 세상에서 가장 다정하고 아름답게 짓는 환희의 미소.
+
+Plaintext
+[공통 참조 문구]
+"Please keep ONLY the character's facial features, tan skin, messy silver-ash hair with a thick side braid, sharp teal-green eyes, and the tough, cynical anime art style from the reference image (player_r10_front.png). Do NOT copy the chibi style, the pose, holding the sword, or the background from the reference. Pay strict and careful attention to rendering hands, fingers, and toes perfectly and anatomically correct. Create a completely new pose, background, outfit, and facial expression matching the following medieval fantasy scenario:"
+Stage 10 final climax intimacy in a medieval fantasy setting. Setting: A breathtaking field of wild blooming flowers under a glorious, bright sunrise. Outfit: A spectacular "Mercenary Bride" attire, combining a flowing white lace wedding dress with rugged burgundy leather accents and adventuring boots. Pose: Stepping forward dynamically with both arms outstretched for a massive, enthusiastic embrace, showing perfectly drawn hands. Expression: Pure bliss, crying soft tears of joy, a beautiful and natural warm smile with slightly parted lips, eyes shining with overwhelming affection and eternal love. (9:16 aspect ratio)

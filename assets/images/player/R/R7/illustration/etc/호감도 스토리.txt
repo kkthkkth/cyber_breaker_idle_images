@@ -1,0 +1,107 @@
+🛡️ [모든 단계 공통 참조 문구] (반드시 복사해서 맨 앞에 붙여넣기)
+"Please keep ONLY the character's facial features, dark skin tone, voluminous dark brown/black curly ponytail with small tribal braids and hair beads, intense golden eyes, and the energetic, fierce anime art style from the reference image (player_r7_front.png). Do NOT copy the chibi style, the pose, holding the machete, or the background from the reference. Pay strict and careful attention to rendering hands, fingers, and toes perfectly and anatomically correct. Create a completely new pose, background, outfit, and facial expression matching the following medieval fantasy scenario:"
+
+🌹 정글 여전사의 와일드한 순애, 호감도 10단계 프롬프트
+[1단계] 맹수의 탐색 (Jungle Vantage)
+컨셉: 밀림에 들어온 유저를 정글의 거대한 열대 나무 위에서 야수처럼 내려다보며 사냥감인지 동료인지 경계하는 첫 만남.
+의상/장소: 뼈 장식과 가죽으로 만든 부족 여전사 갑옷. 거대한 이끼와 열대 덩굴이 우거진 어두운 정글 나무 위.
+포즈/표정: 굵은 나뭇가지 위에 쪼그려 앉아 한 손으로 나뭇가지를 잡고 내려다보는 포즈. 정교하게 그려진 손가락, 맹수처럼 예리하고 호기심 어린 황금빛 눈빛.
+
+Plaintext
+[공통 참조 문구]
+"Please keep ONLY the character's facial features, dark skin tone, voluminous dark brown/black curly ponytail with small tribal braids and hair beads, intense golden eyes, and the energetic, fierce anime art style from the reference image (player_r7_front.png). Do NOT copy the chibi style, the pose, holding the machete, or the background from the reference. Pay strict and careful attention to rendering hands, fingers, and toes perfectly and anatomically correct. Create a completely new pose, background, outfit, and facial expression matching the following medieval fantasy scenario:"
+Stage 1 intimacy in a medieval fantasy setting. Setting: Deep inside a dense, misty tropical jungle, surrounded by giant mossy trees and glowing exotic flora. Outfit: Tribal warrior attire made of dark leather, bone ornaments, and a fur cape. Pose: Crouching agilely on a thick tree branch, holding onto a vine with one perfectly drawn hand, looking down at the camera. Expression: Fierce, wild, and highly vigilant, analyzing the viewer with sharp golden eyes. (9:16 aspect ratio)
+
+[2단계] 사냥감의 공유 (Wild Roast)
+컨셉: 첫 사냥을 마친 후. 모닥불 앞에서 고기를 크게 한 덩이 잘라 유저에게 무심하게 내밀며 경계를 허무는 단계.
+의상/장소: 어깨 망토를 벗은 가벼운 가죽 탑 차림. 은은한 모닥불이 타오르는 정글 속 작은 공터.
+포즈/표정: 쓰러진 거대한 바위 위에 한쪽 다리를 세우고 앉아, 꼬챙이에 꿴 사냥 고기를 유저 쪽으로 건네는 모션. 턱을 쓱 들며 짓는 자신만만한 털털한 미소.
+
+Plaintext
+[공통 참조 문구]
+"Please keep ONLY the character's facial features, dark skin tone, voluminous dark brown/black curly ponytail with small tribal braids and hair beads, intense golden eyes, and the energetic, fierce anime art style from the reference image (player_r7_front.png). Do NOT copy the chibi style, the pose, holding the machete, or the background from the reference. Pay strict and careful attention to rendering hands, fingers, and toes perfectly and anatomically correct. Create a completely new pose, background, outfit, and facial expression matching the following medieval fantasy scenario:"
+Stage 2 intimacy in a medieval fantasy setting. Setting: A jungle clearing at night under a warm, crackling campfire and starry sky. Outfit: Cape removed, wearing a rugged dark leather crop top and shorts. Pose: Sitting on a large flat stone with one knee raised, offering a roasted meat skewer toward the viewer with a perfectly drawn hand. Expression: A bold, cocky smirk, showing relaxed and wild camaraderie. (9:16 aspect ratio)
+
+[3단계] 폭포수 아래의 쉼 (Waterfall Laugh)
+컨셉: 뜨거운 사막/정글을 지나 웅장한 폭포를 발견. 시원하게 물보라를 맞으며 유저에게 물을 튀기고 신나하는 시간.
+의상/장소: 물에 젖은 편안한 부족 평상복. 에메랄드빛 물풀과 웅장한 폭포수가 쏟아지는 아름다운 오아시스 계곡.
+포즈/표정: 물속에 허벅지까지 담근 채 휙 돌아서며 유저 쪽으로 물을 손으로 튕기는 역동적인 구도. 세상에서 가장 신난 쾌활하고 호탕한 웃음.
+
+Plaintext
+[공통 참조 문구]
+"Please keep ONLY the character's facial features, dark skin tone, voluminous dark brown/black curly ponytail with small tribal braids and hair beads, intense golden eyes, and the energetic, fierce anime art style from the reference image (player_r7_front.png). Do NOT copy the chibi style, the pose, holding the machete, or the background from the reference. Pay strict and careful attention to rendering hands, fingers, and toes perfectly and anatomically correct. Create a completely new pose, background, outfit, and facial expression matching the following medieval fantasy scenario:"
+Stage 3 intimacy in a medieval fantasy setting. Setting: A breathtaking jungle waterfall basin with crystal-clear emerald water and sunbeams filtering through leaves. Outfit: Light, sporty tribal swimwear made of woven fabric. Pose: Standing in shallow water, splashing water playfully toward the viewer with her perfectly drawn hands and open palm. Expression: Wildly energetic, cheerful, and laughing out loud with uninhibited joy. (9:16 aspect ratio)
+
+[4단계] 달빛 벼랑의 시선 (Moonlit Cliffside)
+컨셉: 별빛이 쏟아지는 절벽 끝. 흩날리는 밤바람 속에 머리를 가다듬다 유저와 눈이 마주치고, 처음으로 여인으로서 수줍음을 느끼는 찰나.
+의상/장소: 가벼운 천이 덧대어진 우아한 부족 의상. 은하수가 퍼진 정글 절벽 끝의 고요한 공간.
+포즈/표정: 절벽 끝에 서서 한 손으로 바람에 흩날리는 곱슬 머리칼을 뒤로 넘기며 멈칫하는 구도. 커진 황금빛 눈동자와 다크 스킨 위로 진하게 번지는 홍조.
+
+Plaintext
+[공통 참조 문구]
+"Please keep ONLY the character's facial features, dark skin tone, voluminous dark brown/black curly ponytail with small tribal braids and hair beads, intense golden eyes, and the energetic, fierce anime art style from the reference image (player_r7_front.png). Do NOT copy the chibi style, the pose, holding the machete, or the background from the reference. Pay strict and careful attention to rendering hands, fingers, and toes perfectly and anatomically correct. Create a completely new pose, background, outfit, and facial expression matching the following medieval fantasy scenario:"
+Stage 4 intimacy in a medieval fantasy setting. Setting: A high jungle cliffside overlook during a brilliant, moonlit night with a visible galaxy above. Outfit: An elegant, flowing tropical dress with feather and gold thread accents. Pose: Standing profile view, gently touching her dark curly hair with perfectly drawn fingers as the night wind blows. Expression: Startled, heart-fluttering, with a heavy blush visible on her dark skin, looking back at the viewer with a shy, captivating gaze. (9:16 aspect ratio)
+
+[5단계] 와일드 오두막의 밤 (Tribe Hut Privacy)
+컨셉: 비바람을 피해 들어온 유목민/부족 오두막. 유저의 옆에 거리가 거의 없이 바짝 앉아 난로를 쬐는 친근함.
+의상/장소: 젖은 겉옷을 벗은 가벼운 리넨 튜닉 차림. 따뜻한 숯불이 타오르는 아늑한 나무 오두막 내부.
+포즈/표정: 바닥 양탄자에 편하게 앉아 상체를 유저(카메라) 쪽으로 바짝 기울이고 턱을 괸 구도. 야생성은 사라지고 무척 다정해진 시선.
+
+Plaintext
+[공통 참조 문구]
+"Please keep ONLY the character's facial features, dark skin tone, voluminous dark brown/black curly ponytail with small tribal braids and hair beads, intense golden eyes, and the energetic, fierce anime art style from the reference image (player_r7_front.png). Do NOT copy the chibi style, the pose, holding the machete, or the background from the reference. Pay strict and careful attention to rendering hands, fingers, and toes perfectly and anatomically correct. Create a completely new pose, background, outfit, and facial expression matching the following medieval fantasy scenario:"
+Stage 5 intimacy in a medieval fantasy setting. Setting: Inside a warm, dry tribal wooden hut with a glowing clay hearth and woven mats. Outfit: Heavy armor removed, wearing a soft, loose off-shoulder beige linen tunic. Pose: Sitting comfortably on a woven rug, leaning her body very close toward the viewer, resting her chin on her hand. Expression: Warm, unguarded, and deeply affectionate, looking up with complete trust. (9:16 aspect ratio)
+
+[6단계] 맹세의 정글 호수 (Midnight Lagoon)
+컨셉: 밤하늘 아래 푸른 빛을 내는 신비로운 정글 라군(Lagoon). 자신의 수호 부적을 유저의 손에 쥐여주며 확실하게 마음을 전함.
+의상/장소: 부드럽고 얇은 밤나무빛 실크 가운. 푸른 마법 이끼와 반딧불이가 춤추는 신비로운 정글 호수.
+포즈/표정: 호숫가에 서서 유저의 손(카메라 쪽)을 두 손으로 감싸 쥐고 자신의 가슴팍으로 지그시 끌어당기는 포즈. 몹시 부끄러워하며 짓는 애틋하고 진지한 로맨틱함.
+
+Plaintext
+[공통 참조 문구]
+"Please keep ONLY the character's facial features, dark skin tone, voluminous dark brown/black curly ponytail with small tribal braids and hair beads, intense golden eyes, and the energetic, fierce anime art style from the reference image (player_r7_front.png). Do NOT copy the chibi style, the pose, holding the machete, or the background from the reference. Pay strict and careful attention to rendering hands, fingers, and toes perfectly and anatomically correct. Create a completely new pose, background, outfit, and facial expression matching the following medieval fantasy scenario:"
+Stage 6 intimacy in a medieval fantasy setting. Setting: A tranquil, glowing blue bioluminescent jungle lagoon surrounded by dancing fireflies at night. Outfit: A delicate, sheer silk evening tunic fluttering gently in the breeze. Pose: Standing close, wrapping both of her perfectly drawn hands around the viewer's hand, pressing it against her heart. Expression: Unusually shy and flushed, but with an intensely sincere, deeply loving, and passionate gaze. (9:16 aspect ratio)
+
+[7단계] 숨 막히는 동굴 틈새 (Cave Crevice Tension)
+💡 (필터 안전 우회 '쉿' 포즈 적용)
+컨셉: 적들을 피해 동굴 벽의 비좁은 암벽 틈에 유저와 밀착해 숨은 상황. 거친 숨결이 닿는 거리에서 마비될 듯한 초밀착 텐션.
+의상/장소: 몸에 딱 붙는 어두운 가죽 은밀 기동복. 희미한 횃불 빛만 새어 들어오는 매우 좁고 축축한 동굴 틈.
+포즈/표정: 등에 바위가 닿은 채 카메라(유저)와 밀착한 상태에서, 입술에 검지 손가락을 대며 '쉿' 하는 하이앵글. 터질 듯 달아오른 얼굴과 당황한 눈동자.
+
+Plaintext
+[공통 참조 문구]
+"Please keep ONLY the character's facial features, dark skin tone, voluminous dark brown/black curly ponytail with small tribal braids and hair beads, intense golden eyes, and the energetic, fierce anime art style from the reference image (player_r7_front.png). Do NOT copy the chibi style, the pose, holding the machete, or the background from the reference. Pay strict and careful attention to rendering hands, fingers, and toes perfectly and anatomically correct. Create a completely new pose, background, outfit, and facial expression matching the following medieval fantasy scenario:"
+Stage 7 intimacy in a medieval fantasy setting. Setting: Hiding inside a extremely narrow, dark rock crevice inside a jungle cave, avoiding patrolling enemies. Outfit: Sleek, form-fitting dark leather rogue/stealth gear. Pose: A dramatic high-tension close-up shot, standing inches away from the viewer, placing her index finger gently over her own lips in a 'shh' gesture with a perfectly drawn hand. Expression: Cheeks heavily flushed from the intense closeness, wide golden eyes looking up with unspoken, overwhelming romantic tension. (9:16 aspect ratio)
+
+[8단계] 길들여진 맹수 (Oversized Vulnerability) 👙
+💡 (요청하신 완벽한 치트키 앵글: '오직 유저의 오버핏 셔츠 + 카메라를 향해 살짝 튼 45도 반측면 + 무릎 꽉 끌어안기 + 정교한 손/발가락 묘사 지시'로 하의실종/아슬아슬한 텐션 연출)
+컨셉: 모험 후 씻고 나온 정글 여전사가 가죽 옷 대신 오직 유저의 헐렁한 흰 셔츠만 입은 채, 난롯가에서 도발적이면서도 수줍게 유저를 바라보는 밤.
+의상/장소: 바지 없이 오직 유저의 헐렁한 흰색 수면 셔츠만 입음. 따뜻한 벽난로가 타오르는 아늑한 통나무 집.
+포즈/표정: 카메라를 향해 살짝 몸을 튼 45도 반측면 구도(Angled slightly towards the camera). 푹신한 양탄자 위에 앉아 두 무릎을 가슴까지 꽉 끌어올려 안고(맨다리와 완벽하게 묘사된 예쁜 발가락 노출) 올려다보는 자세. (셔츠가 당겨져 말려 올라간 물리적 텐션). 짙은 애정과 부끄러움이 섞인 미소.
+
+Plaintext
+[공통 참조 문구]
+"Please keep ONLY the character's facial features, dark skin tone, voluminous dark brown/black curly ponytail with small tribal braids and hair beads, intense golden eyes, and the energetic, fierce anime art style from the reference image (player_r7_front.png). Do NOT copy the chibi style, the pose, holding the machete, or the background from the reference. Pay strict and careful attention to rendering hands, fingers, and toes perfectly and anatomically correct. Create a completely new pose, background, outfit, and facial expression matching the following medieval fantasy scenario:"
+Stage 8 intimacy in a medieval fantasy setting. Setting: A cozy, warm, candle-lit private wooden cabin at night with a roaring fireplace. Outfit: Wearing an oversized, loose white linen button-up nightshirt clearly borrowed from the viewer. Pose: Angled slightly towards the camera. Sitting on a plush rug with her body turned partially towards the viewer, gently hugging her knees tightly to her chest with perfectly drawn hands, showing her bare dark legs and perfectly drawn toes, looking up directly at the camera. Expression: A deeply affectionate, heavily blushing smile, peeking up with intense affection and sweet, vulnerable trust. (9:16 aspect ratio)
+
+[9단계] 아찔한 아침의 무방비함 (Morning Camisole)
+💡 (저장된 9단계 치트키: '흘러내린 실크 캐미솔 + 무릎 위 베개에 팔 기대기 + 상체를 살짝 숙인 자세'로 완벽한 무방비 텐션을 연출합니다.)
+컨셉: 모든 것을 나눈 다음 날 아침. 야생의 여전사가 유저의 침대에서 완벽하게 경계를 풀고 나른한 애교를 부리는 시간.
+의상/장소: 어깨끈이 한쪽 살짝 흘러내린 얇고 부드러운 하얀색 실크 캐미솔. 눈부신 아침 햇살이 쏟아지는 크고 푹신한 침대 위.
+포즈/표정: 흐트러진 침대 위에 앉아, 무릎 위에 둔 푹신한 베개에 팔을 걸치고 유저(카메라) 쪽으로 상체를 살짝 숙인 구도(leaning forward slightly). 막 잠에서 깬 나른하고 뇌쇄적인 표정, 살짝 벌어진 입술과 붉어진 뺨.
+
+Plaintext
+[공통 참조 문구]
+"Please keep ONLY the character's facial features, dark skin tone, voluminous dark brown/black curly ponytail with small tribal braids and hair beads, intense golden eyes, and the energetic, fierce anime art style from the reference image (player_r7_front.png). Do NOT copy the chibi style, the pose, holding the machete, or the background from the reference. Pay strict and careful attention to rendering hands, fingers, and toes perfectly and anatomically correct. Create a completely new pose, background, outfit, and facial expression matching the following medieval fantasy scenario:"
+Stage 9 intimacy in a medieval fantasy setting. Setting: A grand, plush bed bathed in warm, brilliant morning sunlight filtering through lace curtains. Outfit: A delicate, thin white silk camisole sleepwear with a loose wide neckline, slipping slightly off one bare shoulder. Pose: Angled slightly towards the camera. Sitting up in the messy bed, leaning forward slightly towards the viewer while resting her beautifully drawn arms casually on a soft pillow in her lap, showing a completely relaxed, unguarded morning posture. Expression: A highly affectionate, slightly sleepy morning look, with a heavy blush, slightly parted lips, and a sweet, vulnerable gaze full of absolute trust and romantic tension. (9:16 aspect ratio)
+
+[10단계] 정글 여왕의 서약 (Tribal Queen's Vow)
+💡 (불쾌한 골짜기를 뺀 자연스럽고 벅찬 눈물의 미소 묘사 + 정교한 손 표현)
+컨셉: 부족의 구속에서 벗어나 오직 유저만을 자신의 수호자로 받아들이는 정글의 프로포즈. 화려한 이국적 웨딩드레스를 입고 유저에게 와락 안겨오는 순간.
+의상/장소: 순백의 실크에 금장 깃털 장식과 청록색 보석이 박힌 '부족 여왕' 웨딩드레스. 꽃잎이 날리는 햇살 가득한 정글 신전.
+포즈/표정: 카메라(유저)를 향해 두 팔을 뻗어 와락 안겨오는 역동적인 상체 구도. 기쁨의 눈물을 뚝뚝 흘리며, 입을 너무 크게 벌리지 않고 세상에서 가장 다정하고 아름답게 미소 짓는 환희의 얼굴.
+
+Plaintext
+[공통 참조 문구]
+"Please keep ONLY the character's facial features, dark skin tone, voluminous dark brown/black curly ponytail with small tribal braids and hair beads, intense golden eyes, and the energetic, fierce anime art style from the reference image (player_r7_front.png). Do NOT copy the chibi style, the pose, holding the machete, or the background from the reference. Pay strict and careful attention to rendering hands, fingers, and toes perfectly and anatomically correct. Create a completely new pose, background, outfit, and facial expression matching the following medieval fantasy scenario:"
+Stage 10 final climax intimacy in a medieval fantasy setting. Setting: A breathtaking jungle sun-temple at golden hour, with exotic tropical flower petals falling gracefully around. Outfit: A spectacular "Tribal Queen Bride" attire, combining flowing white silk with gold feather ornaments and exotic jewels. Pose: Stepping forward dynamically with both arms outstretched for a massive, enthusiastic embrace, showing perfectly drawn hands and fingers. Expression: Pure bliss, crying soft tears of joy, a beautiful and natural warm smile with slightly parted lips, eyes shining with overwhelming affection and eternal love. (9:16 aspect ratio)
